@@ -1,0 +1,672 @@
+bin/wiz/_set_attrib-^
+set_attrib - oberon cha 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon dex 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon luc 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon pie 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon ste 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon wil 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - meatstick str 33 by meatstick
+players/fred/closed/bloodfist/gob#4569-^
+set_attrib - meatstick str 36 by meatstick
+players/fred/closed/bloodfist/gob#4569-^
+players/guilds/warriors/gobj#6298-^
+players/guilds/warriors/gobj#3080-^
+players/guilds/warriors/gobj#4135-^
+players/guilds/warriors/gobj#4135-^
+players/guilds/warriors/gobj#452-^
+players/guilds/warriors/gobj#452-^
+players/wicket/guild/gob#5598-^
+players/wicket/guild/gob#5598-^
+players/wicket/guild/gob#5598-^
+players/wicket/guild/gob#5598-^
+players/wicket/guild/gob#5598-^
+players/wicket/guild/gob#5598-^
+set_attrib - dreadbane str 33 by dreadbane
+players/fred/closed/bloodfist/gob#8900-^
+set_attrib - mosh cha 5 by mosh
+room/pres_guild-^
+set_attrib - mosh int 5 by mosh
+room/pres_guild-^
+set_attrib - mosh mag 5 by mosh
+room/pres_guild-^
+set_attrib - mosh sta 5 by mosh
+room/pres_guild-^
+set_attrib - mosh str 5 by mosh
+room/pres_guild-^
+set_attrib - mosh dex 5 by mosh
+room/pres_guild-^
+set_attrib - mosh luc 5 by mosh
+room/pres_guild-^
+set_attrib - mosh pie 5 by mosh
+room/pres_guild-^
+set_attrib - mosh ste 5 by mosh
+room/pres_guild-^
+set_attrib - mosh wil 5 by mosh
+room/pres_guild-^
+set_attrib - darude str 36 by darude
+players/fred/closed/bloodfist/gob#1123-^
+set_attrib - darude cha 5 by darude
+room/pres_guild-^
+set_attrib - darude int 5 by darude
+room/pres_guild-^
+set_attrib - darude mag 5 by darude
+room/pres_guild-^
+set_attrib - darude sta 5 by darude
+room/pres_guild-^
+set_attrib - darude str 5 by darude
+room/pres_guild-^
+set_attrib - darude dex 5 by darude
+room/pres_guild-^
+set_attrib - darude luc 5 by darude
+room/pres_guild-^
+set_attrib - darude pie 5 by darude
+room/pres_guild-^
+set_attrib - darude ste 5 by darude
+room/pres_guild-^
+set_attrib - darude wil 5 by darude
+room/pres_guild-^
+players/wicket/guild/gob#4815-^
+players/wicket/guild/gob#4815-^
+set_attrib - darude mag 31 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 32 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 33 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 34 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 35 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - whitehawk cha 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk int 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk mag 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk sta 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk str 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk dex 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk luc 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk pie 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk ste 5 by whitehawk
+room/pres_guild-^
+set_attrib - whitehawk wil 5 by whitehawk
+room/pres_guild-^
+set_attrib - darude mag 36 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 37 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 38 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 39 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 40 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 41 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 42 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 43 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 44 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 45 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 46 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 47 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 48 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 49 by darude
+players/wicket/guild/hall/rooms/entrance-^
+set_attrib - darude mag 50 by darude
+players/wicket/guild/hall/rooms/entrance-^
+players/wicket/guild/gob#706-^
+players/wicket/guild/gob#706-^
+players/wicket/guild/gob#1941-^
+players/wicket/guild/gob#1941-^
+set_attrib - darude mag 50 by darude
+players/wicket/guild/hall/rooms/entrance-^
+players/wicket/guild/gob#3023-^
+players/wicket/guild/gob#3023-^
+set_attrib - moso str 35 by moso
+players/fred/closed/bloodfist/gob#5350-^
+set_attrib - mosh cha 5 by mosh
+room/pres_guild-^
+set_attrib - mosh int 5 by mosh
+room/pres_guild-^
+set_attrib - mosh mag 5 by mosh
+room/pres_guild-^
+set_attrib - mosh sta 5 by mosh
+room/pres_guild-^
+set_attrib - mosh str 5 by mosh
+room/pres_guild-^
+set_attrib - mosh dex 5 by mosh
+room/pres_guild-^
+set_attrib - mosh luc 5 by mosh
+room/pres_guild-^
+set_attrib - mosh pie 5 by mosh
+room/pres_guild-^
+set_attrib - mosh ste 5 by mosh
+room/pres_guild-^
+set_attrib - mosh wil 5 by mosh
+room/pres_guild-^
+set_attrib - oberon mag 30 by oberon
+bin/wiz/_set_attrib-^
+players/guilds/dervish/gob#3352-^
+set_attrib - oberon str 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon sta 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon luc 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon pie 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon ste 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon cha 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - darude cha 5 by darude
+room/pres_guild-^
+set_attrib - darude int 5 by darude
+room/pres_guild-^
+set_attrib - darude mag 5 by darude
+room/pres_guild-^
+set_attrib - darude sta 5 by darude
+room/pres_guild-^
+set_attrib - darude str 5 by darude
+room/pres_guild-^
+set_attrib - darude dex 5 by darude
+room/pres_guild-^
+set_attrib - darude luc 5 by darude
+room/pres_guild-^
+set_attrib - darude pie 5 by darude
+room/pres_guild-^
+set_attrib - darude ste 5 by darude
+room/pres_guild-^
+set_attrib - darude wil 5 by darude
+room/pres_guild-^
+set_attrib - dragnar mag 12 by dragnar
+players/boltar/templar/in#4782-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+players/shinshi/closed/rogue/gob2#4288-^
+players/shinshi/closed/rogue/gob2#4288-^
+players/shinshi/closed/rogue/gob2#468-^
+set_attrib - moonbeam sta 12 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam int 6 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam mag 8 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam str 14 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam ste 10 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam sta 14 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam int 1 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam mag 7 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam str 15 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam ste 7 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam sta 12 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam int 6 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam mag 8 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam str 14 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam ste 10 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam sta 12 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam int 6 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam mag 8 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam str 14 by moonbeam
+players/mizan/closed/poly/PDM-^
+set_attrib - moonbeam ste 10 by moonbeam
+players/mizan/closed/poly/PDM-^
+players/vertebraker/guilds/samurai/gob#7390-^
+players/vertebraker/guilds/samurai/gob#7390-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+players/vertebraker/guilds/samurai/gob#6649-^
+players/vertebraker/guilds/samurai/gob#6649-^
+players/vertebraker/guilds/samurai/gob#6649-^
+players/vertebraker/guilds/samurai/gob#6649-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - darude cha 5 by darude
+room/pres_guild-^
+set_attrib - darude int 5 by darude
+room/pres_guild-^
+set_attrib - darude mag 5 by darude
+room/pres_guild-^
+set_attrib - darude sta 5 by darude
+room/pres_guild-^
+set_attrib - darude str 5 by darude
+room/pres_guild-^
+set_attrib - darude dex 5 by darude
+room/pres_guild-^
+set_attrib - darude luc 5 by darude
+room/pres_guild-^
+set_attrib - darude pie 5 by darude
+room/pres_guild-^
+set_attrib - darude ste 5 by darude
+room/pres_guild-^
+set_attrib - darude wil 5 by darude
+room/pres_guild-^
+players/saber/closed/bards/bardrooms/mountain_q-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+players/vertebraker/guilds/samurai/gob#2586-^
+players/vertebraker/guilds/samurai/gob#2586-^
+players/vertebraker/guilds/samurai/gob#2586-^
+set_attrib - joab cha 5 by joab
+room/pres_guild-^
+set_attrib - joab int 5 by joab
+room/pres_guild-^
+set_attrib - joab mag 5 by joab
+room/pres_guild-^
+set_attrib - joab sta 5 by joab
+room/pres_guild-^
+set_attrib - joab str 5 by joab
+room/pres_guild-^
+set_attrib - joab dex 5 by joab
+room/pres_guild-^
+set_attrib - joab luc 5 by joab
+room/pres_guild-^
+set_attrib - joab pie 5 by joab
+room/pres_guild-^
+set_attrib - joab ste 5 by joab
+room/pres_guild-^
+set_attrib - joab wil 5 by joab
+room/pres_guild-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - oberon dex 1000 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - amphibian sta 47 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 1 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 1 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 32 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 18 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan sta 100134 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan int 12 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan mag 10030 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan str 1000030 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan ste 20000000 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan sta 100134 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan int 12 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan mag 10030 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan str 1000030 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan ste 20000000 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan sta 100134 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan int 12 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan mag 10030 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan str 1000030 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - mizan ste 20000000 by mizan
+players/mizan/closed/poly/PDM-^
+set_attrib - oberon dex 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon str 5 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon str 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon str 20 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon int 5 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon str 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon int 29 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - oberon int 30 by oberon
+bin/wiz/_set_attrib-^
+set_attrib - darude cha 5 by darude
+room/pres_guild-^
+set_attrib - darude int 5 by darude
+room/pres_guild-^
+set_attrib - darude mag 5 by darude
+room/pres_guild-^
+set_attrib - darude sta 5 by darude
+room/pres_guild-^
+set_attrib - darude str 5 by darude
+room/pres_guild-^
+set_attrib - darude dex 5 by darude
+room/pres_guild-^
+set_attrib - darude luc 5 by darude
+room/pres_guild-^
+set_attrib - darude pie 5 by darude
+room/pres_guild-^
+set_attrib - darude ste 5 by darude
+room/pres_guild-^
+set_attrib - darude wil 5 by darude
+room/pres_guild-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+players/saber/closed/new_mini/spell-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian sta 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian int 10 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian mag 23 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian str 27 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - amphibian ste 21 by amphibian
+players/mizan/closed/poly/PDM-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+set_attrib - trpsprngr sta 30 by trpsprngr
+players/mizan/closed/poly/PDM-^
+set_attrib - trpsprngr int 20 by trpsprngr
+players/mizan/closed/poly/PDM-^
+set_attrib - trpsprngr mag 30 by trpsprngr
+players/mizan/closed/poly/PDM-^
+set_attrib - trpsprngr str 30 by trpsprngr
+players/mizan/closed/poly/PDM-^
+set_attrib - trpsprngr ste 30 by trpsprngr
+players/mizan/closed/poly/PDM-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+set_attrib - dragnar str 23 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#3242-^
+set_attrib - dragnar sta 23 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#3242-^
+set_attrib - dragnar wil 13 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#3242-^
+set_attrib - dragnar str 21 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#3242-^
+set_attrib - dragnar sta 21 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#3242-^
+set_attrib - dragnar wil 11 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#3242-^
+set_attrib - darude cha 5 by darude
+room/pres_guild-^
+set_attrib - darude int 5 by darude
+room/pres_guild-^
+set_attrib - darude mag 5 by darude
+room/pres_guild-^
+set_attrib - darude sta 5 by darude
+room/pres_guild-^
+set_attrib - darude str 5 by darude
+room/pres_guild-^
+set_attrib - darude dex 5 by darude
+room/pres_guild-^
+set_attrib - darude luc 5 by darude
+room/pres_guild-^
+set_attrib - darude pie 5 by darude
+room/pres_guild-^
+set_attrib - darude ste 5 by darude
+room/pres_guild-^
+set_attrib - darude wil 5 by darude
+room/pres_guild-^
+set_attrib - dragnar str 8 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#4479-^
+set_attrib - dragnar sta 8 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#4479-^
+set_attrib - dragnar wil 3 by dragnar
+players/eurale/VAMPIRES/OBJ/vampire_bite#4479-^

@@ -1,0 +1,33 @@
+no_clean 0
+short_desc "A small ornate [1mwakizashi[0m tied around the waist[0m"
+long_desc "A ornate [1;30mhandle[0m has [1;30mblack[0m and [1;31mred[0m wrappings around, meeting a [33mcopper/gold[0m hilt. The sheath is a dark [1;30mblack leather case[0m, inscribed with unknown [1;36mrunes[0m and [31msymbols[0m. [0mType 'clan_help' for commands."
+info 0
+save_flag 0
+value 0
+local_weight 1
+drop_flag 0
+name "clan_object"
+alias_name "wakizashi"
+read_msg 0
+shop_dest_flag 0
+multipleIds ({})
+clan_long "A ornate [1;30mhandle[0m has [1;30mblack[0m and [1;31mred[0m wrappings around, meeting a [33mcopper/gold[0m hilt. The sheath is a dark [1;30mblack leather case[0m, inscribed with unknown [1;36mrunes[0m and [31msymbols[0m. [0mType 'clan_help' for commands."
+clan_short "A small ornate [1mwakizashi[0m tied around the waist[0m"
+damage_type "poison"
+hall_path "/room/lanceroad3"
+object_name "wakizashi"
+owner "samael"
+spell_alias "wakizashi"
+spell_mess_me "With lighting speed, you pull your %bold%wakizashi%normal% placing it deep into %AKN%'s side, causing him to %hi red%B L E E D%normal% profusly from the side."
+spell_mess_room "With lighting speed, %TPN% pulls his %bold%wakizashi%normal% placing it deep into %AKN%'s side, causing him to %hi red%B L E E D%normal% profusly from the side."
+spell_mess_them "With lighting speed, %TPN% pulls their %bold%wakizashi%normal% placing it deep into your side, causing you to %hi red%B  L  E  E  D%normal% profusly from your side. You instantly feel weaker the %hi red%blood%normal% drains from you."
+abilities ({})
+chan_history 0
+leaders ({})
+join_type 0
+private_coffer 180000
+public_coffer 0
+spell_delay 10
+spell_id 1
+spell_cost 80
+last_spell_time 1489330006

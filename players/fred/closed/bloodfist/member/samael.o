@@ -1,0 +1,42 @@
+beats 208117
+attribs ({80,100,80,100,100,40,})
+guild_level 8
+guild_exp 4055579
+attrib_exp 7038464
+attrib_lvl 51
+free_attribs 10
+trial_to_do 0
+ready_to_advance 0
+chosen_current 3
+chosen_max 3
+chosen_weps ({"players/snow/closed/test/elem_sword","players/snow/WEAPONS/hon_sword","players/forbin/realms/salam/OBJ/neruumsh",0,})
+chosen_weps_exp ({780516,570396,450736,0,})
+chosen_weps_lvl ({10,10,10,0,})
+stance 4
+a_c 1
+f_s 0
+a_s 0
+f_m 1
+h_m 1
+test_char 0
+max_dur 3
+endurance 566
+max_endurance 709
+endurance_percent 25
+honor_potential 20
+chan_muff 0
+gtitle 0
+inmsg "Samael opens his eyes and enters the world."
+outmsg "Samael closes his eyes and leaves the world."
+dodge_chance 7
+studied ({"players/angel/area/stargate/npc/corporal","players/angel/area/stargate/npc/sergeant","players/dragnar/WalkingDead/mons/walker","players/angel/area/nox/npc/ohper","players/wocket/mushrooms/nonge","players/maledicta/cont/ltown/mobs/lguard","players/pestilence/club/mob/desire","players/catt/NPC/TEM_master_hunter",0,0,0,0,0,0,0,})
+study_num 8
+total_deaths 4
+dh_base 0
+old_exp 41128379
+guild_age 1489335310
+free_gems 0
+stored_gems 23
+gems ({"2 10 0","2 9 0","3 14 0","2 12 0","2 8 0","2 4 0","2 3 0","3 9 0","1 10 0","2 16 0","2 15 0","2 13 0","3 8 0","2 11 0","2 19 0","2 18 0","2 2 0","2 4 0","2 18 0","2 21 0","3 15 0","3 3 0","2 19 0",0,"3 10 0",})
+pk_names ({})
+pk_nums ({})

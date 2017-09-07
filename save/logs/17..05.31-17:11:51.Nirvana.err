@@ -1,0 +1,41 @@
+2017.04.30 16:59:56 [erq] Amylaar ERQ Apr  7 2011: Path 'erq', debuglevel 0
+2017.05.01 01:53:27 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.03 20:34:10 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.04 03:13:33 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.05 04:45:05 players/boltar/things/cop.c line 65: Warning: Missing 'return <value>' statement.
+2017.05.05 16:41:17 room/adv_inner3.c line 8: Too few arguments to move_object.
+2017.05.05 16:41:17 Error in loading object: 'room/adv_inner3'.
+2017.05.06 10:46:51 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.07 19:00:11 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.08 00:33:30 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.09 16:34:28 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.10 03:40:11 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.16 10:47:38 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.17 02:20:11 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.17 23:26:52 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.18 02:47:11 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.19 21:00:32 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.20 02:33:52 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.21 15:13:58 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.22 12:20:32 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.22 14:33:52 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.22 21:13:52 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.23 02:47:12 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.23 23:54:00 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.25 11:27:15 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.26 20:47:12 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.27 00:07:12 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.27 06:47:12 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.27 22:20:32 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.29 05:27:13 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.29 15:27:22 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.30 11:27:12 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.31 05:13:52 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.31 11:54:05 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.31 15:14:14 Failed to load file: 'players/ulath/crap/sofa'.
+2017.05.31 17:11:51 [erq] read: EOF
+2017.05.31 17:11:51 [erq] Read 0, should be 9!
+2017.05.31 17:11:51 [erq] Giving up.
+2017.05.31 17:11:51 [erq] read: EOF
+2017.05.31 17:11:51 [erq] read 0, should be 9!
+2017.05.31 17:11:51 [erq] Subserver giving up.

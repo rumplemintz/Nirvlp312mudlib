@@ -1,0 +1,21 @@
+/players/oberon/amber/city/mob/
+-------------------------------
+gateguard
+  - coins are too high, stats are good enough for level 20 however but
+    level drives coins. Coins must consider gear, sword/shield push him
+    over 1500.
+guardboss
+  - Level could be as high as 20. Could be 21 or 22 if you bump up the wc.
+    Coins ok now.
+shop keepers
+  - Raise the level so guild spells will indicate difficulty
+
+/players/oberon/amber/city/obj
+------------------------------
+heal     - Value has to be divided by the # charges, generic_heal multiplies the value * charges
+healx    - Fix value
+fountain - Remove the random image, unless you are going to do something with it before the quest is ready?
+rop      - Should it store? Maybe lower cost and make it not store? Let's chat.
+
+Notes:
+- Update your castle so I can verify it works.

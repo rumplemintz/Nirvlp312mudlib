@@ -1,0 +1,5 @@
+messages "gizmo**Subj: Keep EntranceCc: noneDate: Aug 22 09:20Touch Stone is the command to enter the Keep door. **"
+new_mail 1
+line_length 0
+level 0
+channel_block 0

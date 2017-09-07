@@ -1,0 +1,9 @@
+2017.03.30 16:58:05 [erq] Amylaar ERQ Apr  7 2011: Path 'erq', debuglevel 0
+2017.03.30 16:58:05 obj/player.c line 4881: Warning: Missing 'return <value>' statement before end of line.
+2017.03.30 16:58:08 inherit/container.c line 403: Warning: Missing 'return <value>' statement.
+2017.03.31 19:00:24 [erq] read: EOF
+2017.03.31 19:00:24 [erq] Read 0, should be 9!
+2017.03.31 19:00:24 [erq] Giving up.
+2017.03.31 19:00:24 [erq] read: EOF
+2017.03.31 19:00:24 [erq] read 0, should be 9!
+2017.03.31 19:00:24 [erq] Subserver giving up.

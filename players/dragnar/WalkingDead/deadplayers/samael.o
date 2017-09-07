@@ -1,0 +1,15 @@
+level 19
+ex_level 44
+height_ft 6
+height_in 6
+player_weight 275
+player_killing 0
+gender "male"
+title ",[2;37;0m the Legendary Bloodfist Warrior[2;37;0m"
+pretitle "[1;37mHatamoto[0m[0m"
+race "angel"
+player_name "samael"
+clan_name "shogunate"
+description 0
+al_title "[31mBloodMaster[2;37;0m"
+extra_look ({0,"Samael has gruesome [41;1m[1;33mWalker guts[0;0m slung over his shoulders","Samael has a small [1;33mgold star[0;0m tattoo on his inside right ankle","[31m~ [0m[34mEle[0m[32mmen[0m[1mtal Wa[0m[32mrri[0m[34mor[0m[31m ~[0m","Samael has a scar in the shape of an X in the palm of his left hand.Samael has eight deep scars running along his left arm.Samael has 1 weapon sheathed on his back",})

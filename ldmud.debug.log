@@ -1,0 +1,73 @@
+2017.08.26 09:54:43 LDMud 3.3.720 (Build 3010) (stable)
+2017.08.26 09:54:43 TLS: (OpenSSL) Keyfile 'key.pem', Certfile 'cert.pem'
+2017.08.26 09:54:43 TLS: Error setting x509 keyfile:
+2017.08.26 09:54:43 TLS: SSL error:02001002:system library:fopen:No such file or directory.
+2017.08.26 09:54:43 TLS: SSL error:20074002:BIO routines:FILE_CTRL:system lib.
+2017.08.26 09:54:43 TLS: SSL error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib.
+2017.08.26 09:54:43 mySQL 5.5.54
+2017.08.26 09:54:43 Attempting to start erq '/home/petebre/mymud/lp312/mudbin/erq'.
+2017.08.26 09:54:43 Hostname 'loafy' address '174.137.154.70'
+2017.08.26 09:54:43 UDP recv-socket requested for port: 3507
+2017.08.26 09:54:48 LDMud ready for users.
+2017.08.26 11:56:30 Missing 'return <value>' statement.
+2017.08.26 11:56:30 program: players/vertebraker/misc/mage/mage.c, object: players/vertebraker/misc/mage/mage#226 line 559
+2017.08.28 00:19:22 Error in loading object: 'players/vertebraker/castle/new/n0'.
+2017.08.28 00:19:22 program: obj/living.c, object: players/vertebraker/misc/mage/mage#226 line 251
+'move_heh_heh_heh' in 'players/vertebraker/misc/mage/mage.c' ('players/vertebraker/misc/mage/mage#226') line 565
+'    random_move' in '       obj/monster.c' ('players/vertebraker/misc/mage/mage#226') line 172
+'           move' in 'players/vertebraker/closed/std/room.c' ('players/vertebraker/castle/new/vortex') line 81
+'           move' in '         room/room.c' ('players/vertebraker/castle/new/vortex') line 313
+'    move_player' in '        obj/living.c' ('players/vertebraker/misc/mage/mage#226') line 251
+2017.08.28 00:19:22 Error in call out.
+2017.08.29 04:11:32 Missing 'return <value>' statement.
+2017.08.29 04:11:32 program: obj/go_player.c, object: obj/go_player#151 line 132
+2017.08.29 19:08:26 Index for [] out of bounds: 50, vector size: 50
+2017.08.29 19:08:26 program: obj/wiz_bull_board.c, object: obj/wiz_bull_board#3100 line 74
+'          reset' in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') line 13
+'          reset' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 116
+'    random_move' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 171
+'          south' in '    room/adv_guild.c' ('      room/adv_guild') line 344
+'    move_player' in '        obj/living.c' ('players/boltar/things/cop#2446') line 251
+<lambda 0x8a5f429> in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') offset 9
+' _move_hook_fun' in '        obj/master.c' ('          obj/master') line 763
+'           init' in 'obj/wiz_bull_board.c' ('obj/wiz_bull_board#3100') line 74
+2017.08.29 19:08:26 Error in process_objects().
+2017.08.29 22:41:13 Error in loading object: 'room/adv_inner3'.
+2017.08.29 22:41:13 program: obj/living.c, object: players/boltar/things/cop#2446 line 251
+'          reset' in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') line 13
+'          reset' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 116
+'    random_move' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 169
+'           move' in '         room/room.c' ('      room/adv_inner') line 313
+'    move_player' in '        obj/living.c' ('players/boltar/things/cop#2446') line 251
+2017.08.29 22:41:13 Error in process_objects().
+2017.08.30 02:11:34 Index for [] out of bounds: 30, vector size: 30
+2017.08.30 02:11:34 program: obj/wiz_bull_board2.c, object: obj/wiz_bull_board2#3339 line 71
+'          reset' in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') line 13
+'          reset' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 116
+'    random_move' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 171
+'           move' in '         room/room.c' ('      room/adv_inner') line 313
+'    move_player' in '        obj/living.c' ('players/boltar/things/cop#2446') line 251
+<lambda 0x8a5f429> in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') offset 9
+' _move_hook_fun' in '        obj/master.c' ('          obj/master') line 763
+'           init' in 'obj/wiz_bull_board2.c' ('obj/wiz_bull_board2#3339') line 71
+2017.08.30 02:11:34 Error in process_objects().
+2017.08.30 20:01:28 Index for [] out of bounds: 50, vector size: 50
+2017.08.30 20:01:28 program: obj/wiz_bull_board.c, object: obj/wiz_bull_board#4029 line 74
+'          reset' in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') line 13
+'          reset' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 116
+'    random_move' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 172
+'           move' in '         room/room.c' ('     room/adv_inner2') line 313
+'    move_player' in '        obj/living.c' ('players/boltar/things/cop#2446') line 251
+<lambda 0x8a5f429> in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') offset 9
+' _move_hook_fun' in '        obj/master.c' ('          obj/master') line 763
+'           init' in 'obj/wiz_bull_board.c' ('obj/wiz_bull_board#4029') line 74
+2017.08.30 20:01:28 Error in process_objects().
+2017.08.30 20:41:00 Error in loading object: 'room/adv_inner3'.
+2017.08.30 20:41:00 program: obj/living.c, object: players/boltar/things/cop#2446 line 251
+'          reset' in 'players/boltar/things/cop.c' ('players/boltar/things/cop#2446') line 13
+'          reset' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 116
+'    random_move' in '       obj/monster.c' ('players/boltar/things/cop#2446') line 169
+'           move' in '         room/room.c' ('      room/adv_inner') line 313
+'    move_player' in '        obj/living.c' ('players/boltar/things/cop#2446') line 251
+2017.08.30 20:41:00 Error in process_objects().
+2017.08.30 20:42:44 Error (104) upon reading socket 8 (ip 0x8f2c960 'obj/player#4050'), closing connection: Connection reset by peer

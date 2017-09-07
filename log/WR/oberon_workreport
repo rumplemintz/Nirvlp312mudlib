@@ -1,0 +1,17 @@
+[May  4 2015 21:55] A: Registered Test Character: Obe
+[Jun 16 2015 14:59] A: Changed Chett's login home from Shardack guild hall to the Green.
+[Aug 21 2015 22:58] A: mixed windows... dropped it all.
+[Jul 18 2016 16:47] A: Registered Test Character: Obee
+[Aug 10 2016 15:18] A: Darude picked up an empty bag of Repeat's by mistake and sold it for 250 gold. He dropped the gold at green.
+[Jan 21 2017 18:31] A: Restored 1,250,000 gold to whitehawk's bank due to prestige guild restore errors.
+[Jan 21 2017 18:31] A: Also, fixed whitehawk's guild restore.
+[Mar 31 2017 11:07] A: Registered Test Character: Meatstick
+[Jun 29 2017 11:13] A: Added a check to /players/vertebraker/obj/hanzo_sword weapon_hit() to stop it bugging
+[Jul 14 2017 11:19] A: Changed clan drone rooms to no_clean
+[Jul 19 2017 11:56] A: Restored Obi to Joab, due to equip bug when idling out at reboot.
+[Aug 22 2017 17:40] A: Added new Adventure Store within Amber (/players/oberon/amber/city/rooms/shop_misc)
+[Aug 23 2017 09:38] A: Added wiz command: 'new <object in inv>'. Updates the object's file, and re-clones the object.
+[Aug 26 2017 11:24] A: Added alias "driver" to Elf's 'A small elven screw driver' for ease of newbies.
+[Aug 26 2017 11:35] A: Fixed /players/pavlik/guild/mages/room/blood_bank.c to check for mageobj before using.
+[Aug 27 2017 10:05] A: Fixed typo of "inqsuisitively" in emote 'iarch'
+[Sep  3 2017 16:50] A: Due to feed back from Gizmo, slightly boosted vampire wolf. Changes noted in vamp_wolf.c

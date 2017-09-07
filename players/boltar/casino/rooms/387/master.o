@@ -1,0 +1,11 @@
+room_number 387
+inv_no 17
+done 1
+shield 0
+floor 3
+seg 4
+hit_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+miss_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+locker_arg ({"0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"jaster",0,0,"jaster",0,"2",0,0,0,0,})
+filename ({"players/feldegast/equip/scarab","players/zeus/museum/OBJ/gem","players/snow/closed/test/cloak","players/vertebraker/guilds/samurai/armor/mempo","players/vertebraker/guilds/samurai/armor/bu-tsu","players/vertebraker/guilds/samurai/armor/nishiki","players/vertebraker/guilds/samurai/armor/kote","players/vertebraker/guilds/samurai/armor/obi","players/vertebraker/guilds/samurai/armor/hakama","players/vertebraker/guilds/samurai/armor/udewa","players/vertebraker/guilds/samurai/armor/shikoro","players/vertebraker/guilds/samurai/armor/sode","players/vertebraker/guilds/samurai/armor/mabisashi","players/vertebraker/guilds/samurai/armor/kabuto","players/vertebraker/guilds/samurai/armor/do","players/angel/area/school/obj/flow_scarf_01","players/vertebraker/swamp/OBJ/denim_shorts","none","none","none","none",0,0,0,0,0,0,0,0,0,})
+lighton 1

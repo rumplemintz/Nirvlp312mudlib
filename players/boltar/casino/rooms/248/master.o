@@ -1,0 +1,11 @@
+room_number 248
+inv_no 4
+done 1
+shield 1
+floor 2
+seg 2
+hit_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+miss_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+locker_arg ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+filename ({"players/arrina/armor/sveil","players/jareel/weapons/orlanth/fiona_sword","players/vertebraker/guilds/samurai/armor/mabisashi","players/forbin/realms/flame_forest/OBJ/juju","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none",0,0,0,0,0,0,0,0,0,})
+lighton 1

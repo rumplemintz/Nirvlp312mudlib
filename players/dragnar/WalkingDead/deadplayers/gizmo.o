@@ -1,0 +1,15 @@
+level 19
+ex_level 17
+height_ft 6
+height_in 1
+player_weight 205
+player_killing 0
+gender "male"
+title "the [1;37mCuddly[0m [1;31mDEMON[0m [1;37m[ [1;31mLAW[0m [1;37m][0m[0m"
+pretitle 0
+race "Mogwai"
+player_name "gizmo"
+clan_name "daemon"
+description "dances with the devil in the pale moonlight. "
+al_title "white lord"
+extra_look ({0,"Gizmo has gruesome [41;1m[1;33mWalker guts[0;0m slung over his shoulders","[31m~ [0m[34mEle[0m[32mmen[0m[1mtal Wa[0m[32mrri[0m[34mor[0m[31m ~[0m","[1;30mGizmo has slain [1;31m0[0;0m[1;30m, died [0;0m[0;0m[1;31m0[1;30m times, and has [0;0m[0;0m[1;31m0[0;0m[1;30m PK points, dedicated to his god, Shardak[0;0m[0;0m","Gizmo has a small [1;33mgold star[0;0m tattoo on his inside right ankle","Gizmo has the Mark of Shardak carved into his right hand",})

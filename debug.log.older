@@ -1,0 +1,101 @@
+Bad argument 1 to call_other()
+Current object was players/angel/area/stargate/npc/corporal#1628, line 250
+"heart_beat" in "obj/monster.c" ("players/angel/area/stargate/npc/corporal#1628") line 348
+"attack" in "obj/monster.c" ("players/angel/area/stargate/npc/corporal#1628") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/corporal#1628") line 2040
+error when executing program in destroyed object players/angel/area/stargate/npc/corporal#1628
+Heart beat in players/angel/area/stargate/npc/corporal#1628 turned off.
+Error in loading object
+Current object was players/rumplemintz/closed/staff#4347, line 18
+"command_hook" in "players/rumplemintz/closed/staff.c" ("players/rumplemintz/closed/staff#4347") line 53
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 73
+"find_time" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4537") line 51
+"shout_two" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4537") line 114
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Error in call out.
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 136
+"find_time" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4540") line 52
+"shout_two" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4540") line 115
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Error in call out.
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 145
+"settest" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4548") line 82
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 145
+"find_time" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4548") line 52
+"shout_two" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4548") line 124
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Error in call out.
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 145
+"settest" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4550") line 82
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 145
+"find_time" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4550") line 52
+"shout_two" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4550") line 124
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Error in call out.
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 147
+"settest" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4554") line 82
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 147
+"find_time" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4554") line 52
+"shout_two" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower#4554") line 122
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Error in call out.
+Bad argument 1 to keys()
+Current object was obj/simul_efun, line 201
+"find_time" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower") line 52
+"shout_two" in "players/rumplemintz/obj/clock_tower.c" ("players/rumplemintz/obj/clock_tower") line 122
+"member" in "obj/simul_efun/m_efuns.c" ("obj/simul_efun") line 62
+Error in call out.
+Too deep recursion.
+Current object was players/angel/area/nox/npc/fenri#2368, line 20
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#5501") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#5501") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#5501") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f01") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#5501") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#2670") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#2670") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#2670") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f01") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#2670") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#1586") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#1586") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#1586") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f01") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#1586") line 251
+"init" in "obj/monster" ("players/angel/area/nox/npc/fenri#1586") line 637
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4513") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4513") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4513") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4513") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#1577") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#1577") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#1577") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#1577") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4250") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4250") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4250") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4250") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#3607") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#3607") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#3607") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#3607") line 251
+"init" in "obj/monster" ("players/angel/area/nox/npc/fenri#3607") line 637
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#2368") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#2368") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#2368") line 1305
+Error in look_for_objects_to_swap.

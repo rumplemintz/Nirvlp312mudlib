@@ -1,0 +1,26 @@
+Bad argument 1 to call_other()
+Current object was players/angel/area/stargate/npc/mitchell#2754, line 8
+"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/mitchell#2754") line 348
+"attack" in "obj/monster" ("players/angel/area/stargate/npc/mitchell#2754") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/mitchell#2754") line 2040
+error when executing program in destroyed object players/angel/area/stargate/npc/mitchell#2754
+Heart beat in players/angel/area/stargate/npc/mitchell#2754 turned off.
+Error in loading object
+Current object was obj/player#2764, line 125
+"cmd_hook" in "obj/player.c" ("obj/player#2764") line 3402
+"::cmd_hook" in "obj/user/cmd_hook.c" ("obj/player#2764") line 57
+Error in loading object
+Current object was obj/player#2616, line 125
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+Error in loading object
+Current object was obj/player#2616, line 125
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+Error in loading object
+Current object was obj/player#2616, line 126
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324

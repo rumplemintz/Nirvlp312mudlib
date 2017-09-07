@@ -1,0 +1,11 @@
+room_number 212
+inv_no 1
+done 1
+shield 1
+floor 2
+seg 1
+hit_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+miss_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+locker_arg ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"--5--",0,"2",0,"2",0,0,0,0,0,})
+filename ({"players/jareel/armor/cratermaker/solaris/ArchMageRing2","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none","none",0,0,0,0,0,0,0,0,0,})
+lighton 1

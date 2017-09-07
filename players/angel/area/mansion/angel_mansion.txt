@@ -1,0 +1,68 @@
+/players/angel/area/mansion/obj
+-------------------------------
+hirams_key       - ok
+hscript          - ok since it is given only from quest completion, correct?
+/***Heal will not be for sale and I changed value to 0, so plavers cannot get gold***/
+/***reward heal only***/
+masonic_pin      - ok
+masonic_ring     - ok
+masonic_saber_01 * wc 16 ok Increase the value to reflect new wc.
+masonic_sword_01 - ok
+sign_03          - ok
+swatter          - ok Description implies you could spank people with it. Would be
+                   fun and easy to add some emotes from it. 
+                   /**Changed to swat and added an action**/
+                   
+trowl            * This is my bad. I thought a trowl would be a weapon, so I 
+                   suggested changing type to a dagger.  Change it back since
+                   it is armor lol
+
+/*******Changed Saber value to 1000 and the trowl is a wep, who knows what I was doing
+ as I coded the whole area in one week over spring break.  I fixed the code as a weapon********/           
+                   
+/players/angel/area/mansion/npc
+-------------------------------
+ashley    - lev19 4000g ok
+beatty    - lev19 4000g ok
+          - Fix description "Knight of the Sun" /*****This is the actual Title*****/
+chef      - lev11 50+r(17)g ok
+entered_apprentice_01
+          - lev17 2100g ok
+fly       - Lev1 ok
+gardener  - ok - lowered gold a touch to make him legal
+hiatt     - lev19 4000g ok
+
+/***********Made changes to both Hiram and Hiram_02***********/
+
+hiram_02  * lev22 7000g + sword & ring + heals. Value is still out of line. I'm fine
+            with the sword and ring being rewards for the quest, but the value of the
+            gold and the heals has to be in the build rules.
+          * set_ac_bonus set_wc_bonus set_hp_bonus are still being set, which
+            inflates xp value.
+          * If you follow suggestion below (hiram) on increasing level, another "special"
+            ability will be needed besides corpse grab.
+hiram     - lev30 45,000g
+          * Hiram is not a mob that requires a full party to kill, so max level is 29.
+          - Suggestion, move all gold to hiram_02 so player has to kill both to get reward.
+            If you want the payout to be 45k move all gold to hiram_02 and raise 2nd mob to 
+            be level 24.
+          - Suggestion, have hiram_02 attack player when it is cloned.
+maggie    - lev10 425g ok
+maid      - lev8 330g ok
+mayor_ray - lev24 3000g
+          * Requires 2 special abilities. /****Added***/
+mcclurd   - lev19 4000g ok
+          - "Kight of Sword"/*****This is the actual Title*****/
+mccoy     - lev19 2500g ok
+meyers    - lev19 4000g ok
+morgan    - lev19 4000g ok
+prep_cook - lev8 330g ok
+
+         
+Notes:
+-------------------------------
+You should randomize the gold a bit more in the future.
+
+One easy way to do random is use !random. If you want 25% you would do
+if( !random(4) )
+random 4 will be 0,1,2,or 3. ! means when it is 0. So it has 1 in 4 chance.

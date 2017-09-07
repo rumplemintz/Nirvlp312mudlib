@@ -1,0 +1,14 @@
+guild_exp 5365
+beats 578
+percent 80
+endurance 37
+max_endurance 37
+special_title 0
+weave 0
+endurance_monitor 1
+posendcol "[32m"
+negendcol "[1;31m"
+norm "[0;0m"
+old_exp 21771423
+custom_monitor "$G$<)HP:$N$$HG$#hps#$N$/#mhp# SP:$HM$#sps#$N$/#msp# I:$HB$#intox#$N$% F:$HC$#stu#$N$% S:$HY$#soa#$N$% I:#inf#% xpNext:[#nexp#]$G$(<$N$ [AHP $HR$#ahp#$N$]"
+Skills ({"focus",})

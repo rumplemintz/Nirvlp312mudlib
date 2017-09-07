@@ -1,0 +1,15 @@
+level 6
+ex_level 0
+height_ft 5
+height_in 6
+player_weight 155
+player_killing 0
+gender "female"
+title "the charming siren"
+pretitle 0
+race "human"
+player_name "cassini"
+clan_name "cassini"
+description 0
+al_title "neutral"
+extra_look ({0,"Cassini has an [1;31mexperience blessing [0;0mcast upon them","Cassini has a small [1;33mgold star[0;0m tattoo on her inside right ankle",})

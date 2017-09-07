@@ -1,0 +1,36 @@
+no_exit_display 0
+no_clean 1
+cast_here 0
+dest_dir ({"/players/mokri/clans/daemon/hall/r6","north",})
+short_desc "Clan Hall - locker room"
+long_desc "generic clan hall locker room."
+items 0
+property ({"NT","NT","NT",})
+no_castle_flag 0
+no_exits 0
+custom_exits 0
+numbers 0
+call_out_func 0
+call_out_int 0
+call_out_int_rand 0
+odors_msg 0
+feels_msg 0
+sounds_msg 0
+tastes_msg 0
+ExitMsgs 0
+smells 0
+listens 0
+tastes 0
+touchs 0
+msgs 0
+objects 0
+msg_count 0
+hb 0
+search_count 0
+no_teleport 1
+pk 0
+spar 0
+no_magic 0
+no_fight 0
+light_level 0
+Items ({"Whirling -[1;31mX[0m- Vortex","/players/jaraxle/3rd/alt/items/holding_orb","0",0,0,"Hand of [34mAsclepius[0m","/players/jaraxle/3rd/alt/items/healing_orb",0,0,0,"Hand of [34mAsclepius[0m","/players/jaraxle/3rd/alt/items/healing_orb",0,0,0,"Hockey Skates","/players/jenny/wings/items/tedskates",0,0,0,"[34mWind Shield[0;0m","/players/jareel/armor/orlanthi_wind_lord_shield",0,0,0,"[1mShield of Justice[0;0m","/players/sami/area/coinarea/obj/armor/ammshield",0,0,0,"Hockey Skates","/players/jenny/wings/items/tedskates",0,0,0,"[32mWarpstone[0;0m[1;30m Amulet[0;0m","/players/khrell/armors/skaven/warpamulet",0,0,0,"Hockey Skates","/players/jenny/wings/items/tedskates",0,0,0,"Shamanic [34mboxer shorts[0m","/players/vertebraker/swamp/OBJ/denim_shorts",0,0,0,})

@@ -1,0 +1,11 @@
+room_number 240
+inv_no 13
+done 1
+shield 1
+floor 2
+seg 2
+hit_val ({0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+miss_val ({0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+locker_arg ({"1",0,0,0,0,0,0,0,0,0,0,0,0,0,"1",0,0,"51","&Strength&2892",0,0,0,0,0,0,0,"1",0,0,0,})
+filename ({"players/saber/armor/aura","players/jareel/armor/humakt/humakt_necklace","players/vertebraker/swamp/OBJ/denim_shorts","players/valen/area/catacombs/armors/d_belt","players/pavlik/armor/storm_cloak","players/emerson/armor/hat","players/jenny/wings/items/skates","players/maledicta/cont/ltown/objects/dshield","players/jareel/armor/DWARFFORGE/demon/ring","players/tallos/7tigers/objects/dragon_legs","players/wicket/tv/looney/armor/herospandex","players/jenny/wings/items/gstick","players/jenny/wings/items/sblocker","none","none","none","none","none","none",0,0,0,0,0,0,0,0,0,0,0,})
+lighton 1

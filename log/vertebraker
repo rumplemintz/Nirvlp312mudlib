@@ -1,0 +1,23 @@
+Thu Oct 13 23:17:20 2016: players/vertebraker/guilds/samurai/bin/_spike.c line 41:syntax error
+Thu Oct 13 23:17:20 2016: players/vertebraker/guilds/samurai/bin/_spike.c line 45:syntax error
+Thu Oct 13 23:17:20 2016: players/vertebraker/guilds/samurai/bin/_spike.c line 46:Illegal LHS
+Thu Oct 13 23:17:58 2016: players/vertebraker/guilds/samurai/bin/_spike.c line 45:syntax error
+Thu Oct 13 23:17:58 2016: players/vertebraker/guilds/samurai/bin/_spike.c line 46:Illegal LHS
+Fri Jan 20 11:33:12 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 154:Variable ob not declared !
+Fri Jan 20 11:33:12 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 204:Variable ob not declared !
+Fri Jan 20 11:33:12 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 205:Variable ob not declared !
+Fri Jan 20 11:33:12 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 206:Variable ob not declared !
+Fri Jan 20 11:33:12 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 209:Variable ob not declared !
+Fri Jan 20 11:33:12 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 223:Variable ob not declared !
+Fri Jan 20 11:37:24 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 209:Variable ob not declared !
+Fri Jan 20 11:37:24 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 223:Variable ob not declared !
+Fri Jan 20 11:37:24 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 227:Variable ob not declared !
+Fri Jan 20 11:37:24 2017: players/vertebraker/guilds/samurai/obj/paimei.c line 228:Variable ob not declared !
+Tue Feb 14 11:14:00 2017: players/vertebraker/guilds/samurai/bin/_fireblade.c line 17:Variable mygob not declared !
+Sun Feb 26 10:19:46 2017: players/vertebraker/guilds/samurai/gob.c line 173:syntax error
+Sun Feb 26 10:19:46 2017: players/vertebraker/guilds/samurai/gob.c line 176:Illegal LHS
+Sun Feb 26 10:19:46 2017: players/vertebraker/guilds/samurai/gob.c line 178:Illegal LHS
+Sun Feb 26 10:19:46 2017: players/vertebraker/guilds/samurai/gob.c line 182:Illegal LHS
+Sun Feb 26 10:19:46 2017: players/vertebraker/guilds/samurai/gob.c line 182:syntax error
+Sun Feb 26 10:19:46 2017: players/vertebraker/guilds/samurai/gob.c line 184:Illegal LHS
+players/vertebraker/castle/new/n0.c line 45: function not defined by inheritance as specified

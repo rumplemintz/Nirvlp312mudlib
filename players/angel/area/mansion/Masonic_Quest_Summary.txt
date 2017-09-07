@@ -1,0 +1,80 @@
+
+                 Mansonic Quest
+                        
+The quest is in /players/angel/area/mansion
+
+Physical Challenge: 10    Mental Challenege: 8
+
+I have added the following to my castle
+
+ if(!present("masonic_quest",find_object("room/quest_room.c"))) {
+        qob = clone_object("obj/quest_obj");
+        call_other(qob,"set_name","masonic quest");
+        call_other(qob,"set_hint","Search out Mayor Ray through the Stargate\n"+
+                                               "to solve the Masonic Quest.\n");
+        move_object(qob,"room/quest_room");}
+
+        
+This is for the Masonic Quest. Mayor Ray is a mason and it is simple step to
+make a Masonic Quest following the Mason lore. In this area it is important
+search nouns in rooms for additional information. The quest hint will be to
+search out Mayor Ray through the stargate to solve the masonic quest. When you
+ask mayor ray about the quest he will say:
+
+"    An order of European Knights amassed a huge amount of
+priceless treasure. It was brought to the United States and
+hidden by the Founding Fathers after the Revolutionary War. The
+Masons hid the treasure in a secret location to keep it out of
+the hands of the British. To this day the treasure has not been
+found. If you seek out the treasure you must find Hiram's Key to
+start unlocking the clues."
+
+The key will be in Mayor Ray's desk which will need to be searched
+to obtain the key. Once you have the skelton key its description 
+says it has an inscription on it. when you read it you find out,
+It looks like it unlocks something. Then you need to search the
+Mansion for more information. In the sotrage room descriptions
+you will see Behind the stacked furniture there appears to be
+another door. Then when you search door, it states A heavy wood
+door with a skelton lock. This should lead the player to use Hiram's
+key to unlock the door. In the room is an apprentance caring 
+for the mason memorabilia. After killing him you can search the
+room and you will find a Masonic Saber. One now has to figure out
+what to do with the saber. As searching has been a large part
+in this quest to this point one should think to continue searching
+in each room. This will lead to the billard room which is full 
+of Mayors from other towns around enjoying the evening. I added
+a lot of chat to distract players from searching in the room. Its
+always fun to take out a few politicians as well. ;) 
+ 
+searching in this room you will eventually search the shelves.
+the description There are many trophies filling the shelves there
+appears to be an "empty shelf" out of "place".  the player will 
+figure out to place the saber on the shelf. This will then open a
+passage into what looks like an abandoned well over 100 years old.
+
+This passage eventually leads back to the town of Gas City. If you
+continue searching through the rooms you will find that a wall can
+be bashed in. There is a WARNING sign to let players know to proceed
+with extreem caution. Once bashing in the wall you find Hiram.
+Hiram's room is no teleport, no quit and no leave. Once you kill
+Hiram a 800k average kill. You must kill Hiram's Spirit as well,which
+solves the quest. The player get a sword, ring, heals and gold.
+
+This is about what it will take in heals to beat both mobs plus
+a little extra for solving the quest.  Hiram places a Masonic 
+pin on the player for completing the quest as well. The player
+will still need to work their way out of the well. 
+
+This will require them to goto the bottom of the well then row a
+boat out. This passage will take them back to town.
+
+I also added: 
+
+write_file("/players/angel/area/mansion/QUEST",ctime(time())+"   "+
+              capitalize(TPN)+" has solved the Masonic Quest.\n");
+              
+in Hiram_02.c
+
+
+

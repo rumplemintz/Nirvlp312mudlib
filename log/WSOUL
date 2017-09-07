@@ -1,0 +1,957 @@
+Mon Feb 20 12:09:34 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Mon Feb 20 12:09:34 2017
+obj/player#4263 : Oberon
+File: players/oberon/test/exp3sword.c
+----------------------------------------------------------
+Wed Mar  1 09:43:01 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Mar  1 09:43:01 2017
+obj/player#2462 : Oberon
+File: players/oberon/castle.c
+----------------------------------------------------------
+Wed Mar  1 09:43:41 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Mar  1 09:43:41 2017
+obj/player#2462 : Oberon
+File: players/oberon/workroom.c
+----------------------------------------------------------
+Wed Mar  1 09:46:21 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Mar  1 09:46:21 2017
+obj/player#2462 : Oberon
+File: players/oberon/workroom.c
+----------------------------------------------------------
+Wed Mar  1 09:48:25 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Mar  1 09:48:25 2017
+obj/player#2462 : Oberon
+File: players/oberon/workroom.c
+----------------------------------------------------------
+Wed Mar  1 09:51:46 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Mar  1 09:51:46 2017
+obj/player#2462 : Oberon
+File: players/oberon/workroom.c
+----------------------------------------------------------
+Wed Mar  1 10:32:46 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Mar  1 10:32:46 2017
+obj/player#2462 : Oberon
+File: players/oberon/workroom.c
+----------------------------------------------------------
+Wed Mar  1 11:06:27 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Mar  1 11:06:27 2017
+obj/player#2462 : Oberon
+File: players/oberon/closed/jewel.c
+----------------------------------------------------------
+Thu Mar  2 19:34:42 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar  2 19:34:42 2017
+obj/player#7244 : Oberon
+File: players/oberon/closed/jewel.c
+----------------------------------------------------------
+Thu Mar  2 20:31:10 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar  2 20:31:10 2017
+obj/player#7244 : Oberon
+File: players/oberon/closed/jewel.c
+----------------------------------------------------------
+Thu Mar  2 20:51:16 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar  2 20:51:16 2017
+obj/player#7244 : Oberon
+File: players/oberon/amber/city/obj/heal.c
+----------------------------------------------------------
+Sat Mar  4 13:28:51 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Mar  4 13:28:51 2017
+obj/player#3199 : Oberon
+File: players/oberon/login
+----------------------------------------------------------
+Thu Mar  9 20:27:57 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar  9 20:27:57 2017
+obj/player#5085 : Oberon
+File: players/oberon/amber/city/TODO
+----------------------------------------------------------
+Sat Mar 11 13:36:38 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Mar 11 13:36:38 2017
+obj/player#2987 : Oberon
+File: players/oberon/amber/city/obj/guardshield.c
+----------------------------------------------------------
+Sat Mar 11 13:37:00 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Mar 11 13:37:00 2017
+obj/player#2987 : Oberon
+File: players/oberon/amber/city/obj/guardsword.c
+----------------------------------------------------------
+Mon Mar 13 13:30:09 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Mon Mar 13 13:30:09 2017
+obj/player#2968 : Oberon
+File: players/oberon/test/testdisplay.c
+----------------------------------------------------------
+Thu Mar 16 12:18:41 2017: work called in dragnar by unknown (no prev-ob).
+Thu Mar 16 12:18:41 2017: set_castle called in dragnar by unknown (no prev-ob).
+Thu Mar 16 12:18:41 2017: set_log called in dragnar by unknown (no prev-ob).
+Mon Mar 20 15:08:11 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Mon Mar 20 15:08:11 2017
+obj/player#1660 : Oberon
+File: players/oberon/login
+----------------------------------------------------------
+Mon Mar 20 15:08:41 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Mon Mar 20 15:08:41 2017
+obj/player#1660 : Oberon
+File: players/oberon/login
+----------------------------------------------------------
+Mon Mar 20 15:09:07 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Mon Mar 20 15:09:07 2017
+obj/player#1660 : Oberon
+File: players/oberon/login
+----------------------------------------------------------
+Thu Mar 30 20:56:18 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 20:56:18 2017
+obj/player#10099 : Mosobp
+File: players/mosobp/ideas/mobtourn.c
+----------------------------------------------------------
+Thu Mar 30 21:00:48 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 21:00:48 2017
+obj/player#10099 : Mosobp
+File: players/mosobp/ideas/mobtourn.c
+----------------------------------------------------------
+Thu Mar 30 21:22:45 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 21:22:45 2017
+obj/player#10099 : Mosobp
+File: players/mosobp/ideas/mobtourn.c
+----------------------------------------------------------
+Thu Mar 30 21:24:27 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 21:24:27 2017
+obj/player#10325 : Mosobp
+File: players/mosobp/ideas/mobtourn.c
+----------------------------------------------------------
+Thu Mar 30 21:25:27 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 21:25:27 2017
+obj/player#10338 : Mosobp
+File: players/mosobp/ideas/mobtourn.c
+----------------------------------------------------------
+Thu Mar 30 21:26:43 2017: valid_write called in dragnar by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 21:26:43 2017
+obj/player#372 : Dragnar
+File: players/dragnar/Solaris.c
+----------------------------------------------------------
+Thu Mar 30 21:26:47 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 21:26:47 2017
+obj/player#10338 : Mosobp
+File: players/mosobp/ideas/mobtourn.c
+----------------------------------------------------------
+Thu Mar 30 21:28:39 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 21:28:39 2017
+obj/player#10338 : Mosobp
+File: players/mosobp/ideas/mobtourny
+----------------------------------------------------------
+Thu Mar 30 21:29:23 2017: valid_write called in mosobp by players/dragnar/wiztool/tool#377.
+ED called from wiz_soul
+Thu Mar 30 21:29:23 2017
+obj/player#10338 : Mosobp
+File: players/mosobp/ideas/mobtourny
+----------------------------------------------------------
+Thu Mar 30 22:47:33 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Mar 30 22:47:33 2017
+obj/player#10338 : Mosobp
+File: players/mosobp/ideas/mobbracket
+----------------------------------------------------------
+Tue Apr  4 17:48:13 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Apr  4 17:48:13 2017
+obj/player#6889 : Mosobp
+File: players/mosobp/ideas/mobtourn100u
+----------------------------------------------------------
+Thu Apr 13 19:25:42 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Apr 13 19:25:42 2017
+obj/player#1942 : Oberon
+File: players/oberon/move_stuff.c
+----------------------------------------------------------
+Thu Apr 13 21:23:35 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Apr 13 21:23:35 2017
+obj/player#3700 : Mosobp
+File: players/mosobp/bracket/view.c
+----------------------------------------------------------
+Thu Apr 13 21:23:43 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Apr 13 21:23:43 2017
+obj/player#3700 : Mosobp
+File: players/mosobp/bracket/arena.c
+----------------------------------------------------------
+Thu Apr 13 21:36:06 2017: valid_write called in mosobp by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Apr 13 21:36:06 2017
+obj/player#3700 : Mosobp
+File: players/mosobp/bracket/ctobj.c
+----------------------------------------------------------
+Sun Apr 30 18:16:14 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sun Apr 30 18:16:14 2017
+obj/player#2134 : Oberon
+File: players/oberon/closed/jewel.c
+----------------------------------------------------------
+Sun Apr 30 18:20:52 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sun Apr 30 18:20:52 2017
+obj/player#2134 : Oberon
+File: players/oberon/closed/jewel.c
+----------------------------------------------------------
+Fri May 26 13:28:33 2017: valid_write called in molasar by unknown (no prev-ob).
+ED called from wiz_soul
+Fri May 26 13:28:33 2017
+obj/player#3350 : Molasar
+File: players/molasar/closed/staff.c
+----------------------------------------------------------
+Fri May 26 13:28:49 2017: valid_write called in molasar by unknown (no prev-ob).
+ED called from wiz_soul
+Fri May 26 13:28:49 2017
+obj/player#3350 : Molasar
+File: players/molasar/closed/staff.c
+----------------------------------------------------------
+Fri May 26 13:29:27 2017: valid_write called in molasar by unknown (no prev-ob).
+ED called from wiz_soul
+Fri May 26 13:29:27 2017
+obj/player#3350 : Molasar
+File: players/molasar/closed/staff.c
+----------------------------------------------------------
+Sat Jun  3 12:20:29 2017: work called in oberon by unknown (no prev-ob).
+Sat Jun  3 12:20:29 2017: set_castle called in oberon by unknown (no prev-ob).
+Sat Jun  3 12:20:29 2017: set_log called in oberon by unknown (no prev-ob).
+Tue Jun  6 20:56:48 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jun  6 20:56:48 2017
+obj/player#2441 : Oberon
+File: players/oberon/closed/cmds/_gip.c
+----------------------------------------------------------
+Tue Jun  6 21:49:35 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jun  6 21:49:35 2017
+obj/player#5725 : Oberon
+File: players/angel/masons/data/oberon.o
+----------------------------------------------------------
+Tue Jun  6 21:50:53 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jun  6 21:50:53 2017
+obj/player#5783 : Oberon
+File: players/angel/masons/data/oberon.o
+----------------------------------------------------------
+Mon Jun 12 10:17:43 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Mon Jun 12 10:17:43 2017
+obj/player#1682 : Oberon
+File: players/guilds/necro/members/oberon.o
+----------------------------------------------------------
+Wed Jun 14 13:44:36 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Jun 14 13:44:36 2017
+obj/player#2426 : Oberon
+File: players/guilds/necro/members/oberon.o
+----------------------------------------------------------
+Thu Jun 22 20:39:58 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jun 22 20:39:58 2017
+obj/player#2843 : Oberon
+File: players/oberon/closed/cmds/_double_xp.c
+----------------------------------------------------------
+Thu Jun 22 20:40:18 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jun 22 20:40:18 2017
+obj/player#2843 : Oberon
+File: players/oberon/closed/cmds/_double_xp.c
+----------------------------------------------------------
+Thu Jun 22 21:25:47 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jun 22 21:25:47 2017
+obj/player#2843 : Oberon
+File: log/oberon
+----------------------------------------------------------
+Thu Jun 22 22:01:12 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jun 22 22:01:12 2017
+obj/player#2843 : Oberon
+File: 0
+----------------------------------------------------------
+Thu Jun 29 10:01:13 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jun 29 10:01:13 2017
+obj/player#591 : Oberon
+File: players/oberon/PLAN
+----------------------------------------------------------
+Thu Jun 29 11:14:20 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jun 29 11:14:20 2017
+obj/player#591 : Oberon
+File: players/oberon/PLAN
+----------------------------------------------------------
+Thu Jun 29 17:16:11 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jun 29 17:16:11 2017
+obj/player#591 : Oberon
+File: players/oberon/PLAN
+----------------------------------------------------------
+Fri Jul  7 13:59:18 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul  7 13:59:18 2017
+obj/player#2772 : Oberon
+File: players/oberon/closed/cmds/history.c
+----------------------------------------------------------
+Tue Jul 11 10:14:58 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jul 11 10:14:58 2017
+obj/player#1206 : Rumplemintz
+File: etc/MANAGEMENT
+----------------------------------------------------------
+Thu Jul 13 22:43:31 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 13 22:43:31 2017
+obj/player#3150 : Oberon
+File: players/mokri/clans/hall_rooms/templates/drone.c
+----------------------------------------------------------
+Fri Jul 14 18:18:48 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:18:48 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/baldknobbers/hall/r153.c
+----------------------------------------------------------
+Fri Jul 14 18:20:36 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:20:36 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/heh/hall/r3.c
+----------------------------------------------------------
+Fri Jul 14 18:21:16 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:21:16 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/natureforce/hall/r2.c
+----------------------------------------------------------
+Fri Jul 14 18:21:36 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:21:36 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/test/hall/r3.c
+----------------------------------------------------------
+Fri Jul 14 18:21:56 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:21:56 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/ashaman/hall/r55.c
+----------------------------------------------------------
+Fri Jul 14 18:22:50 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:22:50 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/wither/hall/r5.c
+----------------------------------------------------------
+Fri Jul 14 18:23:08 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:23:08 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/ranger/hall/r22.c
+----------------------------------------------------------
+Fri Jul 14 18:23:30 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:23:30 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/mossy/hall/r14.c
+----------------------------------------------------------
+Fri Jul 14 18:23:50 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Jul 14 18:23:50 2017
+obj/player#2630 : Oberon
+File: players/mokri/clans/kanjimuno/hall/r12.c
+----------------------------------------------------------
+Tue Jul 18 21:03:48 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jul 18 21:03:48 2017
+obj/player#6257 : X
+File: players/x/look.c
+----------------------------------------------------------
+Tue Jul 18 21:41:52 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jul 18 21:41:52 2017
+obj/player#6257 : X
+File: players/x/workroom.c
+----------------------------------------------------------
+Tue Jul 18 21:42:47 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jul 18 21:42:47 2017
+obj/player#6257 : X
+File: players/x/workroom.c
+----------------------------------------------------------
+Tue Jul 18 21:43:01 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Jul 18 21:43:01 2017
+obj/player#6257 : X
+File: players/x/workroom.c
+----------------------------------------------------------
+Thu Jul 20 20:47:48 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 20:47:48 2017
+obj/player#6190 : X
+File: players/x/room.c
+----------------------------------------------------------
+Thu Jul 20 20:49:18 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 20:49:18 2017
+obj/player#6190 : X
+File: players/x/room2.c
+----------------------------------------------------------
+Thu Jul 20 20:53:12 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 20:53:12 2017
+obj/player#6190 : X
+File: players/x/room2.c
+----------------------------------------------------------
+Thu Jul 20 20:53:18 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 20:53:18 2017
+obj/player#6190 : X
+File: players/x/room.c
+----------------------------------------------------------
+Thu Jul 20 20:54:53 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 20:54:53 2017
+obj/player#6190 : X
+File: players/x/room.c
+----------------------------------------------------------
+Thu Jul 20 20:59:23 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 20:59:23 2017
+obj/player#6190 : X
+File: players/x/map
+----------------------------------------------------------
+Thu Jul 20 20:59:51 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 20:59:51 2017
+obj/player#6190 : X
+File: players/x/map
+----------------------------------------------------------
+Thu Jul 20 21:00:03 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 21:00:03 2017
+obj/player#6190 : X
+File: players/x/map
+----------------------------------------------------------
+Thu Jul 20 21:00:15 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 21:00:15 2017
+obj/player#6190 : X
+File: players/x/map
+----------------------------------------------------------
+Thu Jul 20 21:01:49 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Jul 20 21:01:49 2017
+obj/player#6190 : X
+File: players/x/map2
+----------------------------------------------------------
+Sat Jul 29 12:53:42 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Jul 29 12:53:42 2017
+obj/player#2999 : Oberon
+File: players/oberon/guild/gob.c
+----------------------------------------------------------
+Sat Jul 29 12:56:06 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Jul 29 12:56:06 2017
+obj/player#3109 : Oberon
+File: players/oberon/castle.c
+----------------------------------------------------------
+Sat Jul 29 12:59:00 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Jul 29 12:59:00 2017
+obj/player#3109 : Oberon
+File: players/oberon/guild/gob.c
+----------------------------------------------------------
+Sat Jul 29 13:03:30 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Jul 29 13:03:30 2017
+obj/player#3109 : Oberon
+File: players/oberon/guild/testautoload.c
+----------------------------------------------------------
+Sat Jul 29 13:06:48 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Jul 29 13:06:48 2017
+obj/player#3109 : Oberon
+File: players/oberon/guild/NOTES
+----------------------------------------------------------
+Thu Aug  3 01:16:06 2017: valid_write called in x by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Aug  3 01:16:06 2017
+obj/player#6032 : X
+File: players/maledicta/castle/rooms/m3.c
+----------------------------------------------------------
+Sat Aug 19 11:52:17 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 19 11:52:17 2017
+obj/player#548 : Oberon
+File: players/oberon/amber/city/obj/backpack.c
+----------------------------------------------------------
+Sat Aug 19 11:54:57 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 19 11:54:57 2017
+obj/player#548 : Oberon
+File: players/oberon/closed/cmds/_new.c
+----------------------------------------------------------
+Sat Aug 19 11:59:00 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 19 11:59:00 2017
+obj/player#548 : Oberon
+File: players/oberon/closed/cmds/_new.c
+----------------------------------------------------------
+Sat Aug 19 12:53:02 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 19 12:53:02 2017
+obj/player#548 : Oberon
+File: players/oberon/amber/city/obj/backpack
+----------------------------------------------------------
+Sat Aug 19 12:53:16 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 19 12:53:16 2017
+obj/player#548 : Oberon
+File: players/oberon/amber/city/obj/backpack.c
+----------------------------------------------------------
+Sat Aug 19 13:03:26 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 19 13:03:26 2017
+obj/player#548 : Oberon
+File: players/oberon/amber/city/obj/backpack.o
+----------------------------------------------------------
+Sat Aug 19 13:03:38 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 19 13:03:38 2017
+obj/player#548 : Oberon
+File: players/oberon/amber/city/obj/backpack.c
+----------------------------------------------------------
+Mon Aug 21 19:37:30 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Mon Aug 21 19:37:30 2017
+obj/player#2806 : Oberon
+File: players/oberon/PLAN
+----------------------------------------------------------
+Tue Aug 22 14:51:05 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Aug 22 14:51:05 2017
+obj/player#2917 : Oberon
+File: 0
+----------------------------------------------------------
+Tue Aug 22 14:51:29 2017: valid_write called in dragnar by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Aug 22 14:51:29 2017
+obj/player#4137 : Dragnar
+File: bin/wiz/_new.c
+----------------------------------------------------------
+Tue Aug 22 15:13:38 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Aug 22 15:13:38 2017
+obj/player#4675 : Oberon
+File: players/oberon/login
+----------------------------------------------------------
+Tue Aug 22 15:35:00 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Aug 22 15:35:00 2017
+obj/player#4675 : Oberon
+File: players/oberon/amber/city/rooms/amberstreet1.c
+----------------------------------------------------------
+Wed Aug 23 15:57:31 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Aug 23 15:57:31 2017
+obj/player#2529 : Oberon
+File: obj/player.c
+----------------------------------------------------------
+Wed Aug 23 19:12:48 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Aug 23 19:12:48 2017
+obj/player#2529 : Oberon
+File: players/oberon/closed/mapbook/book.c
+----------------------------------------------------------
+Wed Aug 23 19:13:02 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Aug 23 19:13:02 2017
+obj/player#2529 : Oberon
+File: players/oberon/closed/mapbook/def.h
+----------------------------------------------------------
+Thu Aug 24 11:04:12 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Aug 24 11:04:12 2017
+obj/player#2216 : Oberon
+File: players/oberon/closed/mapbook/atlas.c
+----------------------------------------------------------
+Thu Aug 24 11:04:18 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Aug 24 11:04:18 2017
+obj/player#2216 : Oberon
+File: players/oberon/closed/mapbook/atlas.h
+----------------------------------------------------------
+Thu Aug 24 11:07:49 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Aug 24 11:07:49 2017
+obj/player#2216 : Oberon
+File: players/oberon/closed/atlas/atlas.c
+----------------------------------------------------------
+Thu Aug 24 20:14:48 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Aug 24 20:14:48 2017
+obj/player#2216 : Oberon
+File: players/oberon/closed/atlas/people/oberon.o
+----------------------------------------------------------
+Sat Aug 26 11:22:13 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 11:22:13 2017
+obj/player#1062 : Oberon
+File: players/boltar/santaland/wkshp3.c
+----------------------------------------------------------
+Sat Aug 26 11:31:57 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 11:31:57 2017
+obj/player#1062 : Oberon
+File: players/pavlik/guild/mages/room/blood_bank.c
+----------------------------------------------------------
+Sat Aug 26 12:05:18 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 12:05:18 2017
+obj/player#1062 : Oberon
+File: players/oberon/closed/cmds/_revive.c
+----------------------------------------------------------
+Sat Aug 26 12:06:05 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 12:06:05 2017
+obj/player#1062 : Oberon
+File: players/oberon/closed/cmds/_revive.c
+----------------------------------------------------------
+Sat Aug 26 12:43:52 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 12:43:52 2017
+obj/player#1062 : Oberon
+File: players/sandman/NEWBIE/newbie_dispenser.c
+----------------------------------------------------------
+Sat Aug 26 12:48:07 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 12:48:07 2017
+obj/player#1062 : Oberon
+File: MANAGEMENT
+----------------------------------------------------------
+Sat Aug 26 12:53:04 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 12:53:04 2017
+obj/player#1062 : Oberon
+File: MANAGEMENT
+----------------------------------------------------------
+Sat Aug 26 13:02:24 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 13:02:24 2017
+obj/player#1062 : Oberon
+File: players/oberon/closed/MANAGEMENT
+----------------------------------------------------------
+Sat Aug 26 13:03:31 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 13:03:31 2017
+obj/player#1062 : Oberon
+File: players/oberon/closed/MANAGEMENT
+----------------------------------------------------------
+Sat Aug 26 13:03:47 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sat Aug 26 13:03:47 2017
+obj/player#1062 : Oberon
+File: players/oberon/closed/MANAGEMENT
+----------------------------------------------------------
+Sun Aug 27 10:01:47 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sun Aug 27 10:01:47 2017
+obj/player#681 : Oberon
+File: bin/soul/_iarch.c
+----------------------------------------------------------
+Tue Aug 29 11:40:16 2017: work called in rumplemintz by unknown (no prev-ob).
+Tue Aug 29 11:40:16 2017: set_castle called in rumplemintz by unknown (no prev-ob).
+Tue Aug 29 11:40:16 2017: set_log called in rumplemintz by unknown (no prev-ob).
+Wed Aug 30 15:54:36 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Aug 30 15:54:36 2017
+obj/player#4104 : Rumplemintz
+File: players/rumplemintz/weapon/demonsword.c
+----------------------------------------------------------
+Wed Aug 30 16:02:18 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Aug 30 16:02:18 2017
+obj/player#2152 : Oberon
+File: players/eurale/VAMPIRES/lib/bite_player.h
+----------------------------------------------------------
+Fri Sep  1 12:21:27 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Sep  1 12:21:27 2017
+obj/player#2064 : Oberon
+File: players/angel/masons/bin/check.c
+----------------------------------------------------------
+Fri Sep  1 12:23:42 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Sep  1 12:23:42 2017
+obj/player#2064 : Oberon
+File: players/angel/masons/bin/check.c
+----------------------------------------------------------
+Fri Sep  1 12:24:57 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Sep  1 12:24:57 2017
+obj/player#2064 : Oberon
+File: players/angel/masons/bin/check.c
+----------------------------------------------------------
+Fri Sep  1 12:27:51 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Sep  1 12:27:51 2017
+obj/player#2064 : Oberon
+File: players/angel/masons/bin/check.c
+----------------------------------------------------------
+Fri Sep  1 12:28:44 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Sep  1 12:28:44 2017
+obj/player#2064 : Oberon
+File: players/angel/masons/bin/check.c
+----------------------------------------------------------
+Fri Sep  1 12:29:53 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Fri Sep  1 12:29:53 2017
+obj/player#2064 : Oberon
+File: players/angel/masons/bin/check.c
+----------------------------------------------------------
+Sun Sep  3 17:16:28 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sun Sep  3 17:16:28 2017
+obj/player#1219 : Oberon
+File: players/paulasx/temple/temple_north.c
+----------------------------------------------------------
+Sun Sep  3 17:17:46 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Sun Sep  3 17:17:46 2017
+obj/player#1219 : Oberon
+File: players/paulasx/temple/temple_north.c
+----------------------------------------------------------
+Tue Sep  5 16:43:56 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Sep  5 16:43:56 2017
+obj/player#2348 : Oberon
+File: players/eurale/VAMPIRES/NPC/vamp_wolf.c
+----------------------------------------------------------
+Tue Sep  5 16:44:44 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Tue Sep  5 16:44:44 2017
+obj/player#2348 : Oberon
+File: players/eurale/VAMPIRES/NPC/vamp_wolf.c
+----------------------------------------------------------
+Wed Sep  6 11:28:43 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 11:28:43 2017
+obj/player#2518 : Oberon
+File: players/eurale/VAMPIRES/NPC/vamp_wolf.c
+----------------------------------------------------------
+Wed Sep  6 15:14:58 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 15:14:58 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 15:16:27 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 15:16:27 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 15:36:25 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 15:36:25 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/closed/bin/rtime.c
+----------------------------------------------------------
+Wed Sep  6 15:38:37 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 15:38:37 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/closed/bin/rtime.c
+----------------------------------------------------------
+Wed Sep  6 16:24:51 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:24:51 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:25:24 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:25:24 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:25:53 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:25:53 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:26:28 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:26:28 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:27:18 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:27:18 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:28:24 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:28:24 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:29:32 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:29:32 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:30:09 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:30:09 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:30:51 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:30:51 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:32:35 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:32:35 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:33:00 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:33:00 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:34:38 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:34:38 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:34:55 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:34:55 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:35:56 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:35:56 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:37:05 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:37:05 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:37:38 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:37:38 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:40:28 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:40:28 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:41:13 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:41:13 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:43:02 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:43:02 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:45:13 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:45:13 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:46:30 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:46:30 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 16:46:57 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 16:46:57 2017
+obj/player#4342 : Rumplemintz
+File: players/rumplemintz/obj/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 17:05:39 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 17:05:39 2017
+obj/player#4342 : Rumplemintz
+File: players/boltar/things/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 17:11:52 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 17:11:52 2017
+obj/player#4342 : Rumplemintz
+File: players/boltar/things/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 17:16:03 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 17:16:03 2017
+obj/player#4342 : Rumplemintz
+File: players/boltar/things/clock_tower
+----------------------------------------------------------
+Wed Sep  6 17:16:07 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 17:16:07 2017
+obj/player#4342 : Rumplemintz
+File: players/boltar/things/clock_tower.c
+----------------------------------------------------------
+Wed Sep  6 17:16:55 2017: valid_write called in rumplemintz by unknown (no prev-ob).
+ED called from wiz_soul
+Wed Sep  6 17:16:55 2017
+obj/player#4342 : Rumplemintz
+File: players/boltar/things/clock_tower.c
+----------------------------------------------------------
+Thu Sep  7 11:08:32 2017: valid_write called in oberon by unknown (no prev-ob).
+ED called from wiz_soul
+Thu Sep  7 11:08:32 2017
+obj/player#2563 : Oberon
+File: players/eurale/VAMPIRES/NPC/vamp_wolf.c
+----------------------------------------------------------

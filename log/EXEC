@@ -1,0 +1,324 @@
+Thu Aug 17 13:53:58 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/10+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:08 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:10 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:10 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:10 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:12 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:14 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:14 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:16 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:16 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:16 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:18 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:18 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Thu Aug 17 13:54:22 2017 : Dragnar
+Exec: write(random(present("mageobj", this_player())->query_total_guild_stat("conjuration"))/8+"\n");
+---------------------------------------------------------
+Fri Aug 18 07:19:30 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Fri Aug 18 21:15:45 2017 : Fred
+Exec: this_player()->set_guild_name("none");
+---------------------------------------------------------
+Sat Aug 19 06:05:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sat Aug 19 09:48:04 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sun Aug 20 06:05:13 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Aug 21 02:08:37 2017 : X
+Exec: "/players/vertebraker/closed/hat/cmds/ip"->main();
+---------------------------------------------------------
+Mon Aug 21 02:08:47 2017 : X
+Exec: "/players/vertebraker/closed/hat/cmds/ip"->main();
+---------------------------------------------------------
+Mon Aug 21 02:09:01 2017 : X
+Exec: "/players/vertebraker/closed/hat/cmds/ip"->main();
+---------------------------------------------------------
+Mon Aug 21 08:04:59 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Aug 21 10:35:36 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Tue Aug 22 06:05:13 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Tue Aug 22 11:43:48 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Tue Aug 22 14:32:26 2017 : Oberon
+Exec: write("File: "+basename(find_object("jewel", this_player()))
+---------------------------------------------------------
+Tue Aug 22 14:32:34 2017 : Oberon
+Exec: write("File: "+basename(find_object("jewel", this_player()))+"\n");
+---------------------------------------------------------
+Tue Aug 22 14:33:06 2017 : Oberon
+Exec: write("File: "+basename(present("jewel", this_player()))+"\n");
+---------------------------------------------------------
+Wed Aug 23 08:35:28 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Wed Aug 23 11:50:12 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Thu Aug 24 06:05:16 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Fri Aug 25 07:56:32 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sat Aug 26 06:05:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sat Aug 26 12:30:43 2017 : Oberon
+Exec: write("Home: "+this+player()->query_home()+"\n");
+---------------------------------------------------------
+Sat Aug 26 12:30:53 2017 : Oberon
+Exec: write("Home: "+this_player()->query_home()+"\n");
+---------------------------------------------------------
+Sat Aug 26 12:42:07 2017 : Oberon
+Exec: write("testchar: "+this_player()->is_testchar()+"\n");
+---------------------------------------------------------
+Sat Aug 26 12:42:23 2017 : Oberon
+Exec: write("testchar: "+find_player("obee")->is_testchar()+"\n");
+---------------------------------------------------------
+Sun Aug 27 07:23:09 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Aug 28 06:05:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Aug 28 17:44:05 2017 : Dragnar
+Exec: present("bite",find_player("gizmo"))->add_a_bite("dragnar");
+---------------------------------------------------------
+Mon Aug 28 17:44:59 2017 : Dragnar
+Exec: write(present("bite",find_player("gizmo"))->query_bite()+"\n");
+---------------------------------------------------------
+Mon Aug 28 17:45:05 2017 : Dragnar
+Exec: present("bite",find_player("gizmo"))->add_a_bite("dragnar");
+---------------------------------------------------------
+Mon Aug 28 17:45:07 2017 : Dragnar
+Exec: write(present("bite",find_player("gizmo"))->query_bite()+"\n");
+---------------------------------------------------------
+Mon Aug 28 17:45:13 2017 : Dragnar
+Exec: present("bite",find_player("gizmo"))->add_a_bite("dragnar");
+---------------------------------------------------------
+Mon Aug 28 17:45:25 2017 : Dragnar
+Exec: write(present("bite",find_player("gizmo"))->query_bite()+"\n");
+---------------------------------------------------------
+Mon Aug 28 17:46:31 2017 : Dragnar
+Exec: present("bite",find_player("gizmo"))->add_a_bite("dragnar");
+---------------------------------------------------------
+Mon Aug 28 19:31:42 2017 : Oberon
+Exec: present("fangs", this_player())->set_BLOODPTS(1000);
+---------------------------------------------------------
+Mon Aug 28 19:50:48 2017 : Oberon
+Exec: present("fangs", this_player())->add_guild_exp(1);
+---------------------------------------------------------
+Mon Aug 28 20:38:56 2017 : Oberon
+Exec: find_player("obee")->set_gender("male");
+---------------------------------------------------------
+Mon Aug 28 20:39:16 2017 : Oberon
+Exec: find_player("obee")->set_gender("female");
+---------------------------------------------------------
+Mon Aug 28 21:51:46 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Aug 28 21:52:02 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Tue Aug 29 06:05:16 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Wed Aug 30 08:07:15 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Wed Aug 30 16:07:58 2017 : Dragnar
+Exec: present("bite",find_player("darude"))->add_a_bite("dragnar");
+---------------------------------------------------------
+Wed Aug 30 16:08:00 2017 : Dragnar
+Exec: present("bite",find_player("darude"))->add_a_bite("dragnar");
+---------------------------------------------------------
+Wed Aug 30 16:08:00 2017 : Dragnar
+Exec: present("bite",find_player("darude"))->add_a_bite("dragnar");
+---------------------------------------------------------
+Wed Aug 30 20:59:32 2017 : Fred
+Exec: this_player()->set_guild_name("none");
+---------------------------------------------------------
+Thu Aug 31 06:05:13 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Thu Aug 31 18:08:22 2017 : Shinshi
+Exec: input_to
+---------------------------------------------------------
+Sat Sep  2 21:02:00 2017 : Fred
+Exec: this_player()->set_guild_name("none");
+---------------------------------------------------------
+Sun Sep  3 17:50:31 2017 : Oberon
+Exec: present("rop", this_player())->armor_breaks();
+---------------------------------------------------------
+Sun Sep  3 17:50:47 2017 : Oberon
+Exec: present("rop", this_player())->armor_breaks();
+---------------------------------------------------------
+Mon Sep  4 17:42:24 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Tue Sep  5 06:05:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Wed Sep  6 07:43:13 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Wed Sep  6 15:03:38 2017 : Rumplemintz
+Exec: time()
+---------------------------------------------------------
+Wed Sep  6 15:03:42 2017 : Rumplemintz
+Exec: time
+---------------------------------------------------------
+Wed Sep  6 15:03:44 2017 : Rumplemintz
+Exec: write(ctime() + "\n");
+---------------------------------------------------------
+Wed Sep  6 15:09:53 2017 : Rumplemintz
+Exec: ctime
+---------------------------------------------------------
+Wed Sep  6 15:09:57 2017 : Rumplemintz
+Exec: ctime(time())'
+---------------------------------------------------------
+Wed Sep  6 15:10:01 2017 : Rumplemintz
+Exec: time(;
+---------------------------------------------------------
+Wed Sep  6 15:10:04 2017 : Rumplemintz
+Exec: time();
+---------------------------------------------------------
+Wed Sep  6 15:10:10 2017 : Rumplemintz
+Exec: ctime(time);
+---------------------------------------------------------
+Wed Sep  6 15:10:14 2017 : Rumplemintz
+Exec: ctime(time());
+---------------------------------------------------------
+Thu Sep  7 08:35:42 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Thu Sep  7 09:19:52 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(1)
+---------------------------------------------------------
+Thu Sep  7 09:19:58 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(1);
+---------------------------------------------------------
+Thu Sep  7 09:20:11 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(10);
+---------------------------------------------------------
+Thu Sep  7 09:20:21 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(10);
+---------------------------------------------------------
+Thu Sep  7 09:20:21 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(10);
+---------------------------------------------------------
+Thu Sep  7 09:20:21 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(10);
+---------------------------------------------------------
+Thu Sep  7 09:20:31 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:31 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:31 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:41 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:41 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:41 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:47 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:47 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:47 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:53 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:55 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:20:55 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:01 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:01 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:01 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:07 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:07 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:07 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:34 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:34 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:21:34 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:23:09 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:23:09 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:23:09 2017 : Dragnar
+Exec: present("stick",find_player("dreadbane"))->add_wear(20);
+---------------------------------------------------------
+Thu Sep  7 09:33:24 2017 : Rumplemintz
+Exec: write(ctime() + "\n");
+---------------------------------------------------------

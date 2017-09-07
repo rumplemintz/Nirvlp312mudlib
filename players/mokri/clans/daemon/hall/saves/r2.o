@@ -1,0 +1,36 @@
+no_exit_display 0
+no_clean 1
+cast_here 0
+dest_dir ({"/players/mokri/clans/daemon/hall/r1","east","/players/mokri/clans/daemon/hall/r3","west","/players/mokri/clans/daemon/hall/r10","north","/players/mokri/clans/daemon/hall/r22","south",})
+short_desc "Clan Hall - Locker Room Unit #2[0m"
+long_desc "STORAGE Unit #2[0m"
+items 0
+property ({"NT","NT","NT",})
+no_castle_flag 0
+no_exits 0
+custom_exits 0
+numbers ({"no","one","two","three","four","five","six","seven","eight","nine",})
+call_out_func 0
+call_out_int 0
+call_out_int_rand 0
+odors_msg 0
+feels_msg 0
+sounds_msg 0
+tastes_msg 0
+ExitMsgs 0
+smells 0
+listens 0
+tastes 0
+touchs 0
+msgs 0
+objects 0
+msg_count 0
+hb 0
+search_count 0
+no_teleport 1
+pk 0
+spar 0
+no_magic 0
+no_fight 0
+light_level 0
+Items ({"[31mDragon[1;37mplate Armor[2;37;0m","/players/maledicta/closed/shardak/armors/shard_armor",0,0,0,"[1;34mBracers [0m[34mof the rushing [1;34mStorm[0m[0m","/players/jareel/armor/chaos/woods2/orlanth_bracelet",0,0,0,"Iron [1;30mDeath[0m Blade","/players/jareel/weapons/mondar_death_sword",0,0,0,"Iron [1;30mDeath[0m Blade","/players/jareel/weapons/mondar_death_sword",0,0,0,"Orb of the [1m[30mvoid[0m","/players/jaraxle/3rd/pyramid/items/void",0,0,0,"[1;30mA Dark Demon's Hide[0m","/players/jareel/general_stuff/demonhide",0,0,0,"[1;34mLeonardo[2;37;0m'[1;34ms[2;37;0m katana","/players/wicket/ninja_turtles/weapons/lkatana",0,11,4,"[1;37mAn overcloak of ShADoWs[0m","/players/forbin/realms/ruins/OBJ/newscloak",0,0,0,"[1;33mShock, [1;34mlightning sword[0m of Orlanth Thunderous","/players/jareel/weapons/orlanth/fiona_sword",0,0,0,})

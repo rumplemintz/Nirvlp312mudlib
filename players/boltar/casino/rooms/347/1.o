@@ -1,0 +1,13 @@
+no_clean 0
+short_desc "A silver key"
+long_desc "A normal looking house key."
+info 0
+save_flag 0
+value 20
+local_weight 1
+drop_flag 0
+name "key"
+alias_name 0
+read_msg 0
+shop_dest_flag 1
+multipleIds ({"walkingdead_key",})

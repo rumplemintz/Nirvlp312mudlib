@@ -1,0 +1,11 @@
+inv_no 0
+done 1
+shield 0
+notin 0
+hit_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+miss_val ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+locker_arg ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+filename ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+long_dsc " A little room, not too fancy, not too casual. A dinner table is set in themiddle, with a delicious dinner in the middle. Looking back, the word "Bain"is engraved onto the door."
+owner_name "bain"
+lighton 1

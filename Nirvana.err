@@ -1,0 +1,8 @@
+2017.08.26 09:54:43 [erq] Amylaar ERQ Apr  7 2011: Path 'erq', debuglevel 0
+2017.08.28 00:19:22 players/vertebraker/castle/new/n0.c line 45: function not defined by inheritance as specified.
+2017.08.28 00:19:22 Error in loading object: 'players/vertebraker/castle/new/n0'.
+2017.08.29 04:11:31 players/boltar/things/cop.c line 65: Warning: Missing 'return <value>' statement.
+2017.08.29 22:41:13 room/adv_inner3.c line 8: Too few arguments to move_object.
+2017.08.29 22:41:13 Error in loading object: 'room/adv_inner3'.
+2017.08.30 20:40:59 room/adv_inner3.c line 8: Too few arguments to move_object.
+2017.08.30 20:41:00 Error in loading object: 'room/adv_inner3'.

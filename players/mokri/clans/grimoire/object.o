@@ -1,0 +1,33 @@
+no_clean 0
+short_desc "An [36mancient[0m [1;31mGrimoire[0m"
+long_desc "You open the large binder and as soon as you gaze upon the first pagewith its many runes and incantations, they start to float off the pages. As theyfloat away you notice that 6 letters remain on the page. It spells out		[1;31m Meteor[0mType 'clan_help' for commands."
+info 0
+save_flag 0
+value 0
+local_weight 1
+drop_flag 0
+name "clan_object"
+alias_name "binder"
+read_msg 0
+shop_dest_flag 0
+multipleIds ({})
+clan_long "You open the large binder and as soon as you gaze upon the first pagewith its many runes and incantations, they start to float off the pages. As theyfloat away you notice that 6 letters remain on the page. It spells out		[1;31m Meteor[0mType 'clan_help' for commands."
+clan_short "An [36mancient[0m [1;31mGrimoire[0m"
+damage_type "fire"
+hall_path "/players/saber/ryllian/mountain_quest"
+object_name "binder"
+owner "narlav"
+spell_alias "meteor"
+spell_mess_me "You open your binder and speak %hi red%Meteor%normal%. You watch as a large red glob of Molten rock falls from the sky and %hi magenta%CRUSHES%normal% %AKN%!"
+spell_mess_room "%TPN% opens a %hi cyan%binder%normal% and mumbles one word. You watch as a large %hi red%Meteor%normal% falls from the sky and lands on %AKN%."
+spell_mess_them "%TPN% opens a %hi cyan%binder%normal% and mumbles one word as %TP_PRO% glares at you. You feel an immense amount of %hi red%heat%normal% as you are %hi magenta%FLATTENED%normal% by a large rock."
+abilities ({})
+chan_history 0
+leaders ({})
+join_type 0
+private_coffer 101454
+public_coffer 0
+spell_delay 10
+spell_id 1
+spell_cost 10
+last_spell_time 1490514374

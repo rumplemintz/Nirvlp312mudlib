@@ -1,0 +1,11 @@
+inv_no 6
+done 1
+shield 0
+notin 0
+hit_val ({18,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+miss_val ({12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+locker_arg ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+filename ({"players/fakir/ways/WEP/noctis","players/snow/WEAPONS/hon_sword","players/vertebraker/guilds/samurai/armor/kabuto","players/cloud/Fayawyn/obj/dring","players/vertebraker/guilds/samurai/armor/nishiki","players/jareel/weapons/orlanth/fiona_sword",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+long_dsc 0
+owner_name "manson"
+lighton 0

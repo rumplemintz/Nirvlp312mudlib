@@ -1,0 +1,15 @@
+level 12
+ex_level 0
+height_ft 6
+height_in 2
+player_weight 200
+player_killing 0
+gender "male"
+title "[35mthe conjurer[0m"
+pretitle "[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m||[0m[0m[0m[0m[0m[0m"
+race "imortal"
+player_name "joab"
+clan_name "joab"
+description 0
+al_title "white lord"
+extra_look ({0,"Gizmo is covered in [31mblood[0m and [31mgore[0m","[31m~ [0m[34mEle[0m[32mmen[0m[1mtal Wa[0m[32mrri[0m[34mor[0m[31m ~[0m","Gizmo has [36m0[0;0m PKs, [36m0[0;0m deaths, and a total of [36m0[0;0m Legendary PK Points","Gizmo has a small [1;33mgold star[0;0m tattoo on his inside right ankle","[31m~ [0m[34mEle[0m[32mmen[0m[1mtal Wa[0m[32mrri[0m[34mor[0m[31m ~[0m","Joab has a small [1;33mgold star[0;0m tattoo on his inside right ankle","Joab has a long tail and whiskers",})

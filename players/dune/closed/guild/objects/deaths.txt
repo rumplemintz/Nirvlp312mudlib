@@ -1,0 +1,39 @@
+     [1m[1;33mUtt[0;0m           Jun 18 10:37:25     Drak.
+     [32mJoab[0;0m          Jun 19 19:15:48     Master hunter.
+     [32mJoab[0;0m          Jun 19 19:19:25     Master hunter.
+     [1m[34mGizmo[0;0m         Jun 19 20:05:22     Horde of walkers.
+     [1m[1;33mJoab[0;0m          Jun 19 20:05:30     Horde of walkers.
+     [1m[35mGogeta[0;0m        Jun 20 12:00:07     Mondar.
+     [1m[34mDarude[0;0m        Jul  5 11:10:09     Tamuli.
+     [1m[34mObee[0;0m          Jul  8 13:20:28     Old man.
+     [1m[1;33mDarude[0;0m        Jul 12 11:30:07     Suicide.
+     [1m[1;33mDarude[0;0m        Jul 12 11:31:01     Suicide.
+     [1m[1;33mDarude[0;0m        Jul 12 11:31:27     Suicide.
+     [1m[1;33mDarude[0;0m        Jul 12 11:31:45     Suicide.
+     [32mDarude[0;0m        Jul 12 11:41:45     Tamuli.
+     [1m[35mDarude[0;0m        Jul 12 16:07:28     Biago.
+     [1m[34mJoab[0;0m          Jul 13 00:09:04     Bug storm.
+     [32mRandalar[0;0m      Jul 13 19:01:30     Spirit.
+     [1m[35mDarude[0;0m        Jul 14 12:35:50     Tamuli.
+     [1m[35mDarude[0;0m        Jul 14 14:36:28     Myla.
+     [1m[34mDarude[0;0m        Jul 14 16:40:33     Snow demon.
+     [32mRandalar[0;0m      Jul 18 09:27:41     Chelob.
+     [1m[34mDarude[0;0m        Jul 18 14:15:51     Snow demon.
+     [32mRandalar[0;0m      Jul 18 20:51:47     Giant stainless steel dragon.
+     [32mRandalar[0;0m      Jul 19 07:11:05     Snake.
+     [1m[35mDarude[0;0m        Jul 19 19:08:12     [1;30mdeathmaster snikch[0;0m.
+     [0;0mSandon[0;0m        Jul 22 09:41:25     Demon.
+     [1m[34mGizmo[0;0m         Jul 24 07:41:14     Oakley.
+     [1m[34mGizmo[0;0m         Jul 24 07:43:06     Pair of walkers.
+     [1m[35mDarude[0;0m        Jul 24 09:17:44     Snow demon.
+     [1m[34mDarude[0;0m        Jul 31 10:10:18     Snow demon.
+     [32mGizmo[0;0m         Aug  1 14:36:35     Ooomani.
+     [1m[34mDreadbane[0;0m     Aug  7 11:06:48     Erilon.
+     [1m[34mGogeta[0;0m        Aug 11 21:04:47     Rogar.
+     [1m[34mDreadbane[0;0m     Aug 15 08:04:02     Gordie howe.
+     [1m[34mDreadbane[0;0m     Aug 15 08:09:49     Gordie howe.
+     [0;0mGizmo[0;0m         Aug 16 08:00:48     Master hunter.
+     [0;0mSandon[0;0m        Aug 17 18:23:07     Troll.
+     [1m[35mGizmo[0;0m         Aug 18 07:28:49     Dreadbane.
+     [0;0mXeru[0;0m          Aug 19 18:05:14     Suicide.
+     [1m[34mCareen[0;0m        Aug 19 20:23:02     Doran - [1;33my[0m[1melmalian [33mg[0m[1meneral[0m.

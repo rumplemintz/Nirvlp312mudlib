@@ -1,0 +1,23 @@
+**************
+
+
+                     new
+
+Syntax:    new <object in inventory>
+
+Desc:
+           Runs an update on <object>'s file, then destruct's the
+           old object and clones a new updated version.
+
+Warning:   None
+
+Example:   new beer
+                  results
+           Updating Object: beer (/obj/beer)
+           obj/beer will be reloaded at next reference.
+           Update Success!
+
+Related:   update
+
+
+**************
