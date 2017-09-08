@@ -4,7 +4,7 @@ np_xlevel 666
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 364
+np_age 662
 lr_period_start 0
 lr_required_exp 0
 lr_exp 0
@@ -49,7 +49,7 @@ head_armor 0
 ghost 0
 dead 0
 whimpy_dir "random"
-local_weight 14
+local_weight 16
 hunted 0
 hunter 0
 hunting_time -386
@@ -62,11 +62,11 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 20244498
+age 20245155
 is_invis 19
 frog 0
 whimpy 0
-auto_load "/players/maledicta/closed/symbio/clan.c:^!/players/angel/masons/mgob.c:^!/players/snow/closed/test/aura.c:^!players/pain/NEW/items/star.c:^!/players/mythos/amisc/forest/resur.c:^!"
+auto_load "/players/mythos/amisc/forest/resur.c:^!players/pain/NEW/items/star.c:^!/players/snow/closed/test/aura.c:^!/players/angel/masons/mgob.c:^!/players/maledicta/closed/symbio/clan.c:^!"
 current_room "room/vill_track"
 alignment 0
 Armors 0
@@ -132,7 +132,7 @@ description 0
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Sep  6 15:47 2017"
+lastime "Sep  7 20:05 2017"
 player_killing 1
 invs_count 0
 invs_flag 0
@@ -149,7 +149,7 @@ no_give 0
 aprv "fred,fredisodd,fredfreddiefred"
 hint "Nadda"
 AnsiPref ({"page",0,"tell",0,"gossip","[1;32m","risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,"wiz","[1;31m","cwiz",0,"ls .c",0,"ls .h",0,"ls directory",0,"ls otherFiles",0,"lpc",0,"admin",0,})
-old_last "Sep  5 17:08 2017"
+old_last "Sep  6 15:47 2017"
 wiz_soul_light 5
 present_log "/log/shinshi"
 present_castle "/players/shinshi/castle"

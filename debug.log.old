@@ -1,0 +1,138 @@
+Bad argument 1 to call_other()
+Current object was players/angel/area/stargate/npc/mitchell#2754, line 8
+"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/mitchell#2754") line 348
+"attack" in "obj/monster" ("players/angel/area/stargate/npc/mitchell#2754") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/mitchell#2754") line 2040
+error when executing program in destroyed object players/angel/area/stargate/npc/mitchell#2754
+Heart beat in players/angel/area/stargate/npc/mitchell#2754 turned off.
+Error in loading object
+Current object was obj/player#2764, line 125
+"cmd_hook" in "obj/player.c" ("obj/player#2764") line 3402
+"::cmd_hook" in "obj/user/cmd_hook.c" ("obj/player#2764") line 57
+Error in loading object
+Current object was obj/player#2616, line 125
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+Error in loading object
+Current object was obj/player#2616, line 125
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+Error in loading object
+Current object was obj/player#2616, line 126
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+Bad argument 1 to call_other()
+Current object was players/angel/area/stargate/npc/corporal#3778, line 108
+"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3778") line 348
+"attack" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3778") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/corporal#3778") line 2040
+error when executing program in destroyed object players/angel/area/stargate/npc/corporal#3778
+Heart beat in players/angel/area/stargate/npc/corporal#3778 turned off.
+Bad argument 1 to call_other()
+Current object was players/angel/area/stargate/npc/corporal#3770, line 61
+"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3770") line 348
+"attack" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3770") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/corporal#3770") line 2040
+error when executing program in destroyed object players/angel/area/stargate/npc/corporal#3770
+Heart beat in players/angel/area/stargate/npc/corporal#3770 turned off.
+Bad argument 1 to call_other()
+Current object was players/illarion/high/mon/duncan#4400, line 108
+"elements" in "players/snow/closed/test/shield.c" ("players/snow/closed/test/shield#532") line 39
+"combat_effects" in "players/snow/closed/test/shield.c" ("players/snow/closed/test/shield#532") line 53
+"hit_player" in "obj/living.c" ("players/illarion/high/mon/duncan#4400") line 322
+"do_damage" in "obj/living.c" ("players/illarion/high/mon/duncan#4400") line 696
+"death" in "obj/living.c" ("players/illarion/high/mon/duncan#4400") line 1022
+"second_life" in "obj/monster" ("players/illarion/high/mon/duncan#4400") line 577
+"monster_died" in "players/illarion/high/mon/duncan.c" ("players/illarion/high/mon/duncan#4400") line 76
+Error in call out.
+Connection reset by peer detected.
+Bad argument 1 to call_other()
+Current object was players/oberon/closed/tmp/superwep/wep#5860, line 154
+"qtHook" in "closed/wiz_soul.c" ("closed/wiz_soul#2565") line 21
+"process_hook" in "closed/wiz_soul.c" ("closed/wiz_soul#2565") line 21
+"cmd_hook" in "obj/player.c" ("obj/player#2563") line 3402
+"::cmd_hook" in "obj/user/cmd_hook.c" ("obj/player#2563") line 57
+"cmd_kill" in "bin/play/_kill.c" ("bin/play/_kill") line 27
+"attack_object" in "obj/living.c" ("obj/player#2563") line 2823
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 65
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 56
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 94
+Bad argument 1 to call_other()
+Current object was players/oberon/closed/tmp/superwep/wep#5860, line 154
+"heart_beat" in "obj/player.c" ("obj/player#2563") line 1556
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 65
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 56
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 94
+Heart beat in obj/player#2563 turned off.
+Bad argument 1 to call_other()
+Current object was players/oberon/closed/tmp/superwep/wep#5862, line 143
+"qtHook" in "closed/wiz_soul.c" ("closed/wiz_soul#5861") line 21
+"process_hook" in "closed/wiz_soul.c" ("closed/wiz_soul#5861") line 21
+"cmd_hook" in "obj/player.c" ("obj/player#2563") line 3402
+"::cmd_hook" in "obj/user/cmd_hook.c" ("obj/player#2563") line 57
+"cmd_kill" in "bin/play/_kill.c" ("bin/play/_kill") line 27
+"attack_object" in "obj/living.c" ("obj/player#2563") line 2823
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 63
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 54
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 92
+Bad argument 1 to call_other()
+Current object was players/oberon/closed/tmp/superwep/wep#5862, line 143
+"heart_beat" in "obj/player.c" ("obj/player#2563") line 1556
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 63
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 54
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 92
+Heart beat in obj/player#2563 turned off.
+Too deep recursion.
+Current object was players/angel/area/nox/npc/fenri#4404, line 49
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#5737") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#5737") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#5737") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f11") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#5737") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#1454") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#1454") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#1454") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f11") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#1454") line 251
+"init" in "obj/monster" ("players/angel/area/nox/npc/fenri#1454") line 637
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#3934") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#3934") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#3934") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#3934") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4217") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4217") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4217") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4217") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4427") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4427") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4427") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4427") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#3962") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#3962") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#3962") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#3962") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4914") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4914") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4914") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4914") line 251
+"init" in "obj/monster" ("players/angel/area/nox/npc/fenri#4914") line 637
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4404") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4404") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4404") line 1305
+Error in look_for_objects_to_swap.

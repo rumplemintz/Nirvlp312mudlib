@@ -1,10 +1,10 @@
-nrpoints 3351
-totalpoints 3351
+nrpoints 3355
+totalpoints 3355
 np_xlevel 101
 nbday "091907"
 rlbday 0
 penalty_left 0
-np_age 490
+np_age 650
 lr_period_start 0
 lr_required_exp 0
 lr_exp 0
@@ -52,7 +52,7 @@ whimpy_dir "random"
 local_weight 0
 hunted 0
 hunter 0
-hunting_time -495
+hunting_time -496
 cap_name "Rumplemintz"
 vis_name 0
 spell_points 80458
@@ -62,12 +62,12 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 4405367
+age 4412953
 is_invis 0
 frog 0
 whimpy 0
 auto_load ""
-current_room "room/vill_road3"
+current_room "room/post"
 alignment 0
 Armors 0
 Weapons 0
@@ -132,7 +132,7 @@ description "Rumplemintz Rumplemintz <--- The one and only  "
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Sep  6 14:42 2017"
+lastime "Sep  7 14:41 2017"
 player_killing 1
 invs_count 0
 invs_flag 0
@@ -140,7 +140,7 @@ new_pl_rest 0
 muffled 0
 treasure 0
 treasure_str ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
-pwd "/players/boltar/things/"
+pwd "/obj/"
 errormsgs 0
 home "/players/rumplemintz/workroom"
 ex_lv 100
@@ -149,7 +149,7 @@ no_give 0
 aprv "rumplemintz"
 hint "What's my Name?"
 AnsiPref ({"page",0,"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,"wiz","[1;34m","cwiz",0,"lpc","[1;36m","ls .c","[31m","ls .h","[36m","ls directory","[1;34m","ls otherFiles",0,"admin","[1;31m",})
-old_last "Aug 31 08:49 2017"
+old_last "Sep  7 09:12 2017"
 wiz_soul_light 1
 present_log "/log/rumplemintz"
 present_castle "/players/rumplemintz/castle"

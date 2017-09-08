@@ -1,10 +1,10 @@
-nrpoints 75462
-totalpoints 75462
+nrpoints 75463
+totalpoints 75463
 np_xlevel 100
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 148
+np_age 347
 lr_period_start 1504486348
 lr_required_exp 250000
 lr_exp 0
@@ -62,11 +62,11 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 7773709
+age 7777024
 is_invis 0
 frog 0
 whimpy 50
-auto_load "/players/mokri/clans/object.c:^!players/boltar/sprooms/clinic/boobs:large 38 6^!/players/saber/closed/new_mini/feline.c:^!players/pain/NEW/items/star.c:^!/players/dreamspeakr/WEDDING/OBJ/wedding_ring:^!/players/saber/closed/new_mini/succubus.c:^!"
+auto_load "/players/mokri/clans/object.c:^!/players/saber/closed/new_mini/succubus.c:^!/players/dreamspeakr/WEDDING/OBJ/wedding_ring:^!players/pain/NEW/items/star.c:^!/players/saber/closed/new_mini/feline.c:^!players/boltar/sprooms/clinic/boobs:large 38 6^!"
 current_room "room/vill_green"
 alignment 0
 Armors 0
@@ -132,14 +132,14 @@ description "stands before the souls that are in pain. When looking upon her you
 clan_name "arcane"
 clan_master 0
 clan_file 0
-lastime "Sep  6 19:17 2017"
+lastime "Sep  7 20:54 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/maledicta/cont/armor/guard_of_health#1$0@0","players/puppy/closed/ptell#0$0@0","players/guilds/healers/obj/shield_spell#0$0@0","players/saber/stuff/lr_mbag#0$0@0","players/rumplemintz/obj/shot#0$0@0","players/rumplemintz/obj/shot#0$0@0",0,0,0,0,0,0,0,0,0,0,0,0,})
+treasure_str ({"players/rumplemintz/obj/shot#0$0@0","players/rumplemintz/obj/shot#0$0@0","players/saber/stuff/lr_mbag#0$0@0","players/guilds/healers/obj/shield_spell#0$0@0","players/puppy/closed/ptell#0$0@0","players/maledicta/cont/armor/guard_of_health#1$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0",0,0,0,0,0,0,0,0,0,0,0,0,})
 pwd 0
 errormsgs 0
 home "/players/guilds/healers/room/hall.c"
@@ -149,7 +149,7 @@ no_give 0
 aprv 0
 hint "cat"
 AnsiPref ({"tell","[1;35m","gossip","[1;33m","risque","[1;31m","junk","[37m","babble",0,"newbie",0,"msg",0,"announce","[1;34m","equip",0,"page",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Sep  6 12:35 2017"
+old_last "Sep  7 13:45 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

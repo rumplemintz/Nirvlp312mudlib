@@ -14931,3 +14931,244 @@ oberon 50-196-21-9-static.hfc.comcastbusiness.net STOR /home/petebre/mymud/lp312
 14155: oberon sent LIST at Thu Sep  7 11:08:27 2017
 1284: reaped 14156 at Thu Sep  7 11:23:27 2017
 1284: reaped 14155 at Thu Sep  7 11:23:30 2017
+1284: connection from 50-196-21-9-static.hfc.comcastbusiness.net [50.196.21.9] at port 8796 at Thu Sep  7 11:34:35 2017
+1284: begat 14811 at Thu Sep  7 11:34:35 2017
+14811: oberon sent USER oberon at Thu Sep  7 11:34:37 2017
+14811: oberon sent PASS ******** at Thu Sep  7 11:34:39 2017
+14811: oberon sent TYPE A at Thu Sep  7 11:34:40 2017
+14811: oberon sent MODE S at Thu Sep  7 11:34:40 2017
+14811: oberon sent STRU F at Thu Sep  7 11:34:40 2017
+14811: oberon sent CWD /players/oberon/closed/backups at Thu Sep  7 11:34:40 2017
+14811: oberon sent PASV at Thu Sep  7 11:34:41 2017
+14811: oberon sent LIST at Thu Sep  7 11:34:41 2017
+1284: connection from 50-196-21-9-static.hfc.comcastbusiness.net [50.196.21.9] at port 8408 at Thu Sep  7 11:34:45 2017
+1284: begat 14812 at Thu Sep  7 11:34:45 2017
+14812: oberon sent USER oberon at Thu Sep  7 11:34:46 2017
+14812: oberon sent PASS ******** at Thu Sep  7 11:34:46 2017
+14812: oberon sent TYPE A at Thu Sep  7 11:34:46 2017
+14812: oberon sent MODE S at Thu Sep  7 11:34:46 2017
+14812: oberon sent STRU F at Thu Sep  7 11:34:47 2017
+14812: oberon sent TYPE I at Thu Sep  7 11:34:47 2017
+14812: oberon sent SIZE /players/oberon/closed/backups/vampob.c at Thu Sep  7 11:34:48 2017
+14812: oberon sent PASV at Thu Sep  7 11:34:48 2017
+oberon 50-196-21-9-static.hfc.comcastbusiness.net RETR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/backups/vampob.c I 16484 Sep  7 11:34:48 2017
+14812: oberon sent RETR /players/oberon/closed/backups/vampob.c at Thu Sep  7 11:34:48 2017
+14812: oberon sent TYPE I at Thu Sep  7 11:41:08 2017
+14812: oberon sent SIZE /players/oberon/closed/backups/vampbase.c at Thu Sep  7 11:41:09 2017
+14812: oberon sent PASV at Thu Sep  7 11:41:09 2017
+oberon 50-196-21-9-static.hfc.comcastbusiness.net RETR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/backups/vampbase.c I 3200 Sep  7 11:41:09 2017
+14812: oberon sent RETR /players/oberon/closed/backups/vampbase.c at Thu Sep  7 11:41:09 2017
+1284: reaped 14811 at Thu Sep  7 11:49:44 2017
+1284: reaped 14812 at Thu Sep  7 11:56:10 2017
+1284: connection from 4c.80.01a8.ip4.static.sl-reverse.com [168.1.128.76] at port 10000 at Thu Sep  7 14:17:34 2017
+1284: begat 17816 at Thu Sep  7 14:17:34 2017
+17816: <none> sent AUTH TLS at Thu Sep  7 14:17:35 2017
+1284: reaped 17816 at Thu Sep  7 14:17:36 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 45501 at Thu Sep  7 18:58:20 2017
+1284: begat 21476 at Thu Sep  7 18:58:20 2017
+21476: oberon sent USER oberon at Thu Sep  7 18:58:21 2017
+21476: oberon sent PASS ******** at Thu Sep  7 18:58:21 2017
+21476: oberon sent PWD at Thu Sep  7 18:58:21 2017
+21476: oberon sent FEAT at Thu Sep  7 18:58:21 2017
+21476: oberon sent HELP SITE at Thu Sep  7 18:58:22 2017
+21476: oberon sent SYST at Thu Sep  7 18:58:22 2017
+21476: oberon sent CWD /players/oberon/closed/backups at Thu Sep  7 18:58:23 2017
+21476: oberon sent CWD /players/oberon/closed at Thu Sep  7 18:58:23 2017
+21476: oberon sent PWD at Thu Sep  7 18:58:23 2017
+21476: oberon sent PASV at Thu Sep  7 18:58:23 2017
+21476: oberon sent LIST -a at Thu Sep  7 18:58:24 2017
+21476: oberon sent CWD /players/oberon/closed/ at Thu Sep  7 18:58:44 2017
+21476: oberon sent PWD at Thu Sep  7 18:58:44 2017
+21476: oberon sent TYPE I at Thu Sep  7 18:58:44 2017
+21476: oberon sent PASV at Thu Sep  7 18:58:45 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net RETR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/MANAGEMENT I 1538 Sep  7 18:58:45 2017
+21476: oberon sent RETR MANAGEMENT at Thu Sep  7 18:58:45 2017
+21476: oberon sent TYPE A at Thu Sep  7 18:58:45 2017
+21476: oberon sent PASV at Thu Sep  7 18:58:46 2017
+21476: oberon sent LIST MANAGEMENT at Thu Sep  7 18:58:47 2017
+21476: oberon sent CWD /players/oberon/closed at Thu Sep  7 18:58:47 2017
+21476: oberon sent PWD at Thu Sep  7 18:58:48 2017
+1284: reaped 21476 at Thu Sep  7 19:00:18 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 42854 at Thu Sep  7 19:01:21 2017
+1284: begat 21525 at Thu Sep  7 19:01:21 2017
+21525: oberon sent USER oberon at Thu Sep  7 19:01:22 2017
+21525: oberon sent PASS ******** at Thu Sep  7 19:01:23 2017
+21525: oberon sent PWD at Thu Sep  7 19:01:23 2017
+21525: oberon sent FEAT at Thu Sep  7 19:01:24 2017
+21525: oberon sent HELP SITE at Thu Sep  7 19:01:24 2017
+21525: oberon sent SYST at Thu Sep  7 19:01:24 2017
+21525: oberon sent CWD /players/oberon/closed at Thu Sep  7 19:01:24 2017
+21525: oberon sent CWD backups at Thu Sep  7 19:01:25 2017
+21525: oberon sent PWD at Thu Sep  7 19:01:25 2017
+21525: oberon sent PASV at Thu Sep  7 19:01:26 2017
+21525: oberon sent LIST -a at Thu Sep  7 19:01:26 2017
+1284: reaped 21525 at Thu Sep  7 19:02:57 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 48399 at Thu Sep  7 20:39:12 2017
+1284: begat 22459 at Thu Sep  7 20:39:12 2017
+22459: oberon sent USER oberon at Thu Sep  7 20:39:13 2017
+22459: oberon sent PASS ******** at Thu Sep  7 20:39:14 2017
+22459: oberon sent PWD at Thu Sep  7 20:39:14 2017
+22459: oberon sent FEAT at Thu Sep  7 20:39:14 2017
+22459: oberon sent HELP SITE at Thu Sep  7 20:39:14 2017
+22459: oberon sent SYST at Thu Sep  7 20:39:15 2017
+22459: oberon sent CWD /players/oberon/closed/backups at Thu Sep  7 20:39:15 2017
+22459: oberon sent CWD /players/oberon/closed at Thu Sep  7 20:39:15 2017
+22459: oberon sent PWD at Thu Sep  7 20:39:16 2017
+22459: oberon sent PASV at Thu Sep  7 20:39:16 2017
+22459: oberon sent LIST -a at Thu Sep  7 20:39:16 2017
+22459: oberon sent CWD tmp at Thu Sep  7 20:40:01 2017
+22459: oberon sent PWD at Thu Sep  7 20:40:01 2017
+22459: oberon sent PASV at Thu Sep  7 20:40:02 2017
+22459: oberon sent LIST -a at Thu Sep  7 20:40:02 2017
+22459: oberon sent CWD superwep at Thu Sep  7 20:40:13 2017
+22459: oberon sent PWD at Thu Sep  7 20:40:13 2017
+22459: oberon sent PASV at Thu Sep  7 20:40:14 2017
+22459: oberon sent LIST -a at Thu Sep  7 20:40:14 2017
+1284: reaped 22459 at Thu Sep  7 20:41:44 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 34653 at Thu Sep  7 20:44:09 2017
+1284: begat 22517 at Thu Sep  7 20:44:09 2017
+22517: oberon sent USER oberon at Thu Sep  7 20:44:10 2017
+22517: oberon sent PASS ******** at Thu Sep  7 20:44:10 2017
+22517: oberon sent PWD at Thu Sep  7 20:44:11 2017
+22517: oberon sent FEAT at Thu Sep  7 20:44:11 2017
+22517: oberon sent HELP SITE at Thu Sep  7 20:44:11 2017
+22517: oberon sent SYST at Thu Sep  7 20:44:12 2017
+22517: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 20:44:12 2017
+22517: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 20:44:13 2017
+22517: oberon sent PWD at Thu Sep  7 20:44:13 2017
+22517: oberon sent TYPE I at Thu Sep  7 20:44:13 2017
+22517: oberon sent PASV at Thu Sep  7 20:44:13 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net RETR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3773 Sep  7 20:44:14 2017
+22517: oberon sent RETR wep.c at Thu Sep  7 20:44:14 2017
+22517: oberon sent TYPE A at Thu Sep  7 20:44:14 2017
+22517: oberon sent PASV at Thu Sep  7 20:44:14 2017
+22517: oberon sent LIST wep.c at Thu Sep  7 20:44:15 2017
+22517: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 20:44:15 2017
+22517: oberon sent PWD at Thu Sep  7 20:44:16 2017
+22517: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 20:45:20 2017
+22517: oberon sent PWD at Thu Sep  7 20:45:20 2017
+22517: oberon sent TYPE I at Thu Sep  7 20:45:20 2017
+22517: oberon sent PASV at Thu Sep  7 20:45:20 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3769 Sep  7 20:45:21 2017
+22517: oberon sent STOR wep.c at Thu Sep  7 20:45:21 2017
+22517: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 20:45:21 2017
+22517: oberon sent PWD at Thu Sep  7 20:45:22 2017
+1284: reaped 22517 at Thu Sep  7 20:46:52 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 34776 at Thu Sep  7 20:48:39 2017
+1284: begat 22583 at Thu Sep  7 20:48:39 2017
+22583: oberon sent USER oberon at Thu Sep  7 20:48:40 2017
+22583: oberon sent PASS ******** at Thu Sep  7 20:48:40 2017
+22583: oberon sent PWD at Thu Sep  7 20:48:41 2017
+22583: oberon sent FEAT at Thu Sep  7 20:48:41 2017
+22583: oberon sent HELP SITE at Thu Sep  7 20:48:41 2017
+22583: oberon sent SYST at Thu Sep  7 20:48:42 2017
+22583: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 20:48:42 2017
+22583: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 20:48:42 2017
+22583: oberon sent PWD at Thu Sep  7 20:48:42 2017
+22583: oberon sent TYPE I at Thu Sep  7 20:48:43 2017
+22583: oberon sent PASV at Thu Sep  7 20:48:43 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3727 Sep  7 20:48:43 2017
+22583: oberon sent STOR wep.c at Thu Sep  7 20:48:43 2017
+22583: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 20:48:44 2017
+22583: oberon sent PWD at Thu Sep  7 20:48:44 2017
+1284: reaped 22583 at Thu Sep  7 20:50:22 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 47804 at Thu Sep  7 22:45:14 2017
+1284: begat 23758 at Thu Sep  7 22:45:14 2017
+23758: oberon sent USER oberon at Thu Sep  7 22:45:15 2017
+23758: oberon sent PASS ******** at Thu Sep  7 22:45:16 2017
+23758: oberon sent PWD at Thu Sep  7 22:45:16 2017
+23758: oberon sent FEAT at Thu Sep  7 22:45:16 2017
+23758: oberon sent HELP SITE at Thu Sep  7 22:45:17 2017
+23758: oberon sent SYST at Thu Sep  7 22:45:18 2017
+23758: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:45:19 2017
+23758: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 22:45:19 2017
+23758: oberon sent PWD at Thu Sep  7 22:45:20 2017
+23758: oberon sent TYPE I at Thu Sep  7 22:45:20 2017
+23758: oberon sent PASV at Thu Sep  7 22:45:20 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3524 Sep  7 22:45:22 2017
+23758: oberon sent STOR wep.c at Thu Sep  7 22:45:22 2017
+23758: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:45:22 2017
+23758: oberon sent PWD at Thu Sep  7 22:45:22 2017
+1284: reaped 23758 at Thu Sep  7 22:46:52 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 36373 at Thu Sep  7 22:48:18 2017
+1284: begat 23834 at Thu Sep  7 22:48:18 2017
+23834: oberon sent USER oberon at Thu Sep  7 22:48:19 2017
+23834: oberon sent PASS ******** at Thu Sep  7 22:48:19 2017
+23834: oberon sent PWD at Thu Sep  7 22:48:19 2017
+23834: oberon sent FEAT at Thu Sep  7 22:48:20 2017
+23834: oberon sent HELP SITE at Thu Sep  7 22:48:20 2017
+23834: oberon sent SYST at Thu Sep  7 22:48:20 2017
+23834: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:48:20 2017
+23834: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 22:48:21 2017
+23834: oberon sent PWD at Thu Sep  7 22:48:21 2017
+23834: oberon sent TYPE I at Thu Sep  7 22:48:22 2017
+23834: oberon sent PASV at Thu Sep  7 22:48:22 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3524 Sep  7 22:48:22 2017
+23834: oberon sent STOR wep.c at Thu Sep  7 22:48:22 2017
+23834: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:48:23 2017
+23834: oberon sent PWD at Thu Sep  7 22:48:23 2017
+1284: reaped 23834 at Thu Sep  7 22:49:53 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 47789 at Thu Sep  7 22:51:12 2017
+1284: begat 23861 at Thu Sep  7 22:51:12 2017
+23861: oberon sent USER oberon at Thu Sep  7 22:51:13 2017
+23861: oberon sent PASS ******** at Thu Sep  7 22:51:13 2017
+23861: oberon sent PWD at Thu Sep  7 22:51:14 2017
+23861: oberon sent FEAT at Thu Sep  7 22:51:14 2017
+23861: oberon sent HELP SITE at Thu Sep  7 22:51:15 2017
+23861: oberon sent SYST at Thu Sep  7 22:51:15 2017
+23861: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:51:15 2017
+23861: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 22:51:15 2017
+23861: oberon sent PWD at Thu Sep  7 22:51:16 2017
+23861: oberon sent TYPE I at Thu Sep  7 22:51:16 2017
+23861: oberon sent PASV at Thu Sep  7 22:51:17 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3505 Sep  7 22:51:17 2017
+23861: oberon sent STOR wep.c at Thu Sep  7 22:51:17 2017
+23861: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:51:18 2017
+23861: oberon sent PWD at Thu Sep  7 22:51:18 2017
+23861: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 22:52:31 2017
+23861: oberon sent PWD at Thu Sep  7 22:52:31 2017
+23861: oberon sent PASV at Thu Sep  7 22:52:32 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3513 Sep  7 22:52:32 2017
+23861: oberon sent STOR wep.c at Thu Sep  7 22:52:32 2017
+23861: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:52:33 2017
+23861: oberon sent PWD at Thu Sep  7 22:52:33 2017
+1284: reaped 23861 at Thu Sep  7 22:54:03 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 48723 at Thu Sep  7 22:54:09 2017
+1284: begat 23880 at Thu Sep  7 22:54:09 2017
+23880: oberon sent USER oberon at Thu Sep  7 22:54:10 2017
+23880: oberon sent PASS ******** at Thu Sep  7 22:54:10 2017
+23880: oberon sent PWD at Thu Sep  7 22:54:11 2017
+23880: oberon sent FEAT at Thu Sep  7 22:54:11 2017
+23880: oberon sent HELP SITE at Thu Sep  7 22:54:11 2017
+23880: oberon sent SYST at Thu Sep  7 22:54:11 2017
+23880: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:54:12 2017
+23880: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 22:54:12 2017
+23880: oberon sent PWD at Thu Sep  7 22:54:12 2017
+23880: oberon sent TYPE I at Thu Sep  7 22:54:12 2017
+23880: oberon sent PASV at Thu Sep  7 22:54:13 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3631 Sep  7 22:54:15 2017
+23880: oberon sent STOR wep.c at Thu Sep  7 22:54:15 2017
+23880: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:54:15 2017
+23880: oberon sent PWD at Thu Sep  7 22:54:15 2017
+1284: reaped 23880 at Thu Sep  7 22:55:45 2017
+1284: connection from c-71-59-219-169.hsd1.or.comcast.net [71.59.219.169] at port 48991 at Thu Sep  7 22:57:42 2017
+1284: begat 23909 at Thu Sep  7 22:57:42 2017
+23909: oberon sent USER oberon at Thu Sep  7 22:57:43 2017
+23909: oberon sent PASS ******** at Thu Sep  7 22:57:43 2017
+23909: oberon sent PWD at Thu Sep  7 22:57:43 2017
+23909: oberon sent FEAT at Thu Sep  7 22:57:43 2017
+23909: oberon sent HELP SITE at Thu Sep  7 22:57:44 2017
+23909: oberon sent SYST at Thu Sep  7 22:57:44 2017
+23909: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:57:44 2017
+23909: oberon sent CWD /players/oberon/closed/tmp/superwep/ at Thu Sep  7 22:57:44 2017
+23909: oberon sent PWD at Thu Sep  7 22:57:45 2017
+23909: oberon sent TYPE I at Thu Sep  7 22:57:45 2017
+23909: oberon sent PASV at Thu Sep  7 22:57:45 2017
+oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/superwep/wep.c I 3720 Sep  7 22:57:46 2017
+23909: oberon sent STOR wep.c at Thu Sep  7 22:57:46 2017
+23909: oberon sent CWD /players/oberon/closed/tmp/superwep at Thu Sep  7 22:57:46 2017
+23909: oberon sent PWD at Thu Sep  7 22:57:46 2017
+1284: reaped 23909 at Thu Sep  7 22:59:17 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.

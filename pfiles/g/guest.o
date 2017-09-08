@@ -4,8 +4,8 @@ np_xlevel 0
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 846
-lr_period_start 1504202160
+np_age 850
+lr_period_start 1504881224
 lr_required_exp 1776
 lr_exp 0
 lr_top_exp 393
@@ -55,14 +55,14 @@ hunter 0
 hunting_time -57
 cap_name "Guest"
 vis_name "Guest"
-spell_points -191941254
+spell_points -191941252
 max_spell 122
 spell_name 0
 disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 1969107
+age 1969111
 is_invis 0
 frog 0
 whimpy 23
@@ -105,7 +105,7 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm "BG/players/boltar/closed/zx.cBGG#"
-hostname "50-201-175-18-static.hfc.comcastbusiness.net"
+hostname "pool-71-115-128-14.syrcny.fios.verizon.net"
 ok_edit "none#"
 mailaddr "none"
 saved_where 0
@@ -126,20 +126,20 @@ fight_area 0
 mon 2
 phys_at ({1,5,8,140,0,0,})
 no_spell 0
-called_from_ip "50.201.175.18"
+called_from_ip "71.115.128.14"
 msghome "goes home"
 description "Guest is clueless "
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Sep  5 12:57 2017"
+lastime "Sep  8 09:33 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/mokri/obj/farseerBot#0$0@0","players/softly/nhall/obj/chain#0$0@0","players/sandman/NEWBIE/newbie_bag#0$0@0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+treasure_str ({"players/sandman/NEWBIE/newbie_bag#0$0@0","players/softly/nhall/obj/chain#0$0@0","players/mokri/obj/farseerBot#0$0@0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
 pwd 0
 errormsgs 0
 home 0
@@ -149,7 +149,7 @@ no_give 0
 aprv 0
 hint "12"
 AnsiPref ({"page",0,"tell",0,"gossip","[1;36m","risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,"roomtitle",0,"party",0,})
-old_last "Sep  1 13:25 2017"
+old_last "Sep  5 12:57 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

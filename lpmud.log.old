@@ -1,151 +1,151 @@
-Restart 19. Wed Sep  6 22:50:56 CDT 2017
+Restart 20. Thu Sep  7 06:05:11 CDT 2017
 Loading init file room/init_file
 Preloading: closed/wiz_soul.c 0.00
-Preloading: obj/armor 0.02
+Preloading: obj/armor 0.00
 Preloading: obj/clean 0.00
-Preloading: obj/living.c 0.05
-Preloading: obj/monster 0.00
-Preloading: obj/monster_lars 0.02
-Preloading: obj/player 0.13
-Preloading: obj/soul.c 0.00
+Preloading: obj/living.c 0.03
+Preloading: obj/monster 0.02
+Preloading: obj/monster_lars 0.00
+Preloading: obj/player 0.08
+Preloading: obj/soul.c 0.02
 Preloading: obj/treasure 0.00
-Preloading: obj/weapon 0.02
-Preloading: room/adv_guild 0.00
-Preloading: room/church 0.02
+Preloading: obj/weapon 0.00
+Preloading: room/adv_guild 0.02
+Preloading: room/church 0.00
 Preloading: room/vill_green 0.02
-Preloading: room/exlv_guild 0.02
+Preloading: room/exlv_guild 0.00
 Preloading: room/prison 0.00
 Preloading: room/quest_room.c 0.00
-Preloading: players/bastion/closed/ring.c 0.02
+Preloading: players/bastion/closed/ring.c 0.00
 Preloading: players/bastion/closed/ringz.c 0.00
 Preloading: players/boltar/hotel/hotel.c 0.03
-Preloading: players/boltar/lv1/eat_maker 0.05
+Preloading: players/boltar/lv1/eat_maker 0.03
 Preloading: players/boltar/templar/sponsor.c 0.00
 Preloading: players/boltar/things/hoth 0.00
 Preloading: players/boltar/xmas.c 0.00
-Preloading: players/dragnar/tmnt.c 0.08
+Preloading: players/dragnar/tmnt.c 0.07
 Preloading: players/eurale/Keep/OBJ/poison.c 0.00
 Preloading: players/eurale/VAMPIRES/vampob.c 0.00
 Preloading: players/feldegast/healers/gob.c 0.00
-Preloading: players/guilds/bards/button.c 0.02
+Preloading: players/guilds/bards/button.c 0.00
 Preloading: players/guilds/bards/instrument.c 0.00
 Preloading: players/guilds/dopplegangers/guildob.c 0.02
 Preloading: players/nooneelse/black/vampire_fangs.c 0.02
 Preloading: players/sado/shop/drunk.c 0.00
 Preloading: players/aislinn/castle.c 0.00
 Preloading: players/angmar/castle.c 0.00
-Preloading: players/kantele/castle.c 0.02
+Preloading: players/kantele/castle.c 0.00
 Preloading: players/morgar/castle.c 0.00
-Preloading: players/padrone/castle.c 0.02
-Preloading: players/quantos/castle.c 0.00
+Preloading: players/padrone/castle.c 0.00
+Preloading: players/quantos/castle.c 0.02
 Preloading: players/airwoman/castle.c 0.00
-Preloading: players/angel/castle.c 0.03
+Preloading: players/angel/castle.c 0.02
 Preloading: players/anshar/castle.c 0.00
 Preloading: players/arrina/castle.c 0.00
 Preloading: players/astaroth/castle.c 0.00
 Preloading: players/bagera/castle.c 0.00
 Preloading: players/bastion/castle.c 0.00
-Preloading: players/beck/castle.c 0.07
+Preloading: players/beck/castle.c 0.03
 Preloading: players/beren/castle.c 0.00
 Preloading: players/blackadder/castle.c 0.00
 Preloading: players/blue/castle.c 0.00
-Preloading: players/boltar/castle.c 0.07
+Preloading: players/boltar/castle.c 0.03
 Preloading: players/brittany/castle.c 0.00
 Preloading: players/catacomb/castle.c 0.00
-Preloading: players/catt/castle.c 0.02
-Preloading: players/catwoman/castle.c 0.00
-Preloading: players/chip/castle.c 0.02
+Preloading: players/catt/castle.c 0.00
+Preloading: players/catwoman/castle.c 0.02
+Preloading: players/chip/castle.c 0.00
 Preloading: players/cloud/castle.c 0.00
 Preloading: players/coldwind/castle.c 0.00
 Preloading: players/cosmo/castle.c 0.00
 Preloading: players/cyrex/castle.c 0.00
-Preloading: players/daranath/castle.c 0.03
+Preloading: players/daranath/castle.c 0.02
 Preloading: players/deathmonger/castle.c 0.02
 Preloading: players/dersharp/castle.c 0.00
 Preloading: players/doctor/castle.c 0.00
-Preloading: players/dragnar/castle.c 0.00
-Preloading: players/dreamspeakr/castle.c 0.02
-Preloading: players/dune/castle.c 0.03
-Preloading: players/dusan/castle.c 0.00
-Preloading: players/earwax/castle.c 0.02
-Preloading: players/emerson/castle.c 0.02
+Preloading: players/dragnar/castle.c 0.02
+Preloading: players/dreamspeakr/castle.c 0.00
+Preloading: players/dune/castle.c 0.02
+Preloading: players/dusan/castle.c 0.02
+Preloading: players/earwax/castle.c 0.00
+Preloading: players/emerson/castle.c 0.00
 Preloading: players/eurale/castle.c 0.02
 Preloading: players/fakir/castle.c 0.00
-Preloading: players/feldegast/castle.c 0.02
+Preloading: players/feldegast/castle.c 0.00
 Preloading: players/forbin/castle.c 0.02
 Preloading: players/francesco/castle.c 0.00
-Preloading: players/fred/castle.c 0.17
+Preloading: players/fred/castle.c 0.08
 Preloading: players/gemini/castle.c 0.00
-Preloading: players/gowron/castle.c 0.00
+Preloading: players/gowron/castle.c 0.02
 Preloading: players/grimm/castle.c 0.00
 Preloading: players/hagbard/castle.c 0.00
-Preloading: players/haji/castle.c 0.03
+Preloading: players/haji/castle.c 0.02
 Preloading: players/hawkeye/castle.c 0.00
 Preloading: players/heroin/castle.c 0.00
 Preloading: players/hippo/castle.c 0.00
 Preloading: players/hogath/castle.c 0.00
 Preloading: players/humble/castle.c 0.00
-Preloading: players/hurtbrain/castle.c 0.02
+Preloading: players/hurtbrain/castle.c 0.00
 Preloading: players/illarion/castle.c 0.00
 Preloading: players/jamila/castle.c 0.00
 Preloading: players/jara/castle.c 0.02
-Preloading: players/jaraxle/castle.c 0.02
+Preloading: players/jaraxle/castle.c 0.00
 Preloading: players/jareel/castle.c 0.00
 Preloading: players/jenny/castle.c 0.00
 Preloading: players/karash/castle.c 0.00
 Preloading: players/katya/castle.c 0.00
-Preloading: players/khrell/castle.c 0.00
+Preloading: players/khrell/castle.c 0.02
 Preloading: players/lacar/castle.c 0.00
-Preloading: players/laera/castle.c 0.02
+Preloading: players/laera/castle.c 0.00
 Preloading: players/languilen/castle.c 0.00
-Preloading: players/lew/castle.c 0.00
+Preloading: players/lew/castle.c 0.02
 Preloading: players/linus/castle.c 0.00
-Preloading: players/llew/castle.c 0.02
-Preloading: players/maledicta/castle.c 0.05
+Preloading: players/llew/castle.c 0.00
+Preloading: players/maledicta/castle.c 0.02
 Preloading: players/martha/castle.c 0.00
 Preloading: players/mistress/castle.c 0.00
-Preloading: players/mizan/castle.c 0.05
+Preloading: players/mizan/castle.c 0.03
 Preloading: players/molasar/castle.c 0.00
 Preloading: players/morgoth/castle.c 0.00
 Preloading: players/mosobp/castle.c 0.00
 Preloading: players/mouzar/castle.c 0.00
-Preloading: players/mythos/castle.c 0.18
+Preloading: players/mythos/castle.c 0.15
 Preloading: players/nightshade/castle.c 0.00
 Preloading: players/nooneelse/castle.c 0.00
-Preloading: players/oberon/castle.c 0.00
-Preloading: players/pain/castle.c 0.03
+Preloading: players/oberon/castle.c 0.02
+Preloading: players/pain/castle.c 0.00
 Preloading: players/pathfinder/castle.c 0.00
-Preloading: players/paulasx/castle.c 0.00
-Preloading: players/pavlik/castle.c 0.02
-Preloading: players/persephone/castle.c 0.02
-Preloading: players/pestilence/castle.c 0.05
+Preloading: players/paulasx/castle.c 0.02
+Preloading: players/pavlik/castle.c 0.00
+Preloading: players/persephone/castle.c 0.00
+Preloading: players/pestilence/castle.c 0.03
 Preloading: players/puppy/castle.c 0.00
 Preloading: players/rich/castle.c 0.00
-Preloading: players/saber/castle.c 0.05
-Preloading: players/sado/castle.c 0.03
+Preloading: players/saber/castle.c 0.03
+Preloading: players/sado/castle.c 0.02
 Preloading: players/sami/castle.c 0.00
-Preloading: players/sandman/castle.c 0.02
+Preloading: players/sandman/castle.c 0.00
 Preloading: players/scathe/castle.c 0.00
-Preloading: players/shinshi/castle.c 0.03
+Preloading: players/shinshi/castle.c 0.02
 Preloading: players/snakespear/castle.c 0.00
-Preloading: players/snow/castle.c 0.00
+Preloading: players/snow/castle.c 0.02
 Preloading: players/softly/castle.c 0.00
-Preloading: players/sparrow/castle.c 0.02
+Preloading: players/sparrow/castle.c 0.00
 Preloading: players/star/castle.c 0.00
 Preloading: players/stark/castle.c 0.00
 Preloading: players/traff/castle.c 0.00
-Preloading: players/tristian/castle.c 0.02
+Preloading: players/tristian/castle.c 0.00
 Preloading: players/trix/castle.c 0.00
 Preloading: players/ultramagnus/castle.c 0.00
-Preloading: players/unsane/castle.c 0.00
-Preloading: players/valen/castle.c 0.02
-Preloading: players/vertebraker/castle.c 0.18
+Preloading: players/unsane/castle.c 0.02
+Preloading: players/valen/castle.c 0.00
+Preloading: players/vertebraker/castle.c 0.12
 Preloading: players/vital/castle.c 0.03
 Preloading: players/wicket/castle.c 0.02
-Preloading: players/wizardchild/castle.c 0.02
-Preloading: players/wocket/castle.c 0.02
+Preloading: players/wizardchild/castle.c 0.00
+Preloading: players/wocket/castle.c 0.00
 Preloading: players/wren/castle.c 0.00
-Preloading: players/zeus/castle.c 0.07
+Preloading: players/zeus/castle.c 0.03
 Preloading: players/zone/castle.c 0.00
 Setting up ipc.
 clean_up called on 0 objects.
@@ -154,27 +154,205 @@ clean_up called on 0 objects.
 clean_up called on 0 objects.
 clean_up called on 0 objects.
 clean_up called on 0 objects.
-clean_up called on 169 objects.
-clean_up called on 9 objects.
-clean_up called on 0 objects.
-clean_up called on 1 objects.
-clean_up called on 4 objects.
-clean_up called on 45 objects.
-clean_up called on 63 objects.
-clean_up called on 36 objects.
-clean_up called on 26 objects.
-clean_up called on 1 objects.
-clean_up called on 3 objects.
-clean_up called on 30 objects.
+clean_up called on 165 objects.
+clean_up called on 137 objects.
+clean_up called on 28 objects.
+clean_up called on 33 objects.
+clean_up called on 13 objects.
+clean_up called on 89 objects.
+clean_up called on 119 objects.
+players/dragnar/exec_temp.c: syntax error line 7
+clean_up called on 118 objects.
+"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/mitchell#2754") line 348
+"attack" in "obj/monster" ("players/angel/area/stargate/npc/mitchell#2754") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/mitchell#2754") line 2040
+bin/play/_score.c: Bad argument 1 type to efun atoi() line 112
+bin/play/_score.c: Missing #else line 125
+"cmd_hook" in "obj/player.c" ("obj/player#2764") line 3402
+"::cmd_hook" in "obj/user/cmd_hook.c" ("obj/player#2764") line 57
+bin/play/_score.c: Bad argument 1 type to efun atoi() line 112
+bin/play/_score.c: Missing #else line 125
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+bin/play/_score.c: Bad argument 1 type to efun atoi() line 112
+bin/play/_score.c: Missing #else line 125
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+bin/play/_score.c: Casts are only legal for type mixed, or when unknown: "int " line 112
+bin/play/_score.c: Casts are only legal for type mixed, or when unknown: "int " line 112
+"show_score" in "players/eurale/VAMPIRES/vampob.c" ("players/eurale/VAMPIRES/vampob#2617") line 300
+"show_score" in "players/eurale/VAMPIRES/vampbase.c" ("players/eurale/VAMPIRES/vampbase") line 47
+"score" in "obj/player.c" ("obj/player#2616") line 324
+clean_up called on 85 objects.
+clean_up called on 76 objects.
 clean_up called on 47 objects.
-clean_up called on 31 objects.
-clean_up called on 34 objects.
-clean_up called on 3 objects.
-clean_up called on 4 objects.
-clean_up called on 27 objects.
-clean_up called on 41 objects.
-clean_up called on 32 objects.
-clean_up called on 31 objects.
-clean_up called on 7 objects.
-clean_up called on 18 objects.
+clean_up called on 49 objects.
+clean_up called on 114 objects.
+clean_up called on 83 objects.
+clean_up called on 92 objects.
+clean_up called on 73 objects.
+"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3778") line 348
+"attack" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3778") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/corporal#3778") line 2040
+clean_up called on 78 objects.
+"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3770") line 348
+"attack" in "obj/monster" ("players/angel/area/stargate/npc/corporal#3770") line 1102
+"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/corporal#3770") line 2040
+clean_up called on 55 objects.
+clean_up called on 71 objects.
+clean_up called on 60 objects.
+clean_up called on 123 objects.
+clean_up called on 56 objects.
+clean_up called on 52 objects.
+clean_up called on 48 objects.
+clean_up called on 61 objects.
+clean_up called on 74 objects.
+clean_up called on 91 objects.
+clean_up called on 62 objects.
+clean_up called on 50 objects.
+clean_up called on 43 objects.
+clean_up called on 75 objects.
+clean_up called on 102 objects.
+clean_up called on 96 objects.
+clean_up called on 49 objects.
+clean_up called on 42 objects.
+clean_up called on 54 objects.
+"elements" in "players/snow/closed/test/shield.c" ("players/snow/closed/test/shield#532") line 39
+"combat_effects" in "players/snow/closed/test/shield.c" ("players/snow/closed/test/shield#532") line 53
+"hit_player" in "obj/living.c" ("players/illarion/high/mon/duncan#4400") line 322
+"do_damage" in "obj/living.c" ("players/illarion/high/mon/duncan#4400") line 696
+"death" in "obj/living.c" ("players/illarion/high/mon/duncan#4400") line 1022
+"second_life" in "obj/monster" ("players/illarion/high/mon/duncan#4400") line 577
+"monster_died" in "players/illarion/high/mon/duncan.c" ("players/illarion/high/mon/duncan#4400") line 76
+clean_up called on 71 objects.
+clean_up called on 55 objects.
+clean_up called on 79 objects.
+clean_up called on 49 objects.
+clean_up called on 35 objects.
+clean_up called on 66 objects.
+clean_up called on 79 objects.
+clean_up called on 70 objects.
+clean_up called on 104 objects.
+clean_up called on 75 objects.
+clean_up called on 45 objects.
+clean_up called on 65 objects.
+clean_up called on 67 objects.
+clean_up called on 62 objects.
+clean_up called on 78 objects.
+clean_up called on 47 objects.
+comm1: write EPIPE detected
+clean_up called on 45 objects.
+clean_up called on 87 objects.
+clean_up called on 104 objects.
+clean_up called on 99 objects.
+clean_up called on 122 objects.
+clean_up called on 99 objects.
+clean_up called on 77 objects.
+clean_up called on 73 objects.
+clean_up called on 117 objects.
+clean_up called on 115 objects.
+"qtHook" in "closed/wiz_soul.c" ("closed/wiz_soul#2565") line 21
+"process_hook" in "closed/wiz_soul.c" ("closed/wiz_soul#2565") line 21
+"cmd_hook" in "obj/player.c" ("obj/player#2563") line 3402
+"::cmd_hook" in "obj/user/cmd_hook.c" ("obj/player#2563") line 57
+"cmd_kill" in "bin/play/_kill.c" ("bin/play/_kill") line 27
+"attack_object" in "obj/living.c" ("obj/player#2563") line 2823
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 65
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 56
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 94
+"heart_beat" in "obj/player.c" ("obj/player#2563") line 1556
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 65
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 56
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5860") line 94
+"qtHook" in "closed/wiz_soul.c" ("closed/wiz_soul#5861") line 21
+"process_hook" in "closed/wiz_soul.c" ("closed/wiz_soul#5861") line 21
+"cmd_hook" in "obj/player.c" ("obj/player#2563") line 3402
+"::cmd_hook" in "obj/user/cmd_hook.c" ("obj/player#2563") line 57
+"cmd_kill" in "bin/play/_kill.c" ("bin/play/_kill") line 27
+"attack_object" in "obj/living.c" ("obj/player#2563") line 2823
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 63
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 54
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 92
+"heart_beat" in "obj/player.c" ("obj/player#2563") line 1556
+"attack" in "obj/living.c" ("obj/player#2563") line 2015
+"hit" in "obj/weapon.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 378
+"weapon_hit" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 63
+"do_special" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 54
+"do_str" in "players/oberon/closed/tmp/superwep/wep.c" ("players/oberon/closed/tmp/superwep/wep#5862") line 92
+clean_up called on 125 objects.
+clean_up called on 79 objects.
+clean_up called on 66 objects.
+clean_up called on 56 objects.
+clean_up called on 90 objects.
+clean_up called on 90 objects.
+clean_up called on 99 objects.
+clean_up called on 74 objects.
+clean_up called on 56 objects.
+clean_up called on 56 objects.
+clean_up called on 81 objects.
+clean_up called on 83 objects.
+clean_up called on 97 objects.
+clean_up called on 60 objects.
+clean_up called on 64 objects.
+clean_up called on 59 objects.
+clean_up called on 88 objects.
+clean_up called on 79 objects.
+clean_up called on 94 objects.
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#5737") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#5737") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#5737") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f11") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#5737") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#1454") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#1454") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#1454") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f11") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#1454") line 251
+"init" in "obj/monster" ("players/angel/area/nox/npc/fenri#1454") line 637
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#3934") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#3934") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#3934") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#3934") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4217") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4217") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4217") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4217") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4427") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4427") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4427") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4427") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#3962") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#3962") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#3962") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#3962") line 216
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4914") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4914") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4914") line 1348
+"move" in "room/room.c" ("players/angel/area/nox/room/f04") line 313
+"move_player" in "obj/living.c" ("players/angel/area/nox/npc/fenri#4914") line 251
+"init" in "obj/monster" ("players/angel/area/nox/npc/fenri#4914") line 637
+"reset" in "players/angel/area/nox/npc/fenri.c" ("players/angel/area/nox/npc/fenri#4404") line 23
+"::reset" in "obj/monster" ("players/angel/area/nox/npc/fenri#4404") line 111
+"wander" in "obj/monster" ("players/angel/area/nox/npc/fenri#4404") line 1305
+clean_up called on 63 objects.
+clean_up called on 50 objects.
+clean_up called on 62 objects.
+clean_up called on 85 objects.
+clean_up called on 84 objects.
+clean_up called on 102 objects.
+clean_up called on 61 objects.
+clean_up called on 53 objects.
+clean_up called on 56 objects.
 Shutting down ipc...

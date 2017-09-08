@@ -16,30 +16,31 @@ inherit "/obj/weapon.c";
 #define INT_COST 1
 #define MAG_COST 1
 #define STA_COST 1
-#define STR_COST 200
-#define DEX_COST 50
+#define STR_COST 100
+#define DEX_COST 30
 #define LUC_COST 0
 #define PIE_COST 1
 #define STE_COST 1
 #define WIL_COST 1
 
-id(str) { if(str == "wep" || str == "weapon" || str == "super_weapon") return 1; }
+object user, wep, enemy;
+
+id(str) { return (str == "wep" || str == "weapon" || str == "super_weapon"); }
 short() { return "A Special Weapon"; }
 long() { write("A VERY Special Weapon\n"); }
 
 reset(arg) {
 	::reset(arg);
 	if (arg) return;
-	set_hit_func(this_object());
 	set_type("sword");
 	set_class(7);
-	set_weight(1);
+	set_weight(2);
 	set_value(0);
 	set_save_flag(0);
 	set_hit_func(this_object());
 }
 
-query_hypermode() {
+hypermode() {
 	return (pALL >= 300);
 }
 
@@ -58,7 +59,7 @@ do_special() {
 
 weapon_hit(attacker) {
 	do_special();
-	if(query_hypermode() && !random(10)) {
+	if(hypermode() && !random(10)) {
 		write(HIR+"HYPER MODE!!!"+NORM+"\n");
 		do_special();
 	}
@@ -73,25 +74,31 @@ spellprice(object user, int price) {
 
 
 /*** CHA - Alignment Attack? ***/
-do_cha() { return 0; }
+do_cha() {
+	/* If good, evil dmg. If evil, good dmg */
+	return 0;
+}
 
 /*** INT - Lowers Enemy AC ***/
-do_int() { return 0; }
+do_int() {
+	/* Finds weak spot */
+	return 0;
+}
 
 /*** MAG - Unassigned ***/
 do_mag() { return 0; }
 
 /*** STA - Lowers Enemy WC ***/
-do_sta() { return 0; }
+do_sta() {
+	/* Hunker Down */
+	return 0;
+}
 
 /*** STR - Extra Damage ***/
 do_str() {
-	object user, wep, enemy;
 	user = environment(this_object());
 	wep = this_object();
 	enemy = user->query_attack();
-
-	/* if(!enemy || random(2)) { return 0; } */
 	if(!enemy || !(random(pSTR) > random(30))) { return 0; }
 	
 	tell_room(environment(user), HIR+user->query_name()+" slams into "+enemy->query_name()+" with all "+user->query_possessive()+" strength!"+NORM+"\n");
@@ -104,12 +111,10 @@ do_str() {
 do_dex() {
 	int dam, times;
 	string message;
-	object user, wep, enemy;
 	user = environment(this_object());
 	wep = this_object();
 	enemy = user->query_attack();
 	times = pDEX / 10;
-
 	while(enemy && times--) {
 		if(random(2)) { return 0; }
 		dam = random(wep->query_class());
@@ -127,18 +132,15 @@ do_dex() {
 /*** LUC - Increase WC ***/
 do_luc() {
 	int wclass;
-	object user, wep;
 	user = environment(this_object());
 	wep = this_object();
 	wclass = wep->query_class();
-	
 	if(random(pLUC) == random(30)) {
 		tell_room(environment(user), BLU+user->query_name()+" gets better with "+user->query_possessive()+" weapon."+NORM+"\n");
 		wclass += 1;
 		wep->set_class(wclass);
 		spellprice(user, LUC_COST);
 	}
-	
 	return 0;
 }
 
