@@ -1,11 +1,11 @@
-nrpoints 45401
-totalpoints 70401
+nrpoints 45402
+totalpoints 70402
 np_xlevel 8
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 755
-lr_period_start 1499754806
+np_age 239
+lr_period_start 1505187045
 lr_required_exp 150000
 lr_exp 0
 lr_top_exp 1314316
@@ -25,7 +25,7 @@ hcnum 1
 crime 0
 money 64700
 luck2 20
-lucky 195
+lucky 352
 name "storm"
 gender "male"
 msgin "arrives"
@@ -62,11 +62,11 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 3059484
+age 3060075
 is_invis 18
 frog 0
 whimpy 35
-auto_load "/players/dreamspeakr/WEDDING/OBJ/wedding_ring:^!/players/boltar/templar/items/bracer.c:^!/players/saber/closed/new_mini/gypsy.c:^!players/pain/NEW/items/star.c:^!/players/saber/closed/new_mini/blade.c:^!"
+auto_load "/players/saber/closed/new_mini/blade.c:^!players/pain/NEW/items/star.c:^!/players/saber/closed/new_mini/gypsy.c:^!/players/boltar/templar/items/bracer.c:^!/players/dreamspeakr/WEDDING/OBJ/wedding_ring:^!"
 current_room "players/saber/tower/tower10+1.c"
 alignment 0
 Armors 0
@@ -105,7 +105,7 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm 0
-hostname "host67142001296.direcway.com"
+hostname "host6714200696.direcway.com"
 ok_edit "none#"
 mailaddr "none"
 saved_where 0
@@ -126,20 +126,20 @@ fight_area 0
 mon 1
 phys_at ({1,6,0,232,0,0,})
 no_spell 1
-called_from_ip "67.142.96.12"
+called_from_ip "67.142.96.6"
 msghome "goes home"
 description "a tall bard with blue eyes and short sandy blond hair.He has a charming and witty personality about him.His cloak is covered with colored patches like a gleemans cloak.His blade shines in the sun reveiling mystic runes on the bladeYou get a feeling from hi knowledge he is one of the Bardic gc's"
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Jul 11 01:33 2017"
+lastime "Sep 11 22:30 2017"
 player_killing 0
 invs_count 1
 invs_flag 1
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/saber/stuff/lr_mbag#0$0@0","players/arrina/heals/ale#1$0@0","players/saber/food/potionheal#0$0@0","players/saber/food/potionheal#0$0@0","players/jareel/heals/YELMALIAN/lthpts#4$0@0","players/jaraxle/3rd/pyramid/items/myst_cloak#0$0@0","players/jenny/wings/items/gstick#0$428@435","players/jenny/wings/items/tedskates#0$0@0","players/saber/armor/dragonhelm#0$0@0","players/fakir/ways/ARM/tshield#0$0@0","players/maledicta/cont/rdragon/sbracers#-1-$0@0","players/jaraxle/cont/bdragon/amulet#0$0@0","players/snow/cam/stuff/plate#0$0@0","players/angel/area/school/obj/flow_scarf_01#0$0@0","players/zeus/museum/OBJ/bug_ring#0$0@0","players/jaraxle/3rd/alt/items/nature_orb#0$0@0","players/maledicta/cont/armor/guard_of_health#1$0@0","players/vertebraker/swamp/OBJ/denim_shorts#0$0@0","players/vertebraker/swamp/OBJ/j_earring#0$0@0","players/vertebraker/swamp/OBJ/j_robes#0$0@0","players/vertebraker/swamp/x1/g-necklace#X1CHINGY6X$0@0","players/jenny/wings/items/sblocker#0$0@0","players/vertebraker/guilds/samurai/armor/obi#0$0@0","players/vertebraker/guilds/samurai/armor/mabisashi#0$0@0","players/vertebraker/guilds/samurai/armor/hakama#0$0@0",})
+treasure_str ({"players/vertebraker/guilds/samurai/armor/hakama#0$0@0","players/vertebraker/guilds/samurai/armor/mabisashi#0$0@0","players/vertebraker/guilds/samurai/armor/obi#0$0@0","players/jenny/wings/items/sblocker#0$0@0","players/vertebraker/swamp/x1/g-necklace#X1CHINGY6X$0@0","players/vertebraker/swamp/OBJ/j_robes#0$0@0","players/vertebraker/swamp/OBJ/j_earring#0$0@0","players/vertebraker/swamp/OBJ/denim_shorts#0$0@0","players/maledicta/cont/armor/guard_of_health#1$0@0","players/jaraxle/3rd/alt/items/nature_orb#0$0@0","players/zeus/museum/OBJ/bug_ring#0$0@0","players/angel/area/school/obj/flow_scarf_01#0$0@0","players/snow/cam/stuff/plate#0$0@0","players/jaraxle/cont/bdragon/amulet#0$0@0","players/maledicta/cont/rdragon/sbracers#-1-$0@0","players/fakir/ways/ARM/tshield#0$0@0","players/saber/armor/dragonhelm#0$0@0","players/jenny/wings/items/tedskates#0$0@0","players/jenny/wings/items/gstick#0$428@435","players/jaraxle/3rd/pyramid/items/myst_cloak#0$0@0","players/jareel/heals/YELMALIAN/lthpts#4$0@0","players/saber/food/potionheal#0$0@0","players/saber/food/potionheal#0$0@0","players/arrina/heals/ale#1$0@0","players/saber/stuff/lr_mbag#0$0@0",})
 pwd 0
 errormsgs 0
 home "/players/guilds/bards/bardrooms/common.c"
@@ -149,7 +149,7 @@ no_give 0
 aprv 0
 hint "lil sis"
 AnsiPref ({"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"page",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Jun 10 22:19 2017"
+old_last "Jul 11 01:33 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

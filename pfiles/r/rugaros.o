@@ -4,8 +4,8 @@ np_xlevel 0
 nbday "072514"
 rlbday 0
 penalty_left 0
-np_age 712
-lr_period_start 1504535176
+np_age 876
+lr_period_start 1505736262
 lr_required_exp 30296
 lr_exp 0
 lr_top_exp 315236
@@ -60,7 +60,7 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 20651
+age 20815
 is_invis 0
 frog 0
 whimpy 0
@@ -128,24 +128,24 @@ description 0
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Sep  4 09:26 2017"
+lastime "Sep 18 07:04 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/angel/area/school/obj/flow_scarf_01#0$0@0","players/khrell/armors/skaven/foulpendant#0$0@0","players/angel/area/school/obj/mason_ring_01#0$0@0","players/jareel/armor/chaos/crimson_cape#0$0@0","players/vertebraker/swamp/OBJ/j_earring#0$0@0","players/vertebraker/swamp/OBJ/denim_shorts#0$0@0","players/vertebraker/swamp/OBJ/j_robes#0$0@0","players/dragnar/WalkingDead/heals/firewater#1$0@0","players/jareel/heals/YELMALIAN/htmana#10$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0",0,0,0,0,0,0,0,0,0,0,})
+treasure_str ({"players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/dragnar/WalkingDead/heals/firewater#3$0@0","players/jareel/heals/YELMALIAN/htmana#10$0@0","players/dragnar/WalkingDead/heals/firewater#1$0@0","players/vertebraker/swamp/OBJ/j_robes#0$0@0","players/vertebraker/swamp/OBJ/denim_shorts#0$0@0","players/vertebraker/swamp/OBJ/j_earring#0$0@0","players/jareel/armor/chaos/crimson_cape#0$0@0","players/angel/area/school/obj/mason_ring_01#0$0@0","players/khrell/armors/skaven/foulpendant#0$0@0","players/angel/area/school/obj/flow_scarf_01#0$0@0",0,0,0,0,0,0,0,0,0,0,})
 pwd 0
 errormsgs 0
-home "players/zeus/realm/taus/road1.c"
+home "players/zeus/realm/taus/guth10.c"
 ex_lv 0
 qc 1
 no_give 0
 aprv 0
 hint "MMMMM"
 AnsiPref ({"page",0,"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Jun 17 21:11 2017"
+old_last "Sep  4 09:26 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

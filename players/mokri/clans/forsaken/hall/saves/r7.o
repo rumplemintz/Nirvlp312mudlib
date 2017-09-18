@@ -1,7 +1,7 @@
 no_exit_display 0
 no_clean 1
 cast_here 0
-dest_dir ({"/players/mokri/clans/forsaken/hall/r6","north",})
+dest_dir ({"/players/mokri/clans/forsaken/hall/r6","north","/players/mokri/clans/forsaken/hall/r9","east",})
 short_desc "[1;30mHall of the [1;31mForsaken [1;30mArmory[0m[0m"
 long_desc "generic clan hall locker room."
 items 0

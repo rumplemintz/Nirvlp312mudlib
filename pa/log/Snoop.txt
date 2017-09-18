@@ -2942,3 +2942,5 @@
                Reason: checking guild entry
 [Sep  5 11:16] Oberon Snooped Gizmo.
                Reason: Vamp stuff
+[Sep 12 09:22] Oberon Snooped Bain.
+               Reason: test

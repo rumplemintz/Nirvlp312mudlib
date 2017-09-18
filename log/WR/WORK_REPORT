@@ -926,3 +926,4 @@
 [Aug 27 2017 10:05] Oberon: A: Fixed typo of "inqsuisitively" in emote 'iarch'
 [Sep  3 2017 16:50] Oberon: A: Due to feed back from Gizmo, slightly boosted vampire wolf. Changes noted in vamp_wolf.c
 [Sep  7 2017 09:34] Rumplemintz: A: /bin/play/_score.c (score command) - Added the current time
+[Sep 11 2017 13:41] Oberon: A: Restored 500k exp to Gizmo for a death as a ghost.

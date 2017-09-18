@@ -1,7 +1,7 @@
 no_exit_display 0
 no_clean 1
 cast_here 0
-dest_dir ({"/players/mokri/clans/daemon/hall/r24","north",})
+dest_dir ({"/players/mokri/clans/daemon/hall/r24","north","/players/mokri/clans/daemon/hall/r26","south",})
 short_desc "Clan Hall - locker room"
 long_desc "generic clan hall locker room."
 items 0
@@ -33,4 +33,4 @@ spar 0
 no_magic 0
 no_fight 0
 light_level 0
-Items ({"bottle of [1;37mwhite wine[0m <7>","/players/saber/food/bigwine","7",0,0,"bottle of [1;37mwhite wine[0m <7>","/players/saber/food/bigwine","7",0,0,"bottle of [1;37mwhite wine[0m <7>","/players/saber/food/bigwine","7",0,0,"bottle of [1;37mwhite wine[0m <7>","/players/saber/food/bigwine","7",0,0,"[1;31mV[1;30mampire's[1;31m G[1;30mrace [0;0m([1;31mEvil forged[0;0m)","/players/sami/area/GPO/obj/grace",0,23,9,})
+Items ({"bottle of [1;37mwhite wine[0m <7>","/players/saber/food/bigwine","7",0,0,"bottle of [1;37mwhite wine[0m <7>","/players/saber/food/bigwine","7",0,0,"[1;31mV[1;30mampire's[1;31m G[1;30mrace [0;0m([1;31mEvil forged[0;0m)","/players/sami/area/GPO/obj/grace",0,23,9,"[1;33mShock, [1;34mlightning sword[0m of Orlanth Thunderous","/players/jareel/weapons/orlanth/fiona_sword",0,0,0,"A heal spell","/players/morgar/spells/full_heal",0,0,0,"A heal spell","/players/morgar/spells/full_heal",0,0,0,})

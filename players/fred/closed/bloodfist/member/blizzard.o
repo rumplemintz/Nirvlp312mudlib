@@ -1,8 +1,8 @@
-beats 486916
+beats 489321
 attribs ({90,70,40,50,50,50,})
 guild_level 4
-guild_exp 1526968
-attrib_exp 1665455
+guild_exp 1527068
+attrib_exp 1665647
 attrib_lvl 35
 free_attribs 0
 trial_to_do 0
@@ -12,7 +12,7 @@ chosen_max 2
 chosen_weps ({"players/snow/WEAPONS/hon_sword","players/jareel/weapons/orlanth/fiona_sword",0,0,})
 chosen_weps_exp ({554939,250098,0,0,})
 chosen_weps_lvl ({10,10,0,0,})
-stance 3
+stance 5
 a_c 1
 f_s 0
 a_s 0
@@ -21,9 +21,9 @@ h_m 1
 test_char 0
 max_dur 3
 endurance 360
-max_endurance 360
-endurance_percent 23
-honor_potential 9
+max_endurance 440
+endurance_percent 29
+honor_potential 2
 chan_muff 0
 gtitle 0
 inmsg 0
@@ -31,9 +31,9 @@ outmsg 0
 dodge_chance 3
 studied ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
 study_num 0
-total_deaths 34
+total_deaths 35
 dh_base 0
-old_exp 223908
+old_exp 129222
 guild_age 1183430414
 free_gems 0
 stored_gems 0

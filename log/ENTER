@@ -79,3 +79,512 @@ Sep  8 08:58 2017 (oberon) enter 1690430883 ep, 0 g.
 Sep  8 08:58 2017 (darude) enter 49282939 ep, 80000 g.
 Sep  8 09:33 2017 (guest) enter 4972 ep, 1 g.
 Sep  8 09:33 2017 guest exit 4972 ep, 1 g. 71.115.128.14
+Sep  8 10:29 2017 (rumplemintz) enter 1012908955 ep, 79989 g.
+Sep  8 12:37 2017 dreadbane exit 85663591 ep, 74019 g. 127.0.0.1
+Sep  8 15:00 2017 rumplemintz exit 1012908955 ep, 79989 g. 127.0.0.1
+Sep  8 15:36 2017 (shinshi) enter 1006898 ep, 80000 g.
+Sep  8 16:02 2017 gizmo exit 71499413 ep, 75168 g. 206.51.201.154
+Sep  8 18:45 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep  8 19:22 2017 (charm) enter 24626396 ep, 0 g.
+Sep  8 19:39 2017 (sundin) enter 46319322 ep, 80000 g.
+Sep  8 19:56 2017 sundin exit 46319322 ep, 80000 g. 24.160.90.148
+charm (reconnect)
+Sep  8 21:03 2017 shinshi exit 1006898 ep, 80000 g. 100.16.204.209
+Sep  8 21:49 2017 (santa) enter 20923 ep, 2290 g.
+Sep  8 22:15 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep  8 22:47 2017 (gizmo) enter 71499413 ep, 75168 g.
+Sep  8 22:53 2017 charm exit 24626396 ep, 0 g. 71.115.128.14
+Sep  8 23:09 2017 (bain) enter 7860 ep, 1909 g.
+Sep  8 23:29 2017 bain exit 7888 ep, 1909 g. 47.148.74.235
+Sep  8 23:38 2017 gizmo exit 73104812 ep, 80000 g. 173.27.147.195
+Sep  9 02:32 2017 santa exit 20923 ep, 2290 g. 66.69.138.80
+Sep  9 05:21 2017 (guest) enter 4972 ep, 1 g.
+Sep  9 05:36 2017 guest exit 4972 ep, 1 g. 71.115.128.14
+Sep  9 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep  9 06:05 2017 oberon exit 1690430883 ep, 0 g. 50.196.21.9
+Sep  9 06:05 2017 darude exit 70987207 ep, 0 g. 50.196.21.9
+Sep  9 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep  9 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep  9 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep  9 09:39 2017 (shinshi) enter 1006898 ep, 80000 g.
+Sep  9 10:38 2017 (gizmo) enter 73104812 ep, 80000 g.
+Sep  9 11:08 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep  9 11:18 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep  9 11:19 2017 (bain) enter 7888 ep, 1909 g.
+Sep  9 11:23 2017 bain exit 7888 ep, 1909 g. 47.148.74.235
+Sep  9 11:57 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep  9 11:58 2017 (darude) enter 70987207 ep, 0 g.
+Sep  9 13:14 2017 (bain) enter 7888 ep, 1909 g.
+bain (reconnect)
+Sep  9 13:23 2017 darude exit 81811057 ep, 80000 g. 71.59.219.169
+Sep  9 13:24 2017 oberon exit 1690430883 ep, 0 g. 71.59.219.169
+Sep  9 13:53 2017 bain exit 8020 ep, 1909 g. 47.148.74.235
+Sep  9 14:21 2017 gizmo exit 86280647 ep, 3170 g. 173.27.147.195
+Sep  9 14:41 2017 (gizmo) enter 86280647 ep, 3170 g.
+Sep  9 15:47 2017 shinshi exit 1006898 ep, 80000 g. 100.16.204.209
+Sep  9 15:54 2017 gizmo exit 90868797 ep, 80000 g. 173.27.147.195
+Sep  9 17:36 2017 (gizmo) enter 90868797 ep, 80000 g.
+Sep  9 18:17 2017 (whitehawk) enter 18032492 ep, 80000 g.
+Sep  9 18:17 2017 whitehawk exit 18032492 ep, 80000 g. 173.27.140.24
+Sep  9 18:37 2017 (bain) enter 8020 ep, 1909 g.
+Sep  9 18:59 2017 (blizzard) enter 170430 ep, 1439 g.
+Sep  9 19:00 2017 (shinshi) enter 1006898 ep, 80000 g.
+Sep  9 19:12 2017 gizmo exit 0 ep, 0 g. 173.27.147.195
+Sep  9 19:12 2017 (gizmo) enter 0 ep, 0 g.
+Sep  9 19:40 2017 blizzard exit 128872 ep, 0 g. 68.33.94.116
+Sep  9 19:40 2017 bain exit 8540 ep, 1863 g. 47.148.74.235
+Sep  9 20:11 2017 (whitehawk) enter 18032492 ep, 80000 g.
+Sep  9 20:43 2017 gizmo exit 509778 ep, 80000 g. 173.27.147.195
+Sep  9 20:44 2017 (gizmo) enter 509778 ep, 80000 g.
+Sep  9 20:44 2017 gizmo exit 509778 ep, 80000 g. 173.27.147.195
+Sep  9 20:44 2017 (gizmo) enter 509778 ep, 80000 g.
+Whitehawk (throw)
+Whitehawk (throw)
+whitehawk (reconnect)
+Sep  9 20:49 2017 shinshi exit 1006898 ep, 80000 g. 100.16.204.209
+Sep  9 20:55 2017 whitehawk exit 19715204 ep, 40320 g. 173.27.140.24
+Sep  9 21:40 2017 gizmo exit 425396 ep, 80000 g. 173.27.147.195
+Sep  9 23:12 2017 (charm) enter 24626396 ep, 0 g.
+Sep 10 00:28 2017 charm exit 24626396 ep, 0 g. 71.115.128.14
+Sep 10 00:48 2017 (narlav) enter 1381502 ep, 45991 g.
+Sep 10 00:48 2017 narlav exit 1381502 ep, 45991 g. 73.172.167.21
+Sep 10 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 10 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 10 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 10 06:05 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 10 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 10 09:06 2017 (gizmo) enter 425396 ep, 80000 g.
+Sep 10 09:49 2017 (shinshi) enter 1006898 ep, 80000 g.
+Sep 10 11:21 2017 (joab) enter 104945410 ep, 4400 g.
+Sep 10 12:05 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 10 12:07 2017 gizmo exit 2038178 ep, 80000 g. 173.27.147.195
+Sep 10 12:13 2017 (gizmo) enter 2038178 ep, 80000 g.
+Sep 10 12:24 2017 (bain) enter 8540 ep, 1863 g.
+Sep 10 13:16 2017 bain exit 11425 ep, 4419 g. 47.148.74.235
+Sep 10 14:31 2017 (bain) enter 11425 ep, 4419 g.
+Sep 10 15:03 2017 oberon exit 1690430883 ep, 0 g. 73.240.44.63
+Sep 10 15:23 2017 bain exit 1865 ep, 0 g. 47.148.74.235
+Sep 10 15:35 2017 gizmo exit 3166111 ep, 80000 g. 173.27.147.195
+Sep 10 15:44 2017 (gizmo) enter 3166111 ep, 80000 g.
+Sep 10 15:51 2017 (bain) enter 1865 ep, 0 g.
+Sep 10 15:52 2017 bain exit 1865 ep, 0 g. 47.148.74.235
+Sep 10 15:55 2017 gizmo exit 2834111 ep, 80000 g. 173.27.147.195
+Sep 10 16:50 2017 (mode) enter 19350802 ep, 4800 g.
+Sep 10 16:51 2017 mode exit 19350802 ep, 4800 g. 67.6.84.201
+Sep 10 19:22 2017 (charm) enter 24626396 ep, 0 g.
+Sep 10 19:45 2017 shinshi exit 1006898 ep, 80000 g. 100.16.204.209
+Sep 10 19:57 2017 (bain) enter 1865 ep, 0 g.
+Sep 10 20:35 2017 charm exit 24626704 ep, 0 g. 71.115.128.14
+Sep 10 20:35 2017 (careen) enter 19000000 ep, 21582 g.
+Sep 10 20:36 2017 careen exit 19000000 ep, 21582 g. 71.115.128.14
+Sep 10 20:36 2017 (curse) enter 26666990 ep, 50000 g.
+Sep 10 20:36 2017 curse exit 26666990 ep, 20000 g. 71.115.128.14
+Sep 10 20:37 2017 (charm) enter 24626704 ep, 0 g.
+Sep 10 20:44 2017 (gogeta) enter 22891695 ep, 80000 g.
+Sep 10 22:02 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep 10 22:15 2017 charm exit 24628325 ep, 80000 g. 71.115.128.14
+Sep 10 23:57 2017 gogeta exit 23133869 ep, 29257 g. 71.14.65.46
+Sep 11 00:50 2017 bain exit 7290 ep, 66983 g. 47.148.74.235
+Sep 11 01:24 2017 (bain) enter 7290 ep, 66983 g.
+Bain (throw)
+Bain (throw)
+bain (reconnect)
+bain (reconnect)
+bain (reconnect)
+Sep 11 02:07 2017 bain exit 9402 ep, 68783 g. 47.148.74.235
+Sep 11 02:15 2017 (bain) enter 9402 ep, 68783 g.
+Sep 11 02:58 2017 bain exit 10650 ep, 68883 g. 47.148.74.235
+Sep 11 06:02 2017 (sami) enter 2147483647 ep, 50000 g.
+Sep 11 06:03 2017 sami exit 2147483647 ep, 50000 g. 208.54.35.182
+Sep 11 06:04 2017 joab exit 104945410 ep, 4400 g. 74.221.120.84
+Sep 11 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 11 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 11 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 11 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 11 06:10 2017 (gizmo) enter 2834111 ep, 80000 g.
+Sep 11 08:11 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 11 08:12 2017 (dreadbane) enter 85663591 ep, 74019 g.
+Sep 11 08:20 2017 (bain) enter 10650 ep, 68883 g.
+Sep 11 08:29 2017 bain exit 11602 ep, 68163 g. 47.148.74.235
+Sep 11 08:34 2017 dreadbane exit 85663591 ep, 74019 g. 127.0.0.1
+Sep 11 08:35 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 11 08:54 2017 (bain) enter 11602 ep, 68163 g.
+Sep 11 09:12 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 11 09:12 2017 (darude) enter 81811057 ep, 80000 g.
+Sep 11 09:22 2017 (dragnar) enter 126846769 ep, 50700 g.
+Oberon (throw)
+Oberon (throw)
+oberon (reconnect)
+Darude (throw)
+Darude (throw)
+darude (reconnect)
+Sep 11 09:37 2017 bain exit 17055 ep, 69797 g. 209.147.23.28
+Sep 11 10:01 2017 (charm) enter 24628325 ep, 80000 g.
+Sep 11 10:07 2017 oberon exit 1690430883 ep, 0 g. 50.196.21.9
+Sep 11 10:25 2017 (bain) enter 17055 ep, 69797 g.
+Sep 11 10:36 2017 bain exit 17055 ep, 68797 g. 209.147.23.28
+Sep 11 10:44 2017 (bain) enter 17055 ep, 68797 g.
+Sep 11 10:45 2017 bain exit 17055 ep, 68797 g. 209.147.23.28
+Sep 11 10:50 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 11 12:07 2017 (gogeta) enter 23133869 ep, 29257 g.
+Sep 11 13:37 2017 (rumplemintz) enter 1012908955 ep, 79989 g.
+Sep 11 13:53 2017 gogeta exit 23133869 ep, 29257 g. 71.14.65.46
+Sep 11 16:14 2017 gizmo exit 3907558 ep, 65600 g. 206.51.201.154
+Sep 11 16:24 2017 charm exit 24628325 ep, 80000 g. 71.115.128.14
+Sep 11 16:32 2017 rumplemintz exit 1012908955 ep, 79989 g. 127.0.0.1
+Sep 11 17:04 2017 (bain) enter 17055 ep, 68797 g.
+Sep 11 17:36 2017 (dreadbane) enter 85663591 ep, 74019 g.
+Sep 11 17:42 2017 bain exit 21598 ep, 67437 g. 209.147.23.29
+Sep 11 17:48 2017 dreadbane exit 86738468 ep, 80000 g. 127.0.0.1
+Sep 11 18:10 2017 (bain) enter 21598 ep, 67437 g.
+Sep 11 18:21 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep 11 18:22 2017 (gizmo) enter 3907558 ep, 65600 g.
+Sep 11 18:47 2017 bain exit 22786 ep, 68837 g. 209.147.23.30
+Sep 11 18:50 2017 (bain) enter 22786 ep, 68837 g.
+Oberon (throw)
+oberon (reconnect)
+Darude (throw)
+Darude (throw)
+darude (reconnect)
+Sep 11 19:28 2017 bain exit 22786 ep, 68837 g. 209.147.23.30
+Sep 11 19:34 2017 gizmo exit 10573876 ep, 79450 g. 173.27.147.195
+Sep 11 19:46 2017 (bain) enter 22786 ep, 68837 g.
+bain (reconnect)
+Sep 11 20:20 2017 bain exit 13179 ep, 68987 g. 166.171.123.192
+Sep 11 20:53 2017 (charm) enter 24628325 ep, 80000 g.
+Sep 11 20:53 2017 charm exit 24628325 ep, 80000 g. 71.115.128.14
+Sep 11 20:53 2017 (careen) enter 19000000 ep, 21582 g.
+Sep 11 20:57 2017 darude exit 81811057 ep, 80000 g. 50.196.21.9
+Sep 11 21:36 2017 (bain) enter 13179 ep, 68987 g.
+bain (reconnect)
+Sep 11 22:08 2017 oberon exit 1690430883 ep, 0 g. 50.196.21.9
+Sep 11 22:20 2017 careen exit 19000000 ep, 21582 g. 71.115.128.14
+Sep 11 22:30 2017 (storm) enter 3601796 ep, 64700 g.
+Sep 11 22:35 2017 (blizzard) enter 128872 ep, 0 g.
+Sep 11 22:42 2017 bain exit 15607 ep, 68862 g. 47.148.74.235
+Sep 11 23:02 2017 blizzard exit 129222 ep, 540 g. 68.33.93.159
+Sep 11 23:02 2017 (mic) enter 788932 ep, 31333 g.
+Sep 11 23:05 2017 storm exit 3601796 ep, 64700 g. 67.142.96.6
+Sep 11 23:08 2017 mic exit 789303 ep, 26733 g. 68.33.93.159
+Sep 12 00:28 2017 (bain) enter 15607 ep, 68862 g.
+Sep 12 00:46 2017 bain exit 15607 ep, 68862 g. 166.171.123.192
+Sep 12 01:09 2017 (bain) enter 15607 ep, 68862 g.
+Sep 12 01:24 2017 bain exit 15607 ep, 68862 g. 47.148.74.235
+Sep 12 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 12 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 12 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 12 06:05 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 12 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 12 06:10 2017 (gizmo) enter 10573876 ep, 79450 g.
+Sep 12 08:08 2017 (dreadbane) enter 86738468 ep, 80000 g.
+Sep 12 08:29 2017 (bain) enter 15607 ep, 68862 g.
+Sep 12 08:58 2017 bain exit 15607 ep, 68862 g. 47.148.74.235
+Sep 12 09:13 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 12 09:14 2017 (darude) enter 81811057 ep, 80000 g.
+Sep 12 09:18 2017 (bain) enter 15607 ep, 68862 g.
+Sep 12 09:50 2017 bain exit 20166 ep, 70493 g. 209.147.23.28
+Sep 12 10:21 2017 (charm) enter 24628325 ep, 80000 g.
+Sep 12 13:37 2017 (bain) enter 20166 ep, 70493 g.
+Sep 12 13:39 2017 bain exit 20166 ep, 70493 g. 209.147.23.27
+Sep 12 13:53 2017 (bain) enter 20166 ep, 70493 g.
+Sep 12 13:54 2017 bain exit 20166 ep, 70493 g. 209.147.23.27
+Sep 12 14:17 2017 (bain) enter 20166 ep, 70493 g.
+Sep 12 14:20 2017 bain exit 20636 ep, 70733 g. 209.147.23.27
+Sep 12 14:34 2017 (sandon) enter 30 ep, 0 g.
+Sep 12 14:50 2017 sandon exit 30 ep, 0 g. 73.64.51.226
+Sep 12 16:12 2017 gizmo exit 14063308 ep, 80000 g. 206.51.201.154
+Sep 12 16:28 2017 dreadbane exit 87153030 ep, 75047 g. 127.0.0.1
+Sep 12 16:36 2017 (shinshi) enter 1006898 ep, 80000 g.
+Sep 12 17:03 2017 (bain) enter 20636 ep, 70733 g.
+Sep 12 17:05 2017 bain exit 20765 ep, 70733 g. 209.147.23.27
+Sep 12 17:15 2017 (bain) enter 20765 ep, 70733 g.
+Sep 12 17:42 2017 bain exit 26163 ep, 70383 g. 209.147.23.27
+Sep 12 17:47 2017 (gizmo) enter 14063308 ep, 80000 g.
+Sep 12 18:07 2017 (bain) enter 26163 ep, 70383 g.
+Sep 12 18:35 2017 (dreadbane) enter 87153030 ep, 75047 g.
+bain (reconnect)
+Sep 12 18:42 2017 dreadbane exit 87464991 ep, 80000 g. 127.0.0.1
+Sep 12 18:54 2017 gizmo exit 20308124 ep, 80000 g. 173.27.147.195
+bain (reconnect)
+Sep 12 19:16 2017 bain exit 28610 ep, 71495 g. 47.148.74.235
+Charm (throw)
+Charm (throw)
+charm (reconnect)
+Sep 12 19:48 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep 12 19:53 2017 (bain) enter 28610 ep, 71495 g.
+Sep 12 20:01 2017 bain exit 29339 ep, 71495 g. 47.148.74.235
+Sep 12 20:12 2017 (bain) enter 29339 ep, 71495 g.
+Sep 12 20:29 2017 shinshi exit 1006898 ep, 80000 g. 100.16.204.209
+Sep 12 20:39 2017 charm exit 24628325 ep, 80000 g. 71.115.128.14
+Sep 12 20:39 2017 (careen) enter 19000000 ep, 21582 g.
+Sep 12 20:39 2017 careen exit 19000000 ep, 21582 g. 71.115.128.14
+Sep 12 20:40 2017 (charm) enter 24628325 ep, 80000 g.
+Sep 12 21:33 2017 bain exit 26662 ep, 66495 g. 47.148.74.235
+Sep 12 22:03 2017 (bain) enter 26662 ep, 66495 g.
+Sep 12 22:12 2017 charm exit 24628325 ep, 80000 g. 71.115.128.14
+Sep 12 22:35 2017 bain exit 26662 ep, 61149 g. 47.148.74.235
+Sep 12 23:43 2017 (bain) enter 26662 ep, 61149 g.
+Sep 13 03:51 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 13 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 13 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 13 06:15 2017 (gizmo) enter 20308124 ep, 80000 g.
+Sep 13 07:36 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 13 09:07 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 13 09:08 2017 (darude) enter 83515689 ep, 7423 g.
+Sep 13 09:13 2017 (dreadbane) enter 87464991 ep, 80000 g.
+Sep 13 09:41 2017 (bain) enter 26662 ep, 61149 g.
+Sep 13 10:09 2017 (charm) enter 24628325 ep, 80000 g.
+Sep 13 12:51 2017 bain exit 26662 ep, 61149 g. 47.148.74.235
+Sep 13 16:23 2017 gizmo exit 32690026 ep, 80000 g. 206.51.201.154
+Sep 13 17:05 2017 (shinshi) enter 1006898 ep, 80000 g.
+Sep 13 17:06 2017 (bain) enter 26662 ep, 61149 g.
+Sep 13 17:55 2017 charm exit 24628325 ep, 80000 g. 71.115.128.14
+Sep 13 18:27 2017 (gizmo) enter 32690026 ep, 80000 g.
+gizmo (reconnect)
+Sep 13 19:07 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep 13 19:17 2017 (charm) enter 24628325 ep, 80000 g.
+charm (reconnect)
+Sep 13 19:38 2017 gizmo exit 35981453 ep, 80000 g. 173.27.147.195
+Sep 13 19:39 2017 bain exit 26662 ep, 61149 g. 209.147.23.29
+Sep 13 19:45 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 13 19:45 2017 dreadbane exit 87464991 ep, 80000 g. 127.0.0.1
+Sep 13 20:17 2017 (mic) enter 789303 ep, 26733 g.
+Sep 13 20:18 2017 mic exit 789303 ep, 26733 g. 68.33.90.155
+Sep 13 20:18 2017 (blizzard) enter 129222 ep, 540 g.
+Sep 13 20:20 2017 blizzard exit 129222 ep, 540 g. 68.33.90.155
+Sep 13 20:20 2017 (mic) enter 789303 ep, 26733 g.
+Sep 13 20:31 2017 (bain) enter 26662 ep, 61149 g.
+Sep 13 20:50 2017 mic exit 870027 ep, 5405 g. 68.33.90.155
+Sep 13 21:01 2017 (sami) enter 2147483647 ep, 50000 g.
+Sep 13 21:03 2017 sami exit 2147483647 ep, 50000 g. 69.140.200.140
+Sep 13 21:03 2017 shinshi exit 1006898 ep, 80000 g. 100.16.204.209
+Sep 13 21:05 2017 (dragnar) enter 126846769 ep, 50700 g.
+bain (reconnect)
+Sep 13 22:21 2017 bain exit 28877 ep, 63349 g. 47.148.74.235
+Sep 13 22:41 2017 charm exit 24645941 ep, 80000 g. 71.115.128.14
+Sep 13 23:34 2017 (bain) enter 28877 ep, 63349 g.
+Sep 13 23:59 2017 bain exit 28877 ep, 63349 g. 166.170.50.238
+Sep 14 00:46 2017 (bain) enter 28877 ep, 63349 g.
+Sep 14 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 14 06:05 2017 oberon exit 1690430883 ep, 0 g. 50.196.21.9
+Sep 14 06:05 2017 darude exit 86837485 ep, 25289 g. 50.196.21.9
+Sep 14 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 14 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 14 06:05 2017 bain exit 28877 ep, 63349 g. 47.148.74.235
+Sep 14 06:05 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 14 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 14 06:27 2017 (gizmo) enter 35981453 ep, 80000 g.
+Sep 14 09:01 2017 (bain) enter 28877 ep, 63349 g.
+Sep 14 09:05 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 14 09:06 2017 (darude) enter 86837485 ep, 25289 g.
+Sep 14 09:19 2017 (sami) enter 2147483647 ep, 50000 g.
+Sep 14 09:20 2017 sami exit 2147483647 ep, 50000 g. 69.140.200.140
+Sep 14 09:20 2017 (chrono) enter 75634258 ep, 80000 g.
+Sep 14 09:23 2017 chrono exit 75634258 ep, 80000 g. 69.140.200.140
+Sep 14 09:25 2017 (mic) enter 870027 ep, 5405 g.
+Sep 14 09:36 2017 (dreadbane) enter 87464991 ep, 80000 g.
+Sep 14 09:54 2017 bain exit 28877 ep, 63349 g. 209.147.23.27
+Sep 14 10:00 2017 mic exit 877731 ep, 5657 g. 68.33.93.236
+Sep 14 10:01 2017 (blizzard) enter 129222 ep, 540 g.
+Sep 14 10:13 2017 blizzard exit 129222 ep, 540 g. 68.33.93.236
+oberon (reconnect)
+darude (reconnect)
+Sep 14 11:44 2017 (sami) enter 2147483647 ep, 50000 g.
+Sep 14 11:44 2017 sami exit 2147483647 ep, 50000 g. 172.56.2.195
+Sep 14 12:54 2017 (rumplemintz) enter 1012908955 ep, 79989 g.
+Sep 14 12:54 2017 rumplemintz exit 1012908955 ep, 79989 g. 127.0.0.1
+Sep 14 13:19 2017 (charm) enter 24645941 ep, 80000 g.
+Sep 14 14:19 2017 charm exit 24645941 ep, 80000 g. 71.115.128.14
+Sep 14 14:29 2017 dreadbane exit 88428046 ep, 80000 g. 127.0.0.1
+Sep 14 15:22 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 14 15:45 2017 (sami) enter 2147483647 ep, 50000 g.
+Sep 14 15:45 2017 sami exit 2147483647 ep, 50000 g. 69.140.200.140
+Sep 14 16:04 2017 gizmo exit 43471631 ep, 79400 g. 206.51.201.154
+Sep 14 18:26 2017 (gizmo) enter 43471631 ep, 79400 g.
+Sep 14 18:56 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 14 18:58 2017 (charm) enter 24645941 ep, 80000 g.
+Oberon (throw)
+Oberon (throw)
+oberon (reconnect)
+Darude (throw)
+Darude (throw)
+darude (reconnect)
+Sep 14 19:24 2017 (bain) enter 28877 ep, 63349 g.
+Sep 14 19:31 2017 (sundin) enter 46319322 ep, 80000 g.
+Sep 14 19:53 2017 gizmo exit 50593660 ep, 80000 g. 173.27.147.195
+Sep 14 20:02 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep 14 20:25 2017 darude exit 0 ep, 0 g. 50.196.21.9
+Sep 14 20:26 2017 (darude) enter 0 ep, 0 g.
+Sep 14 20:33 2017 sundin exit 46319322 ep, 80000 g. 24.160.90.148
+Sep 14 20:48 2017 bain exit 28877 ep, 63349 g. 47.148.74.235
+Sep 14 20:54 2017 (gaara) enter 6621017 ep, 41461 g.
+Sep 14 21:07 2017 gaara exit 6621017 ep, 42581 g. 71.14.65.46
+Sep 14 21:07 2017 (gogeta) enter 23133869 ep, 29257 g.
+Sep 14 22:00 2017 charm exit 24647400 ep, 80000 g. 71.115.128.14
+Sep 14 22:12 2017 oberon exit 1690430883 ep, 0 g. 50.196.21.9
+Sep 14 22:33 2017 darude exit 1787883 ep, 80000 g. 71.59.219.169
+Sep 14 22:43 2017 gogeta exit 23133869 ep, 29257 g. 71.14.65.46
+Sep 14 23:28 2017 (bain) enter 28877 ep, 63349 g.
+Sep 15 00:39 2017 bain exit 28877 ep, 63349 g. 47.148.74.235
+Sep 15 02:58 2017 (bain) enter 28877 ep, 63349 g.
+Sep 15 03:13 2017 bain exit 28877 ep, 63349 g. 47.148.74.235
+Sep 15 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 15 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 15 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 15 06:05 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 15 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 15 06:10 2017 (gizmo) enter 50593660 ep, 80000 g.
+Sep 15 08:18 2017 (bain) enter 28877 ep, 63349 g.
+Sep 15 08:34 2017 bain exit 28877 ep, 63349 g. 47.148.74.235
+Sep 15 08:53 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 15 08:53 2017 (darude) enter 1787883 ep, 80000 g.
+Sep 15 11:01 2017 (chuckie) enter 0 ep, 0 g.
+Sep 15 11:02 2017 chuckie exit 0 ep, 0 g. 79.73.183.210
+Sep 15 11:48 2017 (charm) enter 24647400 ep, 80000 g.
+Oberon (throw)
+Oberon (throw)
+oberon (reconnect)
+Darude (throw)
+Darude (throw)
+darude (reconnect)
+Darude (throw)
+Darude (throw)
+darude (reconnect)
+Darude (throw)
+Darude (throw)
+darude (reconnect)
+Sep 15 12:15 2017 (bain) enter 28877 ep, 63349 g.
+Sep 15 12:30 2017 bain exit 28877 ep, 63349 g. 209.147.23.26
+darude (reconnect)
+Darude (throw)
+Darude (throw)
+darude (reconnect)
+Sep 15 12:41 2017 oberon exit 1690430883 ep, 0 g. 63.224.254.169
+Sep 15 13:50 2017 charm exit 24647400 ep, 80000 g. 71.115.128.14
+Sep 15 14:02 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 15 16:18 2017 gizmo exit 60190390 ep, 80000 g. 206.51.201.154
+Sep 15 19:10 2017 (charm) enter 24647400 ep, 80000 g.
+Sep 15 20:06 2017 (gizmo) enter 60190390 ep, 80000 g.
+Sep 15 20:11 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep 15 21:12 2017 gizmo exit 65547308 ep, 80000 g. 173.27.147.195
+Sep 15 22:21 2017 charm exit 24647400 ep, 80000 g. 71.115.128.14
+Sep 16 01:36 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 16 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 16 06:05 2017 darude exit 3600012 ep, 53754 g. 63.224.254.169
+Sep 16 06:05 2017 oberon exit 1690430883 ep, 0 g. 50.196.21.9
+Sep 16 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 16 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 16 08:51 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 16 09:12 2017 (gizmo) enter 65547308 ep, 80000 g.
+Sep 16 09:24 2017 (dreadbane) enter 88428046 ep, 80000 g.
+Sep 16 09:46 2017 (whitehawk) enter 19715204 ep, 40320 g.
+Sep 16 09:46 2017 whitehawk exit 19715204 ep, 40320 g. 173.27.140.24
+Sep 16 10:10 2017 gizmo exit 65967498 ep, 28531 g. 173.27.147.195
+Sep 16 10:32 2017 dreadbane exit 94283543 ep, 63575 g. 127.0.0.1
+Sep 16 10:36 2017 (guest) enter 4972 ep, 1 g.
+Sep 16 10:36 2017 guest exit 4972 ep, 1 g. 74.74.224.58
+Sep 16 10:36 2017 (dreadbane) enter 94283543 ep, 63575 g.
+Sep 16 10:40 2017 (oberon) enter 1690430883 ep, 0 g.
+Oberon (throw)
+Oberon (throw)
+oberon (reconnect)
+Sep 16 10:41 2017 (darude) enter 3600012 ep, 53754 g.
+Sep 16 10:46 2017 darude exit 3600012 ep, 41754 g. 71.59.219.169
+Oberon (throw)
+Oberon (throw)
+oberon (reconnect)
+Dragnar (throw)
+Dragnar (throw)
+dragnar (reconnect)
+Dragnar (throw)
+dragnar (reconnect)
+Sep 16 10:52 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 16 10:52 2017 (dragnar) enter 126846769 ep, 50700 g.
+Dreadbane (throw)
+Dreadbane (throw)
+dreadbane (reconnect)
+Sep 16 10:54 2017 dreadbane exit 95859562 ep, 43561 g. 127.0.0.1
+Sep 16 10:54 2017 (dreadbane) enter 95859562 ep, 43561 g.
+Sep 16 11:10 2017 dreadbane exit 0 ep, 0 g. 127.0.0.1
+Sep 16 11:11 2017 (dreadbane) enter 0 ep, 0 g.
+Sep 16 12:09 2017 oberon exit 1690430883 ep, 0 g. 71.59.219.169
+Sep 16 12:25 2017 dreadbane exit 196351 ep, 30866 g. 127.0.0.1
+Sep 16 12:57 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 16 14:04 2017 oberon exit 1690430883 ep, 0 g. 71.59.219.169
+Sep 16 15:34 2017 (joab) enter 104945410 ep, 4400 g.
+Sep 16 15:35 2017 (gizmo) enter 65967498 ep, 28531 g.
+Sep 16 16:02 2017 (dreadbane) enter 196351 ep, 30866 g.
+Sep 16 17:27 2017 (whitehawk) enter 19715204 ep, 40320 g.
+gizmo (reconnect)
+Sep 16 17:39 2017 whitehawk exit 19715204 ep, 40320 g. 173.27.140.24
+Sep 16 17:47 2017 gizmo exit 74502594 ep, 80000 g. 173.27.147.195
+Sep 16 18:00 2017 dreadbane exit 7355936 ep, 79250 g. 127.0.0.1
+Sep 16 18:06 2017 (dreadbane) enter 7355936 ep, 79250 g.
+Sep 16 18:08 2017 dreadbane exit 7355936 ep, 79250 g. 127.0.0.1
+Sep 16 19:22 2017 (charm) enter 24647400 ep, 80000 g.
+Sep 16 19:26 2017 (boltar) enter 26348470 ep, 10000 g.
+Sep 16 19:27 2017 (gizmo) enter 74502594 ep, 80000 g.
+gizmo (reconnect)
+Sep 16 20:40 2017 gizmo exit 80661148 ep, 80000 g. 173.27.147.195
+Sep 16 21:07 2017 charm exit 24647400 ep, 80000 g. 71.115.128.14
+Sep 16 21:43 2017 (charm) enter 24647400 ep, 80000 g.
+Sep 16 23:46 2017 charm exit 24647400 ep, 80000 g. 71.115.128.14
+Sep 17 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 17 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 17 06:05 2017 joab exit 104945410 ep, 4400 g. 74.221.120.84
+Sep 17 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 17 06:05 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 17 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 17 06:05 2017 (joab) enter 104945410 ep, 4400 g.
+Sep 17 07:52 2017 (gizmo) enter 80661148 ep, 80000 g.
+Sep 17 07:56 2017 (whitehawk) enter 19715204 ep, 40320 g.
+Sep 17 09:54 2017 whitehawk exit 22191046 ep, 62576 g. 173.27.140.24
+Sep 17 11:43 2017 gizmo exit 93766228 ep, 80000 g. 173.27.147.195
+Sep 17 12:35 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 17 12:38 2017 (whitehawk) enter 22191046 ep, 62576 g.
+Sep 17 13:10 2017 (gizmo) enter 93766228 ep, 80000 g.
+Sep 17 13:20 2017 oberon exit 1690430883 ep, 0 g. 73.240.44.63
+Sep 17 13:41 2017 whitehawk exit 22838494 ep, 34541 g. 173.27.140.24
+Sep 17 14:04 2017 gizmo exit 0 ep, 0 g. 173.27.147.195
+Sep 17 14:04 2017 (gizmo) enter 0 ep, 0 g.
+Sep 17 16:52 2017 gizmo exit 2458702 ep, 80000 g. 173.27.147.195
+Sep 17 17:44 2017 (gizmo) enter 2458702 ep, 80000 g.
+Sep 17 18:13 2017 gizmo exit 4002447 ep, 80000 g. 173.27.147.195
+Sep 17 19:56 2017 (charm) enter 24647400 ep, 80000 g.
+Sep 17 20:33 2017 (bain) enter 28877 ep, 63349 g.
+Sep 17 20:55 2017 bain exit 28877 ep, 63349 g. 47.148.74.235
+Sep 17 22:00 2017 (hugh) enter 56076589 ep, 78095 g.
+Sep 17 22:14 2017 hugh exit 56076589 ep, 78095 g. 97.98.169.22
+Sep 17 22:14 2017 (slag) enter 11936590 ep, 70000 g.
+Sep 17 22:18 2017 slag exit 11936590 ep, 70000 g. 97.98.169.22
+Sep 17 22:19 2017 (melt) enter 10506737 ep, 78790 g.
+Sep 17 22:20 2017 melt exit 10506737 ep, 78790 g. 97.98.169.22
+Sep 17 22:21 2017 (psychax) enter 48681735 ep, 49178 g.
+Sep 17 22:43 2017 (boltar) enter 26348470 ep, 10000 g.
+charm (reconnect)
+Sep 17 23:50 2017 psychax exit 49032066 ep, 80000 g. 97.98.169.22
+Sep 18 00:27 2017 (bain) enter 28877 ep, 63349 g.
+Sep 18 00:56 2017 bain exit 30493 ep, 63349 g. 47.148.74.235
+Sep 18 03:33 2017 (whitehawk) enter 22838494 ep, 34541 g.
+Sep 18 03:52 2017 whitehawk exit 23588072 ep, 80000 g. 174.197.1.168
+Sep 18 03:53 2017 (grimer) enter 6075640 ep, 80000 g.
+Sep 18 04:15 2017 grimer exit 6104326 ep, 80000 g. 174.197.1.168
+Sep 18 05:14 2017 charm exit 24647400 ep, 80000 g. 71.115.128.14
+Sep 18 06:05 2017 dragnar exit 126846769 ep, 50700 g. 127.0.0.1
+Sep 18 06:05 2017 angel exit 2147483647 ep, 80000 g. 74.221.120.84
+Sep 18 06:05 2017 joab exit 104945410 ep, 4400 g. 74.221.120.84
+Sep 18 06:05 2017 boltar exit 26348470 ep, 10000 g. 73.36.248.61
+Sep 18 06:05 2017 (angel) enter 2147483647 ep, 80000 g.
+Sep 18 06:05 2017 (joab) enter 104945410 ep, 4400 g.
+Sep 18 07:04 2017 (rugaros) enter 176329 ep, 25971 g.
+Sep 18 07:09 2017 rugaros exit 176329 ep, 25971 g. 67.165.90.19
+Sep 18 08:11 2017 (dragnar) enter 126846769 ep, 50700 g.
+Sep 18 08:11 2017 (dreadbane) enter 7355936 ep, 79250 g.
+Sep 18 09:10 2017 (oberon) enter 1690430883 ep, 0 g.
+Sep 18 09:10 2017 (darude) enter 3600012 ep, 41754 g.
+Sep 18 09:10 2017 (bain) enter 30493 ep, 63349 g.
+Sep 18 09:31 2017 bain exit 32394 ep, 65549 g. 209.147.23.28
+Sep 18 09:38 2017 (bain) enter 32394 ep, 65549 g.
+Sep 18 09:54 2017 bain exit 32394 ep, 65549 g. 107.72.97.239
+Sep 18 12:47 2017 dreadbane exit 7355936 ep, 79250 g. 127.0.0.1
+Sep 18 15:14 2017 (gizmo) enter 4002447 ep, 80000 g.

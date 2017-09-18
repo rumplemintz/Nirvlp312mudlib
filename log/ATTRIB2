@@ -670,3 +670,87 @@ set_attrib - dragnar sta 8 by dragnar
 players/eurale/VAMPIRES/OBJ/vampire_bite#4479-^
 set_attrib - dragnar wil 3 by dragnar
 players/eurale/VAMPIRES/OBJ/vampire_bite#4479-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+set_attrib - darude cha 5 by darude
+room/pres_guild-^
+set_attrib - darude int 5 by darude
+room/pres_guild-^
+set_attrib - darude mag 5 by darude
+room/pres_guild-^
+set_attrib - darude sta 5 by darude
+room/pres_guild-^
+set_attrib - darude str 5 by darude
+room/pres_guild-^
+set_attrib - darude dex 5 by darude
+room/pres_guild-^
+set_attrib - darude luc 5 by darude
+room/pres_guild-^
+set_attrib - darude pie 5 by darude
+room/pres_guild-^
+set_attrib - darude ste 5 by darude
+room/pres_guild-^
+set_attrib - darude wil 5 by darude
+room/pres_guild-^
+set_attrib - darude mag 5 by darude
+players/fred/closed/venom/OBJ/ball#7158-^
+players/fred/closed/venom/venom#2586-^
+set_attrib - dreadbane cha 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane int 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane mag 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane sta 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane str 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane dex 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane luc 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane pie 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane ste 5 by dreadbane
+room/pres_guild-^
+set_attrib - dreadbane wil 5 by dreadbane
+room/pres_guild-^
+set_attrib - gizmo cha 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo int 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo mag 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo sta 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo str 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo dex 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo luc 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo pie 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo ste 5 by gizmo
+room/pres_guild-^
+set_attrib - gizmo wil 5 by gizmo
+room/pres_guild-^
+players/fred/closed/venom/venom#679-^

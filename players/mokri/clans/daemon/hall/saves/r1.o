@@ -32,5 +32,5 @@ pk 0
 spar 0
 no_magic 0
 no_fight 0
-light_level 0
+light_level -21
 Items ({"Iron [1;30mDeath[0m Blade","/players/jareel/weapons/mondar_death_sword",0,0,0,"Iron [1;30mDeath[0m Blade","/players/jareel/weapons/mondar_death_sword",0,0,0,"A Hockey Stick","/players/jenny/wings/items/gstick",0,0,0,"[1;30mA Dark Demon's Hide[0m","/players/jareel/general_stuff/demonhide",0,0,0,"Iron [1;30mDeath[0m Blade","/players/jareel/weapons/mondar_death_sword",0,0,0,"Iron [1;30mDeath[0m Blade","/players/jareel/weapons/mondar_death_sword",0,0,0,"[1;33mShock, [1;34mlightning sword[0m of Orlanth Thunderous","/players/jareel/weapons/orlanth/fiona_sword",0,0,0,"[1;33mShock, [1;34mlightning sword[0m of Orlanth Thunderous","/players/jareel/weapons/orlanth/fiona_sword",0,0,0,"[1;33mShock, [1;34mlightning sword[0m of Orlanth Thunderous","/players/jareel/weapons/orlanth/fiona_sword",0,11560,20033,"[1mElven boots[0m","/players/eurale/Glade/OBJ/elven_boots",0,0,0,})

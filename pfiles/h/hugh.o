@@ -1,13 +1,13 @@
-nrpoints 7138
-totalpoints 7138
+nrpoints 7139
+totalpoints 7139
 np_xlevel 100
 nbday "071307"
 rlbday 0
 penalty_left 0
-np_age 825
-lr_period_start 1497824302
+np_age 318
+lr_period_start 1505703658
 lr_required_exp 250000
-lr_exp 27621
+lr_exp 0
 lr_top_exp 413583
 lr_streak 0
 lr_top_streak 1
@@ -25,7 +25,7 @@ hcnum 1
 crime 0
 money 78095
 luck2 30
-lucky 302
+lucky 433
 name "hugh"
 gender "male"
 msgin "arrives"
@@ -39,17 +39,20 @@ max_hp 442
 experience 56076589
 mmsgout "disappears in a puff of smoke"
 mmsgin "arrives in a puff of smoke"
+attacker_ob 0
 h_check 0
+alt_attacker_ob 0
 weapon_class 3
+name_of_weapon 0
 shield_ob 0
 head_armor 0
 ghost 0
 dead 0
 whimpy_dir "random"
-local_weight 19
+local_weight 16
 hunted 0
 hunter 0
-hunting_time -4
+hunting_time -26
 cap_name "Hugh"
 vis_name "Hugh"
 spell_points 508
@@ -59,14 +62,15 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 5733240
+age 5733633
 is_invis 18
 frog 0
 whimpy 50
-auto_load "/players/mokri/clans/object.c:^!/players/saber/closed/new_mini/blade.c:^!/players/saber/closed/new_mini/feline.c:^!/players/snow/closed/test/aura.c:^!players/pain/NEW/items/star.c:^!players/star/closed/stardust.c:^!"
-current_room "room/vill_shore"
+auto_load "/players/mokri/clans/object.c:^!players/star/closed/stardust.c:^!players/pain/NEW/items/star.c:^!/players/snow/closed/test/aura.c:^!/players/saber/closed/new_mini/feline.c:^!/players/saber/closed/new_mini/blade.c:^!"
+current_room "room/church"
 alignment 0
 Armors 0
+Weapons 0
 WeaponBonuses 0
 pob_dd 0
 channel_names ({"gossip","risque","pk","shout","msg","junk","equip",})
@@ -101,41 +105,41 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm 0
-hostname "exch2025.lelectrical.int"
+hostname "97.98.169.22"
 ok_edit "none#"
 mailaddr "hugh@lords.com"
 saved_where 0
-title "the ancient of the mortals"
-pretitle "{Hp: [34m13[0m/428 Sp: [1;32m120[0m/487 I: 5% F: 0% S: 0% AHP: 0/10 49148633}"
+title "the [1m[32mIntellect of Cybernetica[0;0m"
+pretitle "GrandLord"
 password "LpUH8GZDuMjRY"
 spouse 0
 race "human"
 al_title "neutral"
 PKGhostCounter 0
-intoxicated 18
+intoxicated 0
 infuse 0
 stuffed 0
 soaked 0
 headache 0
-max_headache 8
+max_headache 0
 fight_area 0
 mon 1
 phys_at ({1,6,4,148,0,0,})
 no_spell 0
-called_from_ip "24.106.11.202"
+called_from_ip "97.98.169.22"
 msghome "goes home"
 description "moves slighly from the shadows to give you a better look.  His apperance alone is striking enough to arrest the eye and send a shiver over your skin. His age is indeterminate, for he is one of those men whomlife has aged beyond years. His sapphire eyes, sunken into high cheekbones,almost disappears behind the wisps of hair that has covered his eyes in shadows. Almost, but not quite, for no darkness in this world, it seems,could quench the flame that smolders in those depths. You see that his movements are graceful, yet at the same time being silent and swift.One might say, from looking at Hugh, that here was a man born and bred to walk in the company of darkness."
 clan_name "shadowrun"
 clan_master 0
 clan_file 0
-lastime "Jun 18 17:18 2017"
+lastime "Sep 17 22:00 2017"
 player_killing 1
 invs_count 0
 invs_flag 1
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/jareel/heals/YELMALIAN/lthpts#7$0@0","players/zeus/museum/OBJ/gem#0$0@0","players/zeus/museum/OBJ/gem#0$0@0","players/feldegast/darkcity/Obj/key#0$0@0","players/mizan/etheriel/items/duffel-bag#0$0@0","players/earwax/obj/products/syringe#0$0@0","players/feldegast/heals/berries#3$0@0","players/earwax/obj/products/syringe#0$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0",0,0,0,0,0,0,0,0,0,0,})
+treasure_str ({"players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/feldegast/heals/berries#3$0@0","players/earwax/obj/products/syringe#0$0@0","players/feldegast/heals/berries#3$0@0","players/earwax/obj/products/syringe#0$0@0","players/mizan/etheriel/items/duffel-bag#0$0@0","players/feldegast/darkcity/Obj/key#0$0@0","players/zeus/museum/OBJ/gem#0$0@0","players/zeus/museum/OBJ/gem#0$0@0","players/jareel/heals/YELMALIAN/lthpts#7$0@0",0,0,0,0,0,0,0,0,0,0,})
 pwd 0
 errormsgs 0
 home "/players/dune/closed/guild/rooms/guildhall.c"
@@ -145,7 +149,7 @@ no_give 0
 aprv "vertebraker"
 hint "fuck off you stupid hint fuck thing stupid shit fuck dumb ahhhhhhh"
 AnsiPref ({"tell","[1;32m","gossip","[32m","risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"page",0,"pk","[33m","title",0,"pretitle",0,})
-old_last "Apr 15 20:18 2017"
+old_last "Jun 18 17:18 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

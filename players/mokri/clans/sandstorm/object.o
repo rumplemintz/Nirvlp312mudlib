@@ -25,7 +25,7 @@ abilities ({})
 chan_history 0
 leaders ({})
 join_type 0
-private_coffer 70000
+private_coffer 10000
 public_coffer 0
 spell_delay 0
 spell_id 0

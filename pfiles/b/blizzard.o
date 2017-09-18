@@ -1,10 +1,17 @@
-nrpoints 260
-totalpoints 260
+nrpoints 262
+totalpoints 262
 np_xlevel 3
 nbday "071307"
 rlbday 0
 penalty_left 0
-np_age 165
+np_age 773
+lr_period_start 1505001584
+lr_required_exp 30296
+lr_exp 1913
+lr_top_exp 1913
+lr_streak 0
+lr_top_streak 0
+lr_flag 0
 guild_name "bloodfist"
 guild_file "/players/fred/closed/bloodfist/gob"
 guild_rank 0
@@ -16,55 +23,57 @@ guild_info 0
 time_to_heal 0
 hcnum 1
 crime 0
-money 1439
+money 540
 luck2 25
-lucky 177
+lucky 106
 name "blizzard"
 gender "male"
 msgin "arrives"
 msgout "leaves"
 is_npc 0
 brief 0
-level 11
+level 10
 armor_class 0
-hit_point 223
-max_hp 238
-experience 170430
+hit_point 108
+max_hp 230
+experience 129222
 mmsgout "disappears in a puff of smoke"
 mmsgin "arrives in a puff of smoke"
 attacker_ob 0
 h_check 0
 alt_attacker_ob 0
 weapon_class 3
+name_of_weapon 0
 shield_ob 0
 head_armor 0
 ghost 0
 dead 0
 whimpy_dir 0
-local_weight 1
+local_weight 0
 hunted 0
-hunting_time 6
+hunter 0
+hunting_time -41
 cap_name "Blizzard"
 vis_name "Blizzard"
-spell_points 201
-max_spell 226
+spell_points 213
+max_spell 218
 spell_name ""
 disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 1167925
+age 1170318
 is_invis 0
 frog 0
 whimpy 0
-auto_load "players/boltar/motel/key:1^!/players/mokri/clans/object.c:^!players/pain/NEW/items/star.c:^!/players/earwax/closed/TRACKER/loader:0^!/players/saber/closed/new_mini/blade.c:^!"
-current_room "room/vill_green"
-alignment 196
+auto_load "/players/mokri/clans/object.c:^!players/boltar/casino/key:201^!players/pain/NEW/items/star.c:^!/players/earwax/closed/TRACKER/loader:0^!/players/saber/closed/new_mini/blade.c:^!"
+current_room "players/hawkeye/room/rose.c"
+alignment 0
 WeaponBonuses 0
 channel_names ({"gossip","msg","risque","newbie","shout",})
 BankBalance 4621
 strength 26
-intelligence 24
+intelligence 23
 stamina 26
 will_power 23
 magic_aptitude 20
@@ -93,11 +102,11 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm 0
-hostname "c-73-180-182-148.hsd1.md.comcast.net"
+hostname "c-68-33-93-236.hsd1.va.comcast.net"
 ok_edit "none#"
 mailaddr "none"
 saved_where 0
-title "the champion"
+title "the warrior"
 pretitle "yeah free now"
 password "m7Q6Tg0bn1sso"
 spouse 0
@@ -114,13 +123,13 @@ fight_area 0
 mon 1
 phys_at ({1,6,7,156,0,0,})
 no_spell 1
-called_from_ip "73.180.182.148"
+called_from_ip "68.33.93.236"
 msghome "goes home"
 description 0
 clan_name "ashaman"
 clan_master 0
 clan_file 0
-lastime "Oct 18 18:41 2015"
+lastime "Sep 14 10:01 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
@@ -137,7 +146,7 @@ no_give 0
 aprv 0
 hint "sssss"
 AnsiPref ({"page",0,"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Oct 18 18:38 2015"
+old_last "Sep 13 20:18 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0
@@ -148,5 +157,6 @@ prestige_level 0
 prestige_xp 0
 prestige_qp 0
 prestige_skill_points 0
+prestige_guild_a 0
 prestige_skills ({0,0,0,0,0,0,0,0,0,})
 other_copy 0

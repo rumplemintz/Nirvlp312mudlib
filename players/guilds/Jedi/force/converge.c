@@ -36,7 +36,7 @@ status main( string str, object jedi, object gob ) {
 
   gob->set_converge( 1 );
   jedi->RegisterWeapon( gob );
-  write("You close your eyes and converge the force into your body.\n");
+  write("You close your eyes and converge the force with your physical body.\n");
   say( jedi->query_name() + " closes "+jedi->query_possessive() +" eyes for a moment.\n" );
   return 1;
 }

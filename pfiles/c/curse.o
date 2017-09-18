@@ -4,8 +4,8 @@ np_xlevel 36
 nbday "052309"
 rlbday 0
 penalty_left 0
-np_age 50
-lr_period_start 1503792212
+np_age 70
+lr_period_start 1505093782
 lr_required_exp 250000
 lr_exp 0
 lr_top_exp 236
@@ -23,7 +23,7 @@ guild_info 0
 time_to_heal 0
 hcnum 1
 crime 0
-money 50000
+money 20000
 luck2 30
 lucky 383
 name "curse"
@@ -52,7 +52,7 @@ whimpy_dir "random"
 local_weight 25
 hunted 0
 hunter 0
-hunting_time -29
+hunting_time -35
 cap_name "Curse"
 vis_name "Curse"
 spell_points 418
@@ -62,12 +62,12 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 2193708
+age 2193728
 is_invis 0
 frog 0
 whimpy 30
-auto_load "/players/mokri/clans/object.c:^!/players/wocket/wedding/ring.c:Your love leaves you.#Your love is here.#severance#1^!/players/saber/closed/new_mini/succubus.c:^!/players/saber/closed/new_mini/feline.c:^!players/pain/NEW/items/star.c:^!"
-current_room "players/snow/ROOMS/bar.c"
+auto_load "/players/mokri/clans/object.c:^!players/pain/NEW/items/star.c:^!/players/saber/closed/new_mini/feline.c:^!/players/saber/closed/new_mini/succubus.c:^!/players/wocket/wedding/ring.c:Your love leaves you.#Your love is here.#severance#1^!"
+current_room "room/vill_green"
 alignment 0
 Armors 0
 Weapons 0
@@ -132,14 +132,14 @@ description "whispers to you "Oh, what a tangled web we weave, when at first we 
 clan_name "chosen"
 clan_master 0
 clan_file 0
-lastime "Aug 26 19:03 2017"
+lastime "Sep 10 20:36 2017"
 player_killing 1
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/jareel/heals/YELMALIAN/lthpts#8$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/htmana#3$0@0","players/jareel/heals/YELMALIAN/htmana#10$0@0","players/dune/closed/guild/objects/die_set#0$0@0","players/jareel/heals/YELMALIAN/lthpts#5$0@0","players/jareel/heals/YELMALIAN/htmana#7$0@0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+treasure_str ({"players/jareel/heals/YELMALIAN/htmana#7$0@0","players/jareel/heals/YELMALIAN/lthpts#5$0@0","players/dune/closed/guild/objects/die_set#0$0@0","players/jareel/heals/YELMALIAN/htmana#10$0@0","players/jareel/heals/YELMALIAN/htmana#3$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#8$0@0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
 pwd 0
 errormsgs 0
 home "/players/dune/closed/guild/rooms/guildhall.c"
@@ -149,7 +149,7 @@ no_give 0
 aprv 0
 hint "cat"
 AnsiPref ({"tell","[1;35m","gossip","[1;33m","risque","[1;31m","junk","[1;31m","babble",0,"newbie",0,"msg","[1;36m","announce",0,"equip",0,"page",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Jun  5 21:00 2017"
+old_last "Aug 26 19:03 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

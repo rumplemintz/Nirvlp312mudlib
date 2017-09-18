@@ -1,10 +1,10 @@
 cloaked 0
-g_title "[1;37mFledgeling[0;0m"
-res_time 1495385072
+g_title "[1;37mMaster Doppleganger[0;0m"
+res_time 1505379502
 last_read 0
 bztime 0
 fang_hit 5
-morph_name "bat"
+morph_name "werebear"
 morphed 0
 allowem 0
 shaddup 0
@@ -12,9 +12,9 @@ monitor 0
 bfact 0
 mfact 0
 corpse_heal 0
-which_drain 0
+which_drain 1
 fang_casting 0
-berserk_delay 1495385072
+berserk_delay 1505379502
 shift_flag 0
 sleep_time 0
 sleep_amount 0

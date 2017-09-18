@@ -25,5 +25,5 @@ my_exp 12047875
 divd 0
 donation 7600
 balance 0
-spell_dtype 1
-components_a ({"light feather",12,"spider",125,"heartstone",5,"silver_needle",0,"leather cord",0,"orb of souls",0,"platinum_mirror",47,"granite_powder",131,"amber rod",0,"tespian orb",0,"onyx_powder",114,"sulfur_powder",112,"gemstone",0,})
+spell_dtype 3
+components_a ({"light feather",12,"spider",95,"heartstone",5,"silver_needle",0,"leather cord",0,"orb of souls",0,"platinum_mirror",44,"granite_powder",121,"amber rod",0,"tespian orb",0,"onyx_powder",101,"sulfur_powder",82,"gemstone",0,})

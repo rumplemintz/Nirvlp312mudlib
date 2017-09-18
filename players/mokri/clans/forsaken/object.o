@@ -5,6 +5,7 @@ info 0
 save_flag 0
 value 0
 local_weight 1
+drop_flag 0
 name "clan_object"
 alias_name "clan"
 read_msg 0
@@ -24,7 +25,7 @@ abilities ({})
 chan_history ({"[Thu Aug  1 08:49:44 2013] Leonidas has joined the clan!","[Sat Aug  3 15:16:57 2013] Dreadbane: test",})
 leaders ({})
 join_type 2
-private_coffer 100917
+private_coffer 150917
 public_coffer 0
 spell_delay 0
 spell_id 0

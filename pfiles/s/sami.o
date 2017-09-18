@@ -4,7 +4,7 @@ np_xlevel 100
 nbday "081307"
 rlbday 0
 penalty_left 0
-np_age 575
+np_age 726
 lr_period_start 0
 lr_required_exp 0
 lr_exp 0
@@ -52,7 +52,7 @@ whimpy_dir "random"
 local_weight 0
 hunted 0
 hunter 0
-hunting_time -155
+hunting_time -166
 cap_name "Sami"
 vis_name "Sami"
 spell_points 793
@@ -62,11 +62,11 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 3338056
+age 3338207
 is_invis 0
 frog 0
 whimpy 0
-auto_load "/players/mokri/clans/object.c:^!/players/earwax/closed/TRACKER/loader:0^!/players/angel/masons/mgob.c:^!/players/snow/closed/test/aura.c:^!players/pain/NEW/items/star.c:^!"
+auto_load "/players/mokri/clans/object.c:^!players/pain/NEW/items/star.c:^!/players/snow/closed/test/aura.c:^!/players/angel/masons/mgob.c:^!/players/earwax/closed/TRACKER/loader:0^!"
 current_room "room/vill_green"
 alignment 0
 Armors 0
@@ -105,7 +105,7 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm 0
-hostname "m8f2336d0.tmodns.net"
+hostname "c-69-140-200-140.hsd1.md.comcast.net"
 ok_edit "none#"
 mailaddr "none"
 saved_where 0
@@ -126,13 +126,13 @@ fight_area 0
 mon 1
 phys_at ({1,6,1,124,0,0,})
 no_spell 1
-called_from_ip "208.54.35.143"
+called_from_ip "69.140.200.140"
 msghome "goes home"
 description " `` ` Why do these questions keep comeing to mind, when the answers are just so far away... how come every time i try to fly like a birdie... i wind up on a gurdie...why every time i try to order a taco...ya wanna bite mother facko!. tell me wy.... "
 clan_name "juggalo"
 clan_master 0
 clan_file 0
-lastime "Sep  5 16:42 2017"
+lastime "Sep 14 15:45 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
@@ -149,7 +149,7 @@ no_give 0
 aprv "dragnar,mokri,shinshi"
 hint "none"
 AnsiPref ({"page",0,"tell","[1;31m","gossip","[1;36m","risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title","[1;30m","pretitle","[1;31m","wiz","[1m","lpc",0,"cwiz",0,"ls .c",0,"ls .h",0,"ls directory",0,"ls otherFiles",0,})
-old_last "Sep  4 14:43 2017"
+old_last "Sep 14 11:44 2017"
 wiz_soul_light 1
 present_log 0
 present_castle 0

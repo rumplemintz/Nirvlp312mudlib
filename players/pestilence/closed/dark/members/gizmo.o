@@ -1,12 +1,12 @@
 mylevel 19
-cout 2
+cout 8
 ob 0
 obj 0
 atype "orb"
 here 0
 firstwep 0
 spell_delay 0
-combat 13
+combat 20
 glvl 0
 recruit 0
 offwep_wc 0

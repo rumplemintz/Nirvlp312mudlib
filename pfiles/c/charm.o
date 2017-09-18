@@ -1,11 +1,11 @@
-nrpoints 75463
-totalpoints 75463
+nrpoints 75486
+totalpoints 75486
 np_xlevel 100
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 347
-lr_period_start 1504486348
+np_age 617
+lr_period_start 1505696211
 lr_required_exp 250000
 lr_exp 0
 lr_top_exp 2067362
@@ -23,7 +23,7 @@ guild_info 0
 time_to_heal 0
 hcnum 1
 crime 0
-money 0
+money 80000
 luck2 25
 lucky 117
 name "charm"
@@ -36,7 +36,7 @@ level 19
 armor_class 0
 hit_point 378
 max_hp 378
-experience 24626396
+experience 24647400
 mmsgout "disappears in a puff of smoke"
 mmsgin "arrives in a puff of smoke"
 attacker_ob 0
@@ -49,10 +49,10 @@ head_armor 0
 ghost 0
 dead 0
 whimpy_dir "random"
-local_weight 37
+local_weight 33
 hunted 0
 hunter 0
-hunting_time -315
+hunting_time -348
 cap_name "Charm"
 vis_name "Charm"
 spell_points 514
@@ -62,15 +62,14 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 7777024
+age 7818989
 is_invis 0
 frog 0
 whimpy 50
-auto_load "/players/mokri/clans/object.c:^!/players/saber/closed/new_mini/succubus.c:^!/players/dreamspeakr/WEDDING/OBJ/wedding_ring:^!players/pain/NEW/items/star.c:^!/players/saber/closed/new_mini/feline.c:^!players/boltar/sprooms/clinic/boobs:large 38 6^!"
+auto_load "/players/mokri/clans/object.c:^!players/boltar/sprooms/clinic/boobs:large 38 6^!/players/saber/closed/new_mini/feline.c:^!players/pain/NEW/items/star.c:^!/players/dreamspeakr/WEDDING/OBJ/wedding_ring:^!/players/saber/closed/new_mini/succubus.c:^!"
 current_room "room/vill_green"
 alignment 0
 Armors 0
-Weapons 0
 WeaponBonuses 0
 pob_dd 0
 channel_names ({"msg","risque","newbie","shout","gossip","junk",})
@@ -132,14 +131,14 @@ description "stands before the souls that are in pain. When looking upon her you
 clan_name "arcane"
 clan_master 0
 clan_file 0
-lastime "Sep  7 20:54 2017"
+lastime "Sep 17 19:56 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/rumplemintz/obj/shot#0$0@0","players/rumplemintz/obj/shot#0$0@0","players/saber/stuff/lr_mbag#0$0@0","players/guilds/healers/obj/shield_spell#0$0@0","players/puppy/closed/ptell#0$0@0","players/maledicta/cont/armor/guard_of_health#1$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0",0,0,0,0,0,0,0,0,0,0,0,0,})
+treasure_str ({"players/saber/closed/new_mini/kittyclaws#0$0@0","players/saber/closed/new_mini/scroll#0$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#10$0@0","players/jareel/heals/YELMALIAN/ltmana#3$0@0","players/maledicta/cont/armor/guard_of_health#1$0@0","players/puppy/closed/ptell#0$0@0","players/guilds/healers/obj/shield_spell#0$0@0","players/saber/stuff/lr_mbag#0$0@0","players/rumplemintz/obj/shot#0$0@0","players/rumplemintz/obj/shot#0$0@0",0,0,0,0,0,0,0,0,0,0,})
 pwd 0
 errormsgs 0
 home "/players/guilds/healers/room/hall.c"
@@ -149,7 +148,7 @@ no_give 0
 aprv 0
 hint "cat"
 AnsiPref ({"tell","[1;35m","gossip","[1;33m","risque","[1;31m","junk","[37m","babble",0,"newbie",0,"msg",0,"announce","[1;34m","equip",0,"page",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Sep  7 13:45 2017"
+old_last "Sep 16 21:43 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

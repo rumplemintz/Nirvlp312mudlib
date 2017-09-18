@@ -25,7 +25,7 @@ abilities ({})
 chan_history ({"[Sat Jan  7 07:37:51 2017] Syn has joined the clan!","[Sat Jan  7 07:39:10 2017] Samael has joined the clan!","[Tue Feb 14 19:40:44 2017] Decay has joined the clan!","[Tue Feb 14 19:56:41 2017] Decay: heh","[Tue Feb 14 19:56:45 2017] Decay: sup","[Tue Feb 14 19:56:57 2017] Syn: hey.","[Tue Feb 14 19:57:23 2017] Syn: stuff in hall for you to start.","[Tue Feb 14 19:57:35 2017] Syn: enjoy. Im out for the night.","[Tue Feb 14 19:57:51 2017] Decay: cool. peez",})
 leaders ({})
 join_type 0
-private_coffer 520000
+private_coffer 50000
 public_coffer 0
 spell_delay 10
 spell_id 1

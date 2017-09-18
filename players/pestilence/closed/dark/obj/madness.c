@@ -88,7 +88,7 @@ do_madness( int count ) {
     if( madness_count < MAX_TURNS )
       call_out("do_madness", 5 + (count * 4), ++madness_count);
     else {
-      if( environment(ETO) ) {
+      if( ETO && environment(ETO) ) {
         tell_room( environment(ETO), ETO->query_name()+" recovers from the grip of Madness.\n");
       }
     }

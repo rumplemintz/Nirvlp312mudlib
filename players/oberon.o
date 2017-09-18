@@ -1,10 +1,10 @@
-nrpoints 979102
-totalpoints 1004102
+nrpoints 979272
+totalpoints 1004272
 np_xlevel 100000
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 572
+np_age 824
 lr_period_start 0
 lr_required_exp 0
 lr_exp 0
@@ -43,15 +43,16 @@ attacker_ob 0
 h_check 0
 alt_attacker_ob 0
 weapon_class 3
+name_of_weapon 0
 shield_ob 0
 head_armor 0
 ghost 0
 dead 0
 whimpy_dir "random"
-local_weight 2
+local_weight 0
 hunted 0
 hunter 0
-hunting_time -365
+hunting_time -507
 cap_name "Oberon"
 vis_name "Oberon"
 spell_points 5858
@@ -61,15 +62,17 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 4115124
+age 4277096
 is_invis 0
 frog 0
 whimpy 0
 auto_load "players/pain/NEW/items/star.c:^!/players/angel/masons/mgob.c:^!/players/guilds/Rangers/HonorRangerCommunicator:^!/players/snow/closed/test/aura.c:^!/players/earwax/closed/TRACKER/loader:0^!"
-current_room "room/vill_green"
+current_room "players/fred/closed/venom/symb_room"
 alignment 0
 Armors 0
+Weapons 0
 WeaponBonuses 0
+pob_dd 0
 channel_names ({"gossip","risque","newbie","shout","Masons","junk","wiz","lpc","jukebox","msg","pk","babble","equip","admin",})
 BankBalance 274003
 strength 30
@@ -102,7 +105,7 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm 0
-hostname "50-196-21-9-static.hfc.comcastbusiness.net"
+hostname "c-73-240-44-63.hsd1.or.comcast.net"
 ok_edit "none#"
 mailaddr "none"
 saved_where 0
@@ -123,13 +126,13 @@ fight_area 0
 mon 3
 phys_at ({1,6,2,200,0,0,})
 no_spell 0
-called_from_ip "50.196.21.9"
+called_from_ip "73.240.44.63"
 msghome "fades into the Pattern"
 description 0
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Sep  7 09:05 2017"
+lastime "Sep 17 12:35 2017"
 player_killing 1
 invs_count 0
 invs_flag 0
@@ -137,7 +140,7 @@ new_pl_rest 0
 muffled 0
 treasure 0
 treasure_str ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
-pwd "/players/oberon/"
+pwd "/players/earwax/closed/TRACKER/bin/"
 errormsgs 0
 home "/players/oberon/workroom"
 ex_lv 100
@@ -146,7 +149,7 @@ no_give 0
 aprv "dragnar,rumplemintz,shinshi"
 hint "nonya"
 AnsiPref ({"page",0,"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,"wiz",0,"lpc",0,"cwiz",0,"ls .c",0,"ls .h",0,"ls directory",0,"ls otherFiles",0,"admin",0,})
-old_last "Sep  6 09:13 2017"
+old_last "Sep 16 12:57 2017"
 wiz_soul_light 1
 present_log "/log/oberon"
 present_castle "/players/oberon/castle"

@@ -1,26 +1,18 @@
 Bad argument 1 to call_other()
-Current object was players/angel/area/stargate/npc/corporal#1572, line 250
-"heart_beat" in "obj/monster.c" ("players/angel/area/stargate/npc/corporal#1572") line 348
-"attack" in "obj/monster.c" ("players/angel/area/stargate/npc/corporal#1572") line 1102
-"::attack" in "obj/living.c" ("players/angel/area/stargate/npc/corporal#1572") line 2040
-error when executing program in destroyed object players/angel/area/stargate/npc/corporal#1572
-Heart beat in players/angel/area/stargate/npc/corporal#1572 turned off.
-Bad argument 1 to environment()
-Current object was players/jareel/monsters/town/kassea#2106, line 21
-"heart_beat" in "players/jareel/monsters/town/kassea.c" ("players/jareel/monsters/town/kassea#2106") line 72
-"K_heal" in "players/jareel/monsters/town/kassea.c" ("players/jareel/monsters/town/kassea#2106") line 91
-error when executing program in destroyed object players/jareel/monsters/town/kassea#2106
-Heart beat in players/jareel/monsters/town/kassea#2106 turned off.
-Bad argument 2 to tell_object()
-Current object was players/angel/area/stargate/npc/tealc#2255, line 60
-"heart_beat" in "obj/monster" ("players/angel/area/stargate/npc/tealc#2255") line 348
-"attack" in "obj/monster" ("players/angel/area/stargate/npc/tealc#2255") line 1083
-"execute_spell" in "obj/monster" ("players/angel/area/stargate/npc/tealc#2255") line 1062
-error when executing program in destroyed object players/angel/area/stargate/npc/tealc#2255
-Heart beat in players/angel/area/stargate/npc/tealc#2255 turned off.
-Bad argument 2 to present()
-Current object was players/zeus/museum/NPC/mutant#3359, line 147
-"heart_beat" in "players/zeus/museum/NPC/mutant.c" ("players/zeus/museum/NPC/mutant#3359") line 173
-"side_attack" in "players/zeus/museum/NPC/mutant.c" ("players/zeus/museum/NPC/mutant#3359") line 142
-error when executing program in destroyed object players/zeus/museum/NPC/mutant#3359
-Heart beat in players/zeus/museum/NPC/mutant#3359 turned off.
+Current object was players/fred/closed/venom/venom#679, line 33
+"heart_beat" in "players/zeus/museum/NPC/tiny_golem.c" ("players/zeus/museum/NPC/tiny_golem#1627") line 114
+"::heart_beat" in "obj/monster.c" ("players/zeus/museum/NPC/tiny_golem#1627") line 348
+"attack" in "obj/monster.c" ("players/zeus/museum/NPC/tiny_golem#1627") line 1102
+"::attack" in "obj/living.c" ("players/zeus/museum/NPC/tiny_golem#1627") line 2103
+"do_damage" in "obj/living.c" ("players/zeus/museum/NPC/tiny_golem#1633") line 696
+"death" in "obj/living.c" ("players/zeus/museum/NPC/tiny_golem#1633") line 986
+"share_exp" in "players/fred/closed/venom/venom.c" ("players/fred/closed/venom/venom#679") line 50
+Heart beat in players/zeus/museum/NPC/tiny_golem#1627 turned off.
+Bad argument 1 to call_other()
+Current object was players/dragnar/WalkingDead/mons/walker#774, line 92
+"heart_beat" in "players/dragnar/WalkingDead/mons/walker" ("players/dragnar/WalkingDead/mons/walker#774") line 86
+"::heart_beat" in "obj/monster" ("players/dragnar/WalkingDead/mons/walker#774") line 348
+"attack" in "obj/monster" ("players/dragnar/WalkingDead/mons/walker#774") line 1092
+"execute_spell" in "obj/monster" ("players/dragnar/WalkingDead/mons/walker#774") line 1052
+error when executing program in destroyed object players/dragnar/WalkingDead/mons/walker#774
+Heart beat in players/dragnar/WalkingDead/mons/walker#774 turned off.

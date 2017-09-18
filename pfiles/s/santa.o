@@ -1,11 +1,11 @@
-nrpoints 6645
-totalpoints 6645
+nrpoints 6646
+totalpoints 6646
 np_xlevel 0
 nbday "121116"
 rlbday 0
 penalty_left 0
-np_age 893
-lr_period_start 1504145767
+np_age 325
+lr_period_start 1504925364
 lr_required_exp 3463
 lr_exp 0
 lr_top_exp 4720
@@ -43,7 +43,9 @@ attacker_ob 0
 h_check 0
 alt_attacker_ob 0
 weapon_class 3
+name_of_weapon 0
 shield_ob 0
+head_armor 0
 ghost 0
 dead 0
 whimpy_dir "random"
@@ -60,13 +62,14 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 3054801
+age 3055875
 is_invis 0
 frog 0
 whimpy 0
-auto_load "players/boltar/things/amulet.c:1^!/players/sado/shop/drunk.c:^!players/pain/NEW/items/star.c:^!"
+auto_load "players/pain/NEW/items/star.c:^!/players/sado/shop/drunk.c:^!players/boltar/things/amulet.c:1^!"
 current_room "players/softly/nhall/rooms/n1"
 alignment 0
+Armors 0
 WeaponBonuses 0
 pob_dd 0
 channel_names ({"gossip","msg","risque","newbie","shout","pk","junk",})
@@ -106,7 +109,7 @@ ok_edit "none#"
 mailaddr "http://myspace.com/santaspace"
 saved_where 0
 title "the Apprentice"
-pretitle ""Happy Memorial Day!" from"
+pretitle "Mr."
 password "Ab0vU.c0znQmQ"
 spouse 0
 race "fat bastard"
@@ -128,14 +131,14 @@ description 0
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Aug 30 21:16 2017"
+lastime "Sep  8 21:49 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/dragnar/misc/santa/belt#0$0@0","players/dragnar/misc/santa/boots#0$0@0","players/dragnar/misc/santa/boxers#0$0@0","players/dragnar/misc/santa/bracelet#0$0@0","players/dragnar/misc/santa/cap#0$0@0","players/dragnar/misc/santa/gloves#0$0@0","players/dragnar/misc/santa/jacket#0$0@0","players/dragnar/misc/santa/lights#0$0@0","players/dragnar/misc/santa/pants#0$0@0","players/dragnar/misc/santa/ring#0$0@0","players/dragnar/misc/santa/sack#0$0@0","players/dragnar/misc/santa/whip#0$0@0",0,0,0,0,0,0,0,0,0,0,0,0,0,})
+treasure_str ({"players/dragnar/misc/santa/whip#0$0@0","players/dragnar/misc/santa/sack#0$0@0","players/dragnar/misc/santa/ring#0$0@0","players/dragnar/misc/santa/pants#0$0@0","players/dragnar/misc/santa/lights#0$0@0","players/dragnar/misc/santa/jacket#0$0@0","players/dragnar/misc/santa/gloves#0$0@0","players/dragnar/misc/santa/cap#0$0@0","players/dragnar/misc/santa/bracelet#0$0@0","players/dragnar/misc/santa/boxers#0$0@0","players/dragnar/misc/santa/boots#0$0@0","players/dragnar/misc/santa/belt#0$0@0",0,0,0,0,0,0,0,0,0,0,0,0,0,})
 pwd 0
 errormsgs 0
 home 0
@@ -145,7 +148,7 @@ no_give 0
 aprv 0
 hint "Ho Ho Ho"
 AnsiPref ({"page",0,"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Jun 14 08:15 2017"
+old_last "Aug 30 21:16 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

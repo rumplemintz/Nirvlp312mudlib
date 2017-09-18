@@ -16,5 +16,5 @@ slamstat 10000
 absorbstat 0
 shapestat 0
 burnstat 0
-hyperstat 1650000
+hyperstat 1700000
 changestat 10001

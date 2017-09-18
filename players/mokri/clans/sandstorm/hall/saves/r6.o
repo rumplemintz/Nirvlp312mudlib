@@ -1,7 +1,7 @@
 no_exit_display 0
 no_clean 1
 cast_here 0
-dest_dir ({"/players/mokri/clans/sandstorm/hall/r1","southwest",})
+dest_dir ({"/players/mokri/clans/sandstorm/hall/r1","southwest","/players/mokri/clans/sandstorm/hall/r24","down",})
 short_desc "Clan Hall - locker room"
 long_desc "generic clan hall locker room."
 items 0

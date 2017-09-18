@@ -325,3 +325,87 @@ Exec: write(ctime() + "\n");
 Fri Sep  8 06:05:17 2017 : Dragnar
 Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
 ---------------------------------------------------------
+Sat Sep  9 11:08:10 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sun Sep 10 06:05:16 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Sep 11 08:11:36 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Sep 11 09:22:36 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Sep 11 13:39:26 2017 : Oberon
+Exec: find_player("gizmo")->query_xp();
+---------------------------------------------------------
+Mon Sep 11 13:39:38 2017 : Oberon
+Exec: write(find_player("gizmo")->query_xp());
+---------------------------------------------------------
+Mon Sep 11 13:39:50 2017 : Oberon
+Exec: write("exp: "+find_player("gizmo")->query_xp()+"\n");
+---------------------------------------------------------
+Mon Sep 11 13:39:56 2017 : Oberon
+Exec: write("exp: "+find_player("gizmo")->query_exp()+"\n");
+---------------------------------------------------------
+Mon Sep 11 13:40:20 2017 : Oberon
+Exec: find_player("gizmo")->add_exp(500000);
+---------------------------------------------------------
+Mon Sep 11 13:40:22 2017 : Oberon
+Exec: write("exp: "+find_player("gizmo")->query_exp()+"\n");
+---------------------------------------------------------
+Tue Sep 12 06:05:15 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Tue Sep 12 18:39:10 2017 : Shinshi
+Exec: write(2*1.8)
+---------------------------------------------------------
+Tue Sep 12 18:39:20 2017 : Shinshi
+Exec: write(2*4)
+---------------------------------------------------------
+Tue Sep 12 18:39:29 2017 : Shinshi
+Exec: write(2+4)
+---------------------------------------------------------
+Tue Sep 12 18:39:45 2017 : Shinshi
+Exec: myNum = 4
+---------------------------------------------------------
+Tue Sep 12 18:40:00 2017 : Shinshi
+Exec: myNum = 4; write(myNum);
+---------------------------------------------------------
+Tue Sep 12 18:40:02 2017 : Shinshi
+Exec: write(2+4);
+---------------------------------------------------------
+Tue Sep 12 18:40:06 2017 : Shinshi
+Exec: write(2+4\n);
+---------------------------------------------------------
+Tue Sep 12 18:40:16 2017 : Shinshi
+Exec: write(2+4+"\n");
+---------------------------------------------------------
+Wed Sep 13 07:36:11 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Wed Sep 13 21:05:19 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Thu Sep 14 06:05:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Thu Sep 14 18:56:06 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Fri Sep 15 06:05:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sat Sep 16 08:51:59 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sat Sep 16 10:52:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Sun Sep 17 06:05:14 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------
+Mon Sep 18 08:11:32 2017 : Dragnar
+Exec: "/bin/channel_daemon.c"->add_channel( "star", this_player() );
+---------------------------------------------------------

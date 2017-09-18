@@ -1,15 +1,15 @@
-nrpoints 5935210
-totalpoints 6822712
+nrpoints 5855225
+totalpoints 6852727
 np_xlevel 100
 nbday "081816"
 rlbday 0
 penalty_left 0
-np_age 429
-lr_period_start 1504627052
+np_age 377
+lr_period_start 1505231854
 lr_required_exp 250000
-lr_exp 956360
+lr_exp 21539394
 lr_top_exp 61148718
-lr_streak 5
+lr_streak 6
 lr_top_streak 46
 lr_flag 1
 guild_name "mage"
@@ -23,9 +23,9 @@ guild_info 0
 time_to_heal 0
 hcnum 1
 crime 0
-money 80000
-luck2 25
-lucky 147
+money 79250
+luck2 10
+lucky 216
 name "dreadbane"
 gender "male"
 msgin "arrives"
@@ -34,9 +34,9 @@ is_npc 0
 brief 2
 level 19
 armor_class 0
-hit_point 371
-max_hp 371
-experience 84531592
+hit_point 294
+max_hp 294
+experience 7355936
 mmsgout "disappears in a puff of smoke"
 mmsgin "arrives in a puff of smoke"
 attacker_ob 0
@@ -50,38 +50,38 @@ whimpy_dir "random"
 local_weight 20
 hunted 0
 hunter 0
-hunting_time -255
+hunting_time -104
 cap_name "Dreadbane"
 vis_name "Dreadbane"
-spell_points 876
-max_spell 876
+spell_points 491
+max_spell 491
 spell_name "Trine"
 disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 1846207
+age 1867388
 is_invis 0
 frog 0
 whimpy 50
-auto_load "/players/mokri/clans/object.c:^!players/fakir/closed/scar.c:^!players/pain/NEW/items/star.c:^!/players/earwax/closed/TRACKER/loader:0^!/players/snow/closed/test/aura.c:^!/players/maledicta/closed/symbio/clan.c:^!players/eurale/Abyss/OBJ/mark.c:^!/players/angel/masons/mgob.c:^!players/boltar/casino/key:248^!"
-current_room "room/vill_green"
+auto_load "/players/mokri/clans/object.c:^!players/boltar/casino/key:248^!/players/angel/masons/mgob.c:^!players/eurale/Abyss/OBJ/mark.c:^!/players/maledicta/closed/symbio/clan.c:^!/players/snow/closed/test/aura.c:^!/players/earwax/closed/TRACKER/loader:0^!players/pain/NEW/items/star.c:^!players/fakir/closed/scar.c:^!"
+current_room "/players/mokri/clans/forsaken/hall/r9"
 alignment 0
 WeaponBonuses 0
 pob_dd 0
 channel_names ({"gossip","msg","newbie","shout","junk","jukebox","babble","equip","pk","risque","Masons",})
-BankBalance 9323446
-strength 32
+BankBalance 7371689
+strength 30
 intelligence 20
 stamina 30
-will_power 20
+will_power 5
 magic_aptitude 40
-piety 9
-stealth 19
-charisma 21
-dexterity 12
-luck 25
-atrbr ({21,12,20,25,40,10,30,20,30,20,})
+piety 5
+stealth 20
+charisma 10
+dexterity 5
+luck 10
+atrbr ({10,5,20,10,40,5,30,20,30,5,})
 stats ({0,0,0,0,0,0,0,0,0,0,})
 stat_maxes ({0,0,0,0,0,0,0,0,0,0,})
 flag_tester 0
@@ -105,7 +105,7 @@ hostname "localhost"
 ok_edit "none#"
 mailaddr "johnnie.lee@outlook.com"
 saved_where 0
-title "the ancient of the mortals"
+title "the master of seasons"
 pretitle "[1;34m[0m"
 password "LJCtVCimiE/OY"
 spouse 0
@@ -117,45 +117,45 @@ infuse 0
 stuffed 0
 soaked 0
 headache 0
-max_headache 0
+max_headache 8
 fight_area 0
 mon 3
 phys_at ({1,6,4,220,0,0,})
-no_spell 1
+no_spell 0
 called_from_ip "127.0.0.1"
 msghome "goes home"
 description 0
 clan_name "forsaken"
 clan_master 0
 clan_file 0
-lastime "Sep  8 07:41 2017"
+lastime "Sep 18 08:11 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/morgar/spells/full_heal#0$0@0","players/morgar/spells/full_heal#0$0@0","players/saber/stuff/lr_mbag#0$0@0","players/dragnar/SevenSpires/scrolls/acuminate#1$0@0","players/snow/closed/test/elem_staff#0$0@0","players/snow/closed/test/earring#0$0@0","players/angel/area/school/obj/flow_scarf_01#0$0@0","players/vertebraker/swamp/OBJ/j_robes#0$0@0","players/valen/area/catacombs/armors/d_belt#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageCloak#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageBracer#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageChest#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageRing9#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageUnderware#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMagePants#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageNecklace#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageMisc#0$0@0","players/jenny/wings/items/tedskates#0$0@0","players/pavlik/guild/mages/objects/pouch#0$0@0","players/forbin/realms/flame_forest/OBJ/gmoloch#0$0@0","players/jaraxle/cont/bdragon/amulet#0$0@0","players/morgar/spells/full_heal#0$0@0","players/morgar/spells/full_heal#0$0@0","players/dragnar/WasteLands/armor/suit#0$0@0",0,})
+treasure_str ({"players/jareel/armor/cratermaker/solaris/ArchMageCloak#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageBracer#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageChest#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageRing9#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageUnderware#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMagePants#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageNecklace#0$0@0","players/jareel/armor/cratermaker/solaris/ArchMageMisc#0$0@0","players/jaraxle/cont/bdragon/amulet#0$0@0","players/dragnar/WasteLands/armor/suit#0$0@0","players/saber/stuff/lr_mbag#0$0@0","players/vertebraker/swamp/OBJ/j_robes#0$0@0","players/angel/area/school/obj/flow_scarf_01#0$0@0","players/pavlik/guild/mages/objects/pouch#0$0@0","players/morgar/spells/full_heal#0$0@0","players/morgar/spells/full_heal#0$0@0","players/forbin/realms/flame_forest/OBJ/gmoloch#0$0@0","players/jenny/wings/items/tedskates#0$0@0","players/valen/area/catacombs/armors/d_belt#0$0@0","players/snow/closed/test/elem_staff#0$0@0","players/snow/closed/test/earring#0$0@0","players/dragnar/SevenSpires/scrolls/acuminate#3$0@0",0,0,0,})
 pwd 0
 errormsgs 0
 home "/players/pavlik/guild/mages/room/guild_room5"
-ex_lv 94
-qc 0
+ex_lv 17
+qc 1
 no_give 0
 aprv 0
 hint "ms"
 AnsiPref ({"page",0,"tell","[1;30m","gossip","[32m","risque",0,"junk","[33m","babble",0,"newbie",0,"msg",0,"announce",0,"equip","[37m","pk",0,"title",0,"pretitle",0,})
-old_last "Sep  7 08:51 2017"
+old_last "Sep 16 18:06 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0
 friends 0
 top_boot_xp 72387530
 top_kill ({6087800,"[1;31mS[1;30ma[1;31mt[1;30ma[1;31mn[0;0m","[1;31mHELL'S PIT[1m.[2;37;0m [no exits]",1444523408,})
-prestige_level 11
-prestige_xp 1144339
+prestige_level 12
+prestige_xp 1244741
 prestige_qp 798
 prestige_skill_points 0
 prestige_guild_a ({"Dark Order",({"/players/pestilence/closed/dark/dark",10,39000001,"/players/pestilence/closed/dark/room/hall.c",}),"mage",({"/players/pavlik/guild/mages/gob",71,16639422,"/players/pavlik/guild/mages/room/guild_room5",}),"samurai",({"/players/vertebraker/guilds/samurai/gob",10,0,"/players/vertebraker/guilds/samurai/room/dojo_shomen",}),})
-prestige_skills ({3,0,1,1,2,1,3,1,0,})
+prestige_skills ({4,0,1,1,2,1,3,1,0,})
 other_copy 0

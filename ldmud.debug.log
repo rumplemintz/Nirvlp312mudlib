@@ -71,3 +71,26 @@
 '    move_player' in '        obj/living.c' ('players/boltar/things/cop#2446') line 251
 2017.08.30 20:41:00 Error in process_objects().
 2017.08.30 20:42:44 Error (104) upon reading socket 8 (ip 0x8f2c960 'obj/player#4050'), closing connection: Connection reset by peer
+2017.09.11 07:01:48 Index for [] out of bounds: 129, vector size: 129
+2017.09.11 07:01:48 program: players/mizan/core/objectDM.c, object: players/mizan/core/objectDM line 603
+'limited_issue_check' in 'players/mizan/core/weapon.c' ('players/mizan/etheriel/items/cardboard-tube') line 114
+'count_object_instances' in 'players/mizan/core/objectDM.c' ('players/mizan/core/objectDM') line 603
+2017.09.11 07:01:48 Error in call out.
+2017.09.11 07:01:48 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:48 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:48 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:48 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:48 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:48 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:50 Index for [] out of bounds: 129, vector size: 129
+2017.09.11 07:01:50 program: players/mizan/core/objectDM.c, object: players/mizan/core/objectDM line 603
+'limited_issue_check' in 'players/mizan/core/weapon.c' ('players/mizan/etheriel/items/cardboard-tube#13924') line 114
+'count_object_instances' in 'players/mizan/core/objectDM.c' ('players/mizan/core/objectDM') line 603
+2017.09.11 07:01:50 Error in call out.
+2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.15 19:27:45 Error (104) upon reading socket 8 (ip 0x947d954 'obj/player#17870'), closing connection: Connection reset by peer

@@ -15172,3 +15172,272 @@ oberon c-71-59-219-169.hsd1.or.comcast.net STOR /home/petebre/mymud/lp312/mudlib
 23909: oberon sent PWD at Thu Sep  7 22:57:46 2017
 1284: reaped 23909 at Thu Sep  7 22:59:17 2017
 bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 7d.51.559e.ip4.static.sl-reverse.com [158.85.81.125] at port 44044 at Fri Sep  8 11:48:01 2017
+1284: begat 32487 at Fri Sep  8 11:48:01 2017
+32487: <none> sent GET / HTTP/1. at Fri Sep  8 11:48:02 2017
+32487: <none> sent Host: nirvana.beanos.co at Fri Sep  8 11:48:02 2017
+32487: <none> sent  at Fri Sep  8 11:48:02 2017
+1284: reaped 32487 at Fri Sep  8 11:48:11 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 209.126.136.5 [209.126.136.5] at port 43850 at Mon Sep 11 03:12:59 2017
+1284: begat 5682 at Mon Sep 11 03:12:59 2017
+1284: reaped 5682 with exit 13 at Mon Sep 11 03:13:00 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 216.158.238.186 [216.158.238.186] at port 65535 at Mon Sep 11 07:33:57 2017
+1284: begat 8660 at Mon Sep 11 07:33:57 2017
+8660: <none> sent AUTH TLS at Mon Sep 11 07:33:58 2017
+1284: reaped 8660 at Mon Sep 11 07:33:58 2017
+1284: connection from 50-196-21-9-static.hfc.comcastbusiness.net [50.196.21.9] at port 2157 at Mon Sep 11 13:51:45 2017
+1284: begat 15099 at Mon Sep 11 13:51:45 2017
+15099: oberon sent USER oberon at Mon Sep 11 13:51:46 2017
+15099: oberon sent PASS ******** at Mon Sep 11 13:51:46 2017
+15099: oberon sent TYPE A at Mon Sep 11 13:51:47 2017
+15099: oberon sent MODE S at Mon Sep 11 13:51:47 2017
+15099: oberon sent STRU F at Mon Sep 11 13:51:47 2017
+15099: oberon sent PWD at Mon Sep 11 13:51:47 2017
+15099: oberon sent CWD /players/oberon at Mon Sep 11 13:51:48 2017
+15099: oberon sent PASV at Mon Sep 11 13:51:48 2017
+15099: oberon sent LIST at Mon Sep 11 13:51:49 2017
+15099: oberon sent CWD /players/oberon/closed at Mon Sep 11 13:52:04 2017
+15099: oberon sent PASV at Mon Sep 11 13:52:04 2017
+15099: oberon sent LIST at Mon Sep 11 13:52:04 2017
+15099: oberon sent CWD /players/oberon/closed/tmp at Mon Sep 11 13:52:08 2017
+15099: oberon sent PASV at Mon Sep 11 13:52:08 2017
+15099: oberon sent LIST at Mon Sep 11 13:52:09 2017
+1284: connection from 50-196-21-9-static.hfc.comcastbusiness.net [50.196.21.9] at port 53761 at Mon Sep 11 13:52:14 2017
+1284: begat 15113 at Mon Sep 11 13:52:14 2017
+15113: oberon sent USER oberon at Mon Sep 11 13:52:15 2017
+15113: oberon sent PASS ******** at Mon Sep 11 13:52:16 2017
+15113: oberon sent TYPE A at Mon Sep 11 13:52:16 2017
+15113: oberon sent MODE S at Mon Sep 11 13:52:16 2017
+15113: oberon sent STRU F at Mon Sep 11 13:52:16 2017
+15113: oberon sent TYPE I at Mon Sep 11 13:52:17 2017
+15113: oberon sent SIZE /players/oberon/closed/tmp/BIGEXP at Mon Sep 11 13:52:17 2017
+15113: oberon sent PASV at Mon Sep 11 13:52:17 2017
+oberon 50-196-21-9-static.hfc.comcastbusiness.net RETR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/BIGEXP I 16040 Sep 11 13:52:18 2017
+15113: oberon sent RETR /players/oberon/closed/tmp/BIGEXP at Mon Sep 11 13:52:18 2017
+1284: reaped 15099 at Mon Sep 11 14:07:11 2017
+1284: reaped 15113 at Mon Sep 11 14:07:18 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 25.80.01a8.ip4.static.sl-reverse.com [168.1.128.37] at port 10000 at Wed Sep 13 00:05:11 2017
+1284: begat 3231 at Wed Sep 13 00:05:11 2017
+3231: <none> sent AUTH TLS at Wed Sep 13 00:05:12 2017
+1284: reaped 3231 at Wed Sep 13 00:05:12 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 52590 at Wed Sep 13 10:37:57 2017
+1284: begat 9231 at Wed Sep 13 10:37:57 2017
+1284: reaped 9231 at Wed Sep 13 10:37:59 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 53262 at Wed Sep 13 10:37:59 2017
+1284: begat 9232 at Wed Sep 13 10:37:59 2017
+9232: <none> sent  at Wed Sep 13 10:38:00 2017
+9232: <none> sent  at Wed Sep 13 10:38:00 2017
+1284: reaped 9232 at Wed Sep 13 10:38:02 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 53792 at Wed Sep 13 10:38:02 2017
+1284: begat 9239 at Wed Sep 13 10:38:02 2017
+9239: <none> sent GET / HTTP/1.0 at Wed Sep 13 10:38:03 2017
+9239: <none> sent  at Wed Sep 13 10:38:03 2017
+1284: reaped 9239 at Wed Sep 13 10:38:04 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 54372 at Wed Sep 13 10:38:05 2017
+1284: begat 9240 at Wed Sep 13 10:38:05 2017
+9240: <none> sent HELP at Wed Sep 13 10:38:05 2017
+1284: reaped 9240 at Wed Sep 13 10:38:07 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 54832 at Wed Sep 13 10:38:07 2017
+1284: begat 9241 at Wed Sep 13 10:38:07 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 55652 at Wed Sep 13 10:38:09 2017
+1284: begat 9242 at Wed Sep 13 10:38:09 2017
+1284: reaped 9241 with exit 13 at Wed Sep 13 10:38:09 2017
+9242: <none> sent \#S at Wed Sep 13 10:38:10 2017
+1284: reaped 9242 at Wed Sep 13 10:38:11 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 56236 at Wed Sep 13 10:38:12 2017
+1284: begat 9243 at Wed Sep 13 10:38:12 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 56758 at Wed Sep 13 10:38:14 2017
+1284: begat 9244 at Wed Sep 13 10:38:14 2017
+1284: reaped 9243 with exit 13 at Wed Sep 13 10:38:14 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 57212 at Wed Sep 13 10:38:16 2017
+1284: begat 9245 at Wed Sep 13 10:38:16 2017
+1284: reaped 9244 with exit 13 at Wed Sep 13 10:38:16 2017
+9245: <none> sent OPTIONS / HTTP/1.0 at Wed Sep 13 10:38:17 2017
+9245: <none> sent  at Wed Sep 13 10:38:17 2017
+1284: reaped 9245 at Wed Sep 13 10:38:18 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 57686 at Wed Sep 13 10:38:18 2017
+1284: begat 9246 at Wed Sep 13 10:38:18 2017
+9246: <none> sent OPTIONS / RTSP/1.0 at Wed Sep 13 10:38:19 2017
+9246: <none> sent  at Wed Sep 13 10:38:19 2017
+1284: reaped 9246 at Wed Sep 13 10:38:21 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 58186 at Wed Sep 13 10:38:21 2017
+1284: begat 9247 at Wed Sep 13 10:38:21 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 58496 at Wed Sep 13 10:38:23 2017
+1284: begat 9248 at Wed Sep 13 10:38:23 2017
+1284: reaped 9247 with exit 13 at Wed Sep 13 10:38:23 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 58848 at Wed Sep 13 10:38:25 2017
+1284: begat 9249 at Wed Sep 13 10:38:25 2017
+1284: reaped 9248 with exit 13 at Wed Sep 13 10:38:25 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 59118 at Wed Sep 13 10:38:28 2017
+1284: begat 9250 at Wed Sep 13 10:38:28 2017
+1284: reaped 9249 with exit 13 at Wed Sep 13 10:38:28 2017
+9250: <none> sent   S  O ?G◊˜∫,ÓÍ≤`~Û ˝Ç{π’ñ»wõÊƒ€<=€oÔn  (   at Wed Sep 13 10:38:28 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 59412 at Wed Sep 13 10:38:30 2017
+1284: begat 9251 at Wed Sep 13 10:38:30 2017
+1284: reaped 9250 with exit 13 at Wed Sep 13 10:38:30 2017
+9251: <none> sent   i  eUß‰random1random2random3random4   / at Wed Sep 13 10:38:31 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 59738 at Wed Sep 13 10:38:32 2017
+1284: begat 9252 at Wed Sep 13 10:38:32 2017
+1284: reaped 9251 with exit 13 at Wed Sep 13 10:38:32 2017
+9252: <none> sent    qjÅn0Åk°¢ at Wed Sep 13 10:38:33 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 60026 at Wed Sep 13 10:38:35 2017
+1284: begat 9253 at Wed Sep 13 10:38:35 2017
+1284: reaped 9252 with exit 13 at Wed Sep 13 10:38:35 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 60320 at Wed Sep 13 10:38:37 2017
+1284: begat 9254 at Wed Sep 13 10:38:37 2017
+1284: reaped 9253 with exit 13 at Wed Sep 13 10:38:37 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 60562 at Wed Sep 13 10:38:39 2017
+1284: begat 9255 at Wed Sep 13 10:38:39 2017
+1284: reaped 9254 with exit 13 at Wed Sep 13 10:38:39 2017
+9255: <none> sent GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0 at Wed Sep 13 10:38:40 2017
+9255: <none> sent  at Wed Sep 13 10:38:40 2017
+1284: reaped 9255 at Wed Sep 13 10:38:41 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 60878 at Wed Sep 13 10:38:42 2017
+1284: begat 9256 at Wed Sep 13 10:38:42 2017
+9256: <none> sent defaul at Wed Sep 13 10:38:42 2017
+1284: reaped 9256 at Wed Sep 13 10:38:44 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 32894 at Wed Sep 13 10:38:44 2017
+1284: begat 9257 at Wed Sep 13 10:38:44 2017
+9257: <none> sent 0Ñ   -cÑ   $ at Wed Sep 13 10:38:45 2017
+9257: <none> sent  at Wed Sep 13 10:38:45 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 33216 at Wed Sep 13 10:38:46 2017
+1284: begat 9258 at Wed Sep 13 10:38:46 2017
+1284: reaped 9257 with exit 13 at Wed Sep 13 10:38:46 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 33418 at Wed Sep 13 10:38:49 2017
+1284: begat 9259 at Wed Sep 13 10:38:49 2017
+1284: reaped 9258 with exit 13 at Wed Sep 13 10:38:49 2017
+9259: <none> sent OPTIONS sip:nm SIP/2.0 at Wed Sep 13 10:38:49 2017
+9259: <none> sent Via: SIP/2.0/TCP nm;branch=foo at Wed Sep 13 10:38:49 2017
+9259: <none> sent From: <sip:nm@nm>;tag=root at Wed Sep 13 10:38:49 2017
+9259: <none> sent To: <sip:nm2@nm2> at Wed Sep 13 10:38:50 2017
+9259: <none> sent Call-ID: 50000 at Wed Sep 13 10:38:50 2017
+9259: <none> sent CSeq: 42 OPTIONS at Wed Sep 13 10:38:50 2017
+9259: <none> sent Max-Forwards: 70 at Wed Sep 13 10:38:50 2017
+9259: <none> sent Content-Length: 0 at Wed Sep 13 10:38:50 2017
+9259: <none> sent Contact: <sip:nm@nm> at Wed Sep 13 10:38:50 2017
+9259: <none> sent Accept: application/sdp at Wed Sep 13 10:38:51 2017
+9259: <none> sent  at Wed Sep 13 10:38:51 2017
+1284: reaped 9259 at Wed Sep 13 10:38:52 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 33732 at Wed Sep 13 10:38:52 2017
+1284: begat 9260 at Wed Sep 13 10:38:52 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 33886 at Wed Sep 13 10:38:55 2017
+1284: begat 9261 at Wed Sep 13 10:38:55 2017
+1284: reaped 9260 with exit 13 at Wed Sep 13 10:38:55 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 34000 at Wed Sep 13 10:38:57 2017
+1284: begat 9262 at Wed Sep 13 10:38:57 2017
+1284: reaped 9261 with exit 13 at Wed Sep 13 10:38:57 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 34342 at Wed Sep 13 10:38:59 2017
+1284: begat 9263 at Wed Sep 13 10:38:59 2017
+1284: reaped 9262 with exit 13 at Wed Sep 13 10:38:59 2017
+1284: reaped 9263 with exit 13 at Wed Sep 13 10:39:01 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 34668 at Wed Sep 13 10:39:01 2017
+1284: begat 9277 at Wed Sep 13 10:39:01 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 35104 at Wed Sep 13 10:39:04 2017
+1284: begat 9278 at Wed Sep 13 10:39:04 2017
+1284: reaped 9277 with exit 13 at Wed Sep 13 10:39:04 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 35302 at Wed Sep 13 10:39:06 2017
+1284: begat 9279 at Wed Sep 13 10:39:06 2017
+1284: reaped 9278 with exit 13 at Wed Sep 13 10:39:06 2017
+1284: reaped 9279 with exit 13 at Wed Sep 13 10:39:09 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 35494 at Wed Sep 13 10:39:09 2017
+1284: begat 9280 at Wed Sep 13 10:39:09 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 35954 at Wed Sep 13 10:39:11 2017
+1284: begat 9281 at Wed Sep 13 10:39:11 2017
+1284: reaped 9280 with exit 13 at Wed Sep 13 10:39:11 2017
+1284: connection from min-06-27-2381-de-a-prod.binaryedge.ninja [172.104.159.195] at port 36470 at Wed Sep 13 10:39:13 2017
+1284: begat 9282 at Wed Sep 13 10:39:13 2017
+1284: reaped 9281 with exit 13 at Wed Sep 13 10:39:13 2017
+1284: reaped 9282 with exit 13 at Wed Sep 13 10:39:15 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 7e.e9.36a9.ip4.static.sl-reverse.com [169.54.233.126] at port 58473 at Thu Sep 14 07:29:06 2017
+1284: begat 23648 at Thu Sep 14 07:29:06 2017
+23648: <none> sent GET / HTTP/1. at Thu Sep 14 07:29:07 2017
+23648: <none> sent Host: nirvana.beanos.co at Thu Sep 14 07:29:07 2017
+23648: <none> sent  at Thu Sep 14 07:29:07 2017
+1284: reaped 23648 at Thu Sep 14 07:29:18 2017
+1284: connection from pirate.census.shodan.io [71.6.146.185] at port 58913 at Thu Sep 14 09:36:29 2017
+1284: begat 24736 at Thu Sep 14 09:36:29 2017
+24736: <none> sent GET / HTTP/1.1 at Thu Sep 14 09:36:30 2017
+24736: <none> sent Host: 174.137.154.70:3000 at Thu Sep 14 09:36:30 2017
+24736: <none> sent Accept-Encoding: identity at Thu Sep 14 09:36:30 2017
+24736: <none> sent Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 at Thu Sep 14 09:36:30 2017
+24736: <none> sent User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36 at Thu Sep 14 09:36:31 2017
+24736: <none> sent  at Thu Sep 14 09:36:31 2017
+1284: reaped 24736 at Thu Sep 14 09:36:39 2017
+1284: connection from mail.goldenruleremodeling.com [63.224.254.169] at port 49630 at Thu Sep 14 14:58:43 2017
+1284: begat 28020 at Thu Sep 14 14:58:43 2017
+28020: oberon sent USER oberon at Thu Sep 14 14:58:44 2017
+28020: oberon sent PASS ******** at Thu Sep 14 14:58:44 2017
+28020: oberon sent TYPE A at Thu Sep 14 14:58:44 2017
+28020: oberon sent MODE S at Thu Sep 14 14:58:44 2017
+28020: oberon sent STRU F at Thu Sep 14 14:58:45 2017
+28020: oberon sent CWD /players/oberon/closed/tmp at Thu Sep 14 14:58:45 2017
+28020: oberon sent PASV at Thu Sep 14 14:58:45 2017
+28020: oberon sent LIST at Thu Sep 14 14:58:46 2017
+1284: connection from mail.goldenruleremodeling.com [63.224.254.169] at port 59208 at Thu Sep 14 14:58:50 2017
+1284: begat 28021 at Thu Sep 14 14:58:50 2017
+28021: oberon sent USER oberon at Thu Sep 14 14:58:51 2017
+28021: oberon sent PASS ******** at Thu Sep 14 14:58:51 2017
+28021: oberon sent TYPE A at Thu Sep 14 14:58:51 2017
+28021: oberon sent MODE S at Thu Sep 14 14:58:51 2017
+28021: oberon sent STRU F at Thu Sep 14 14:58:52 2017
+28021: oberon sent TYPE I at Thu Sep 14 14:58:52 2017
+28021: oberon sent SIZE /players/oberon/closed/tmp/living.c at Thu Sep 14 14:58:52 2017
+28021: oberon sent PASV at Thu Sep 14 14:58:52 2017
+oberon mail.goldenruleremodeling.com RETR /home/petebre/mymud/lp312/mudlib/players/oberon/closed/tmp/living.c I 110219 Sep 14 14:58:54 2017
+28021: oberon sent RETR /players/oberon/closed/tmp/living.c at Thu Sep 14 14:58:54 2017
+1284: reaped 28020 at Thu Sep 14 15:13:48 2017
+1284: reaped 28021 at Thu Sep 14 15:13:55 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from h30-72.fcsrv.net [185.92.72.30] at port 996 at Fri Sep 15 02:28:53 2017
+1284: begat 4454 at Fri Sep 15 02:28:53 2017
+4454: <none> sent   /*‡     Cookie: mstshash=Administr at Fri Sep 15 02:28:55 2017
+4454: <none> sent     at Fri Sep 15 02:28:55 2017
+1284: reaped 4454 with exit 13 at Fri Sep 15 02:28:55 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from pirate.census.shodan.io [71.6.146.185] at port 40384 at Sat Sep 16 02:45:01 2017
+1284: begat 18471 at Sat Sep 16 02:45:01 2017
+18471: <none> sent GET / HTTP/1.1 at Sat Sep 16 02:45:02 2017
+18471: <none> sent Host: 174.137.154.70:3000 at Sat Sep 16 02:45:02 2017
+18471: <none> sent Accept-Encoding: identity at Sat Sep 16 02:45:02 2017
+18471: <none> sent Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 at Sat Sep 16 02:45:02 2017
+18471: <none> sent User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36 at Sat Sep 16 02:45:02 2017
+18471: <none> sent  at Sat Sep 16 02:45:02 2017
+1284: reaped 18471 at Sat Sep 16 02:45:08 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from customer.worldstream.nl [217.23.7.23] at port 3161 at Sun Sep 17 11:53:19 2017
+1284: begat 9752 at Sun Sep 17 11:53:19 2017
+1284: reaped 9752 at Sun Sep 17 11:53:38 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 209.126.136.5 [209.126.136.5] at port 50428 at Mon Sep 18 04:50:38 2017
+1284: begat 19968 at Mon Sep 18 04:50:38 2017
+1284: reaped 19968 with exit 13 at Mon Sep 18 04:50:39 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 3e.80.01a8.ip4.static.sl-reverse.com [168.1.128.62] at port 10000 at Mon Sep 18 15:30:51 2017
+1284: begat 26015 at Mon Sep 18 15:30:51 2017
+26015: <none> sent AUTH TLS at Mon Sep 18 15:30:52 2017
+1284: reaped 26015 at Mon Sep 18 15:30:52 2017

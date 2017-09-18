@@ -17,6 +17,6 @@ Rank   Player
 (61  ) Modeparttwo     : Sensei
 (55  ) Jinichi         : Sensei
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Query current as of Sat Aug 26 18:43:07 2017
+Query current as of Sun Sep 17 22:01:52 2017
 
 

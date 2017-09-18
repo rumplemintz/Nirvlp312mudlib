@@ -1048,3 +1048,55 @@ XXXXRestored 2017 OK.
 YYYY
 update alltime check: 0:2017
 call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+Sun Sep 10 06:01:11 2017 GOT TO SAVE
+update alltime check: 1:2017
+calling update ALLTIME
+XXXXRestored alltime OK.
+YYYY
+update alltime check: 0:alltime
+call-ouit
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+update alltime check: 0:2017
+call-ouit
+XXXXRestored 2017 OK.
+YYYY
+Mon Sep 18 06:01:10 2017 GOT TO SAVE
+update alltime check: 1:2017
+calling update ALLTIME
+XXXXRestored alltime OK.
+YYYY
+update alltime check: 0:alltime
+call-ouit
+call-ouit

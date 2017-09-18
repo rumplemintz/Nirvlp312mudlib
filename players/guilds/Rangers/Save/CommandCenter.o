@@ -29,7 +29,7 @@ head_armor 0
 ghost 0
 dead 0
 whimpy_dir 0
-local_weight -660027
+local_weight -660417
 hunted 0
 hunter 0
 hunting_time 10
@@ -42,7 +42,7 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 60536405
+age 60536429
 is_invis 0
 frog 0
 whimpy 0
@@ -116,9 +116,9 @@ wimpy_exit 0
 wimpy_msg 0
 luck 0
 busy_catch_tell 0
-Power 67393803
+Power 67646424
 Enhancements ({"Solar Collector",4,"/players/beck/Rangers/CommandCenter/Solar-Collector.c","Ion Pulse Cannon",2,"/players/beck/Rangers/CommandCenter/Ion-Pulse-Cannon.c","Xenon Refractor Shield",1,"/players/beck/Rangers/CommandCenter/Xenon-Refractor-Shield.c","Communications Tower",1,"/players/beck/Rangers/CommandCenter/Communications-Tower.c","Spy Satellite",1,"/players/beck/Rangers/CommandCenter/Spy-Satellite.c","Remote Locator",1,"/players/beck/Rangers/CommandCenter/Remote-Locator.c","Remote Camera",1,"/players/beck/Rangers/CommandCenter/Remote-Camera.c","Fire Suppression System",1,"/players/beck/Rangers/CommandCenter/Fire-Suppression-System.c","Regeneration-Chamber",1,"/players/beck/Rangers/CommandCenter/Regeneration-Chamber.c","Lightning Rod",1,"/players/beck/Rangers/CommandCenter/Lightning-Rod.c",})
-Data ({"Solar Collector 1",3,0,0,1000,"Solar Collector 2",3,0,0,1000,"Solar Collector 3",3,0,0,1000,"Solar Collector 4",3,0,0,1000,"Ion Pulse Cannon 1",3,1,100,10000,"Xenon Refractor Shield 1",3,1,10,10000,"Regeneration-Chamber 1",3,1,0,3000,"Ion Pulse Cannon 2",3,1,100,10000,"Fire Suppression System 1",1,1,"Remote Locator 1",1,0,"Lightning Rod 1",1,1,"Remote Camera 1",1,0,"Spy Satellite 1",1,0,})
+Data ({"Solar Collector 1",3,1,100,200,"Solar Collector 2",3,1,100,200,"Solar Collector 3",3,1,100,200,"Solar Collector 4",3,1,100,200,"Ion Pulse Cannon 1",3,1,100,10000,"Xenon Refractor Shield 1",3,1,10,10000,"Regeneration-Chamber 1",3,1,0,3000,"Ion Pulse Cannon 2",3,1,100,10000,"Fire Suppression System 1",1,1,"Remote Locator 1",1,0,"Lightning Rod 1",1,1,"Remote Camera 1",1,0,"Spy Satellite 1",1,0,})
 titanium 0
 steel 0
 concrete 0
