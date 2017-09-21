@@ -1,10 +1,10 @@
-nrpoints 26396
-totalpoints 26396
+nrpoints 26398
+totalpoints 26398
 np_xlevel 666
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 730
+np_age 509
 lr_period_start 0
 lr_required_exp 0
 lr_exp 0
@@ -49,7 +49,7 @@ head_armor 0
 ghost 0
 dead 0
 whimpy_dir "random"
-local_weight 28
+local_weight 2
 hunted 0
 hunter 0
 hunting_time -386
@@ -62,15 +62,14 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 20257483
+age 20262048
 is_invis 59
 frog 0
 whimpy 0
-auto_load "/players/mythos/amisc/forest/resur.c:^!players/pain/NEW/items/star.c:^!/players/snow/closed/test/aura.c:^!/players/angel/masons/mgob.c:^!/players/maledicta/closed/symbio/clan.c:^!"
+auto_load "/players/maledicta/closed/symbio/clan.c:^!/players/angel/masons/mgob.c:^!/players/snow/closed/test/aura.c:^!players/pain/NEW/items/star.c:^!/players/mythos/amisc/forest/resur.c:^!"
 current_room "room/vill_track"
 alignment 0
 Armors 0
-Weapons 0
 WeaponBonuses 0
 pob_dd 0
 channel_names ({"risque","newbie","shout","equip","junk","announce","pk","msg","wiz","gossip","babble","Masons","lpc",})
@@ -132,7 +131,7 @@ description 0
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Sep 13 17:05 2017"
+lastime "Sep 20 16:06 2017"
 player_killing 1
 invs_count 0
 invs_flag 0
@@ -140,7 +139,7 @@ new_pl_rest 0
 muffled 0
 treasure 0
 treasure_str ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
-pwd "/players/shinshi/"
+pwd "/players/oberon/closed/"
 errormsgs 0
 home "/players/shinshi/workroom.c"
 ex_lv 200
@@ -149,8 +148,8 @@ no_give 0
 aprv "fred,fredisodd,fredfreddiefred"
 hint "Nadda"
 AnsiPref ({"page",0,"tell",0,"gossip","[1;32m","risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,"wiz","[1;31m","cwiz",0,"ls .c",0,"ls .h",0,"ls directory",0,"ls otherFiles",0,"lpc",0,"admin",0,})
-old_last "Sep 12 16:36 2017"
-wiz_soul_light 5
+old_last "Sep 19 16:07 2017"
+wiz_soul_light 1
 present_log "/log/shinshi"
 present_castle "/players/shinshi/castle"
 friends 0

@@ -3,17 +3,17 @@ hcnum 1
 crime 0
 money 0
 luck2 0
-lucky 162
-name "small group of walkers"
+lucky 248
+name "large group of walkers"
 gender 0
 msgin "shambles in"
 msgout "stumbles"
 is_npc 1
 brief 0
-level 23
-armor_class 29
-hit_point 433
-max_hp 1299
+level 24
+armor_class 33
+hit_point 505
+max_hp 1516
 experience 2000000
 mmsgout 0
 mmsgin 0
@@ -29,7 +29,7 @@ local_weight 0
 hunted 0
 hunter 0
 hunting_time 10
-cap_name "Small group of walkers"
+cap_name "Large group of walkers"
 vis_name 0
 spell_points -3724
 max_spell 0
@@ -38,7 +38,7 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 3407
+age 3485
 is_invis 0
 frog 0
 whimpy 0
@@ -46,6 +46,7 @@ auto_load 0
 current_room 0
 alignment -1000
 WeaponBonuses 0
+pob_dd 0
 no_clean 0
 talk_match 0
 talk_func 0
@@ -56,8 +57,8 @@ talk_hold_type 0
 talk_hold_ob 0
 catch_nr 0
 talk_done 0
-short_desc "A Small Group of [1;30mWalking Dead[0;0m"
-long_desc "A Walking Dead Zombie straight from your nightmares. The dead milkyeyes, rotten stink, exposed tissues, and unending appetite for humanflesh are there but more terrifying than you ever realized. Everyinstinct inside you is screaming for you to run from this creature.This is a mob of [1;37m4[0;0m walkers."
+short_desc "A [1;30mLarge Group [0;0mof [1;30mWalking Dead[0;0m"
+long_desc "A Walking Dead Zombie straight from your nightmares. The dead milkyeyes, rotten stink, exposed tissues, and unending appetite for humanflesh are there but more terrifying than you ever realized. Everyinstinct inside you is screaming for you to run from this creature.This is a mob of [1;37m5[0;0m walkers."
 alias 0
 alt_name 0
 race "human"
@@ -72,9 +73,9 @@ my_tot_wc 80
 my_tot_ac 60
 desc_ob 0
 heal_start 0
-heal_rate 38
+heal_rate 44
 heal_intv 3
-autoheal_count 0
+autoheal_count 2
 chat_chance 0
 a_chat_chance 0
 the_text 0
@@ -90,9 +91,9 @@ spell_dam_mon 0
 spell_mess1 0
 spell_mess2 0
 spell_type 0
-armor_params ({"physical",29,0,0,})
-weapon_params ({"physical",45,0,})
-spells ({({"bite","#MN# lunges suddenly and [31m B I T E S[0m you!","#MN# lunges suddenly and [31mB I T E S[0m #TN#!",25,({"1-86",}),({"physical",}),6,0,0,}),({"tackle","#MN# jumps at you and [1;30mtackles[0m you to the ground!","#MN# jumps at #TN# and [1;30mtackles[0m them to the ground!",15,({"1-86",}),({"physical",}),6,0,0,}),})
+armor_params ({"physical",33,0,0,})
+weapon_params ({"physical",50,0,})
+spells ({({"bite","#MN# lunges suddenly and [31m B I T E S[0m you!","#MN# lunges suddenly and [31mB I T E S[0m #TN#!",25,({"1-108",}),({"physical",}),4,0,0,}),({"tackle","#MN# jumps at you and [1;30mtackles[0m you to the ground!","#MN# jumps at #TN# and [1;30mtackles[0m them to the ground!",15,({"1-108",}),({"physical",}),4,0,0,}),})
 multi_cast 0
 saved_hr 2
 saved_hi 35
@@ -102,12 +103,12 @@ corpse_short 0
 corpse_long 0
 corpse_name 0
 death_emote 0
-multipleIds ({"walker","undead","zombie","biter","geek","dead","walking dead","npc","group","small group","horde","horde","horde","swarm","horde","group","small group","swarm","horde","horde","horde","horde","horde","horde","group","small group","horde","horde","horde","group","small group","group","large group","group","small group","group","large group","group","large group","horde","horde","group","large group","group","small group","horde","group","small group","group","small group","group","large group","group","large group","group","large group","group","small group","group","small group","group","large group","group","small group","group","small group","group","small group","swarm","group","large group","horde","swarm","horde","horde","group","large group","horde","group","large group","horde","horde","group","large group","horde","group","small group","swarm","swarm","horde","horde","horde","horde","group","large group","group","small group","swarm","horde","horde","swarm","swarm","horde","horde","swarm","group","small group","swarm","group","small group","group","large group","group","small group","group","small group","group","small group",})
+multipleIds ({"walker","undead","zombie","biter","geek","dead","walking dead","npc","group","small group","horde","horde","horde","swarm","horde","group","small group","swarm","horde","horde","horde","horde","horde","horde","group","small group","horde","horde","horde","group","small group","group","large group","group","small group","group","large group","group","large group","horde","horde","group","large group","group","small group","horde","group","small group","group","small group","group","large group","group","large group","group","large group","group","small group","group","small group","group","large group","group","small group","group","small group","group","small group","swarm","group","large group","horde","swarm","horde","horde","group","large group","horde","group","large group","horde","horde","group","large group","horde","group","small group","swarm","swarm","horde","horde","horde","horde","group","large group","group","small group","swarm","horde","horde","swarm","swarm","horde","horde","swarm","group","small group","swarm","group","small group","group","large group","group","small group","group","small group","group","small group","swarm","group","small group","swarm","swarm","group","large group",})
 wimpy_health 0
 wimpy_chance 0
 wimpy_exit 0
 wimpy_msg 0
 luck 0
 busy_catch_tell 0
-walker_level 23
-timestamp 1505689492
+walker_level 24
+timestamp 1506004813

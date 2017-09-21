@@ -6,15 +6,15 @@ total_level_pks 0
 best_xp 0
 old_exp 0
 stored_mon 0
-mp 89
+mp 300
 symb_name "sandstorm"
-oldtitle "the [1;35mLegend[0m[0m"
-oldpretitle "[1;31mHeart[0m made of [1;30mParasites[0m,[0m"
-oldalign "neutral"
-bitestat 16
-slamstat 246
+oldtitle 0
+oldpretitle 0
+oldalign 0
+bitestat 107
+slamstat 2690
 absorbstat 0
 shapestat 0
 burnstat 0
-hyperstat 0
-changestat 4
+hyperstat 41
+changestat 7

@@ -94,3 +94,20 @@
 2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
 2017.09.11 07:01:50 call_out: user 'mizan' had an error: rescheduling call_out.
 2017.09.15 19:27:45 Error (104) upon reading socket 8 (ip 0x947d954 'obj/player#17870'), closing connection: Connection reset by peer
+2017.09.20 12:08:14 Index for [] out of bounds: 198, vector size: 198
+2017.09.20 12:08:14 program: players/mizan/core/objectDM.c, object: players/mizan/core/objectDM line 603
+'limited_issue_check' in 'players/mizan/core/weapon.c' ('players/mizan/etheriel/items/cardboard-tube') line 114
+'count_object_instances' in 'players/mizan/core/objectDM.c' ('players/mizan/core/objectDM') line 603
+2017.09.20 12:08:14 Error in call out.
+2017.09.20 12:08:14 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.20 12:08:14 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.20 12:08:14 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.20 12:08:15 Index for [] out of bounds: 198, vector size: 198
+2017.09.20 12:08:15 program: players/mizan/core/objectDM.c, object: players/mizan/core/objectDM line 603
+'limited_issue_check' in 'players/mizan/core/weapon.c' ('players/mizan/etheriel/items/cardboard-tube#22011') line 114
+'count_object_instances' in 'players/mizan/core/objectDM.c' ('players/mizan/core/objectDM') line 603
+2017.09.20 12:08:15 Error in call out.
+2017.09.20 12:08:15 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.20 12:08:15 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.20 12:08:15 call_out: user 'mizan' had an error: rescheduling call_out.
+2017.09.20 12:08:15 call_out: user 'mizan' had an error: rescheduling call_out.

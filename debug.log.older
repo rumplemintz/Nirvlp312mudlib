@@ -1,14 +1,13 @@
-Host unreachable detected.
-Bad argument 1 to call_other()
-Current object was players/jenny/wings/mobs/closed/kelly#6837, line 71
-"heart_beat" in "players/jenny/wings/mobs/closed/kelly.c" ("players/jenny/wings/mobs/closed/kelly#6837") line 65
-Heart beat in players/jenny/wings/mobs/closed/kelly#6837 turned off.
-Bad argument 2 to tell_object()
-Current object was players/sami/area/coinarea/npc/death#5585, line 446
-"heart_beat" in "players/sami/area/coinarea/npc/death.c" ("players/sami/area/coinarea/npc/death#5585") line 80
-"::heart_beat" in "obj/monster" ("players/sami/area/coinarea/npc/death#5585") line 348
-"attack" in "obj/monster" ("players/sami/area/coinarea/npc/death#5585") line 1083
-"execute_spell" in "obj/monster" ("players/sami/area/coinarea/npc/death#5585") line 1062
-error when executing program in destroyed object players/sami/area/coinarea/npc/death#5585
-Heart beat in players/sami/area/coinarea/npc/death#5585 turned off.
-Host unreachable detected.
+Bad argument 1 to environment()
+Current object was players/pestilence/closed/dark/obj/madness#3398, line 153
+"do_madness" in "players/pestilence/closed/dark/obj/madness.c" ("players/pestilence/closed/dark/obj/madness#3398") line 91
+Error in call out.
+Bad argument 1 to environment()
+Current object was players/jareel/monsters/YELMALIAN/general#3923, line 132
+"heart_beat" in "players/jareel/monsters/YELMALIAN/general.c" ("players/jareel/monsters/YELMALIAN/general#3923") line 62
+"V_stab" in "players/jareel/monsters/YELMALIAN/general.c" ("players/jareel/monsters/YELMALIAN/general#3923") line 69
+error when executing program in destroyed object players/jareel/monsters/YELMALIAN/general#3923
+Heart beat in players/jareel/monsters/YELMALIAN/general#3923 turned off.
+Connection timed out detected.
+Connection timed out detected.
+Connection timed out detected.

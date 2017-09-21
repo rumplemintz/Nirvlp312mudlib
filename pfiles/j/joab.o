@@ -1,10 +1,10 @@
-nrpoints 1045213
-totalpoints 1295213
+nrpoints 1045215
+totalpoints 1295215
 np_xlevel 100
 nbday "071207"
 rlbday 0
 penalty_left 0
-np_age 185
+np_age 367
 lr_period_start 1505665271
 lr_required_exp 250000
 lr_exp 0
@@ -60,7 +60,7 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 23697285
+age 23704488
 is_invis 0
 frog 0
 whimpy 25
@@ -140,7 +140,7 @@ pwd 0
 errormsgs 0
 home "/players/guilds/Rangers/CommandCenter/CommandCenter.c"
 ex_lv 100
-qc 0
+qc 1
 no_give 0
 aprv 0
 hint "S8"

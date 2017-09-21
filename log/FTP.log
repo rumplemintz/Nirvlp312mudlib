@@ -15441,3 +15441,36 @@ bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
 1284: begat 26015 at Mon Sep 18 15:30:51 2017
 26015: <none> sent AUTH TLS at Mon Sep 18 15:30:52 2017
 1284: reaped 26015 at Mon Sep 18 15:30:52 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from sky.census.shodan.io [80.82.77.33] at port 45160 at Tue Sep 19 03:54:50 2017
+1284: begat 1161 at Tue Sep 19 03:54:50 2017
+1161: <none> sent GET / HTTP/1.1 at Tue Sep 19 03:54:51 2017
+1161: <none> sent Host: 174.137.154.70:3000 at Tue Sep 19 03:54:51 2017
+1161: <none> sent Accept-Encoding: identity at Tue Sep 19 03:54:51 2017
+1161: <none> sent Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 at Tue Sep 19 03:54:51 2017
+1161: <none> sent User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36 at Tue Sep 19 03:54:51 2017
+1161: <none> sent  at Tue Sep 19 03:54:51 2017
+1284: reaped 1161 at Tue Sep 19 03:54:59 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 17.b8.35a9.ip4.static.sl-reverse.com [169.53.184.23] at port 60280 at Tue Sep 19 10:35:41 2017
+1284: begat 5909 at Tue Sep 19 10:35:41 2017
+5909: <none> sent GET / HTTP/1. at Tue Sep 19 10:35:42 2017
+5909: <none> sent Host: nirvana.beanos.co at Tue Sep 19 10:35:42 2017
+5909: <none> sent  at Tue Sep 19 10:35:42 2017
+1284: reaped 5909 at Tue Sep 19 10:35:51 2017
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+bind: Address already in use at /home/petebre/mymud/ftpd/mftpd.pl line 75.
+1284: connection from 1c.b8.35a9.ip4.static.sl-reverse.com [169.53.184.28] at port 35364 at Thu Sep 21 07:12:05 2017
+1284: begat 875 at Thu Sep 21 07:12:05 2017
+875: <none> sent GET / HTTP/1. at Thu Sep 21 07:12:06 2017
+875: <none> sent Host: nirvana.beanos.co at Thu Sep 21 07:12:06 2017
+875: <none> sent  at Thu Sep 21 07:12:06 2017
+1284: reaped 875 at Thu Sep 21 07:12:15 2017
+1284: connection from 196.52.43.63 [196.52.43.63] at port 10000 at Thu Sep 21 10:15:10 2017
+1284: begat 3267 at Thu Sep 21 10:15:10 2017
+3267: <none> sent AUTH TLS at Thu Sep 21 10:15:11 2017
+1284: reaped 3267 at Thu Sep 21 10:15:11 2017

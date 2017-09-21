@@ -1,10 +1,10 @@
-nrpoints 979272
-totalpoints 1004272
+nrpoints 979380
+totalpoints 1004380
 np_xlevel 100000
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 824
+np_age 779
 lr_period_start 0
 lr_required_exp 0
 lr_exp 0
@@ -62,11 +62,11 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 4277096
+age 4375069
 is_invis 0
 frog 0
 whimpy 0
-auto_load "players/pain/NEW/items/star.c:^!/players/angel/masons/mgob.c:^!/players/guilds/Rangers/HonorRangerCommunicator:^!/players/snow/closed/test/aura.c:^!/players/earwax/closed/TRACKER/loader:0^!"
+auto_load "/players/earwax/closed/TRACKER/loader:0^!/players/snow/closed/test/aura.c:^!/players/guilds/Rangers/HonorRangerCommunicator:^!/players/angel/masons/mgob.c:^!players/pain/NEW/items/star.c:^!"
 current_room "players/fred/closed/venom/symb_room"
 alignment 0
 Armors 0
@@ -105,7 +105,7 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm 0
-hostname "c-73-240-44-63.hsd1.or.comcast.net"
+hostname "50-196-21-9-static.hfc.comcastbusiness.net"
 ok_edit "none#"
 mailaddr "none"
 saved_where 0
@@ -126,13 +126,13 @@ fight_area 0
 mon 3
 phys_at ({1,6,2,200,0,0,})
 no_spell 0
-called_from_ip "73.240.44.63"
+called_from_ip "50.196.21.9"
 msghome "fades into the Pattern"
 description 0
 clan_name 0
 clan_master 0
 clan_file 0
-lastime "Sep 17 12:35 2017"
+lastime "Sep 20 08:32 2017"
 player_killing 1
 invs_count 0
 invs_flag 0
@@ -140,7 +140,7 @@ new_pl_rest 0
 muffled 0
 treasure 0
 treasure_str ({0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
-pwd "/players/earwax/closed/TRACKER/bin/"
+pwd "/players/fred/closed/venom/obj/"
 errormsgs 0
 home "/players/oberon/workroom"
 ex_lv 100
@@ -149,7 +149,7 @@ no_give 0
 aprv "dragnar,rumplemintz,shinshi"
 hint "nonya"
 AnsiPref ({"page",0,"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,"wiz",0,"lpc",0,"cwiz",0,"ls .c",0,"ls .h",0,"ls directory",0,"ls otherFiles",0,"admin",0,})
-old_last "Sep 16 12:57 2017"
+old_last "Sep 19 09:03 2017"
 wiz_soul_light 1
 present_log "/log/oberon"
 present_castle "/players/oberon/castle"

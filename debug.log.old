@@ -1,16 +1,12 @@
-Division by zero
-Current object was players/jareel/monsters/chaos/woods2/skeleton#2817, line 33
-"heart_beat" in "players/jareel/monsters/chaos/woods2/skeleton.c" ("players/jareel/monsters/chaos/woods2/skeleton#2817") line 51
-"::heart_beat" in "players/vertebraker/closed/std/monster.c" ("players/jareel/monsters/chaos/woods2/skeleton#2817") line 366
-"::heart_beat" in "obj/monster.c" ("players/jareel/monsters/chaos/woods2/skeleton#2817") line 330
-Heart beat in players/jareel/monsters/chaos/woods2/skeleton#2817 turned off.
+Connection timed out detected.
+Bad argument 1 to call_other()
+Current object was players/jenny/wings/items/gstick#5252, line 31
+"heart_beat" in "players/jenny/wings/mobs/closed/ghowe.c" ("players/jenny/wings/mobs/closed/ghowe#5248") line 78
+"attack" in "obj/monster.c" ("players/jenny/wings/mobs/closed/ghowe#5248") line 1102
+"::attack" in "obj/living.c" ("players/jenny/wings/mobs/closed/ghowe#5248") line 2010
+"hit" in "obj/weapon.c" ("players/jenny/wings/items/gstick#5252") line 378
+"weapon_hit" in "players/jenny/wings/items/gstick.c" ("players/jenny/wings/items/gstick#5252") line 52
+error when executing program in destroyed object players/jenny/wings/mobs/closed/ghowe#5248
+Heart beat in players/jenny/wings/mobs/closed/ghowe#5248 turned off.
 Connection timed out detected.
 Connection timed out detected.
-Connection timed out detected.
-Bad argument 1 to environment()
-Current object was players/jareel/monsters/town/kassea#6084, line 99
-"heart_beat" in "players/jareel/monsters/town/kassea.c" ("players/jareel/monsters/town/kassea#6084") line 72
-"K_heal" in "players/jareel/monsters/town/kassea.c" ("players/jareel/monsters/town/kassea#6084") line 91
-error when executing program in destroyed object players/jareel/monsters/town/kassea#6084
-Heart beat in players/jareel/monsters/town/kassea#6084 turned off.
-Connection reset by peer detected.

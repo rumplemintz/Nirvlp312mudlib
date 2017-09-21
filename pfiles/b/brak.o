@@ -4,8 +4,8 @@ np_xlevel 100
 nbday "091607"
 rlbday 0
 penalty_left 0
-np_age 123
-lr_period_start 1504487137
+np_age 371
+lr_period_start 1506004369
 lr_required_exp 250000
 lr_exp 0
 lr_top_exp 1068303
@@ -47,10 +47,10 @@ shield_ob 0
 ghost 0
 dead 0
 whimpy_dir "random"
-local_weight 84
+local_weight 78
 hunted 0
 hunter 0
-hunting_time -681
+hunting_time -745
 cap_name "Brak"
 vis_name "Brak"
 spell_points 364
@@ -60,12 +60,12 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 1341964
+age 1342212
 is_invis 0
 frog 0
 whimpy 0
 auto_load "/players/mokri/clans/object.c:^!/players/snow/closed/test/aura.c:^!/players/angel/masons/mgob.c:^!players/pain/NEW/items/star.c:^!/players/earwax/closed/TRACKER/loader:0^!"
-current_room "room/vill_green"
+current_room "/players/jareel/areas/chaos/woods2/cwf7"
 alignment 0
 WeaponBonuses 0
 pob_dd 0
@@ -101,7 +101,7 @@ nirvana_points 0
 clan 0
 sig 0
 wkrm 0
-hostname "c-73-240-44-63.hsd1.or.comcast.net"
+hostname "50-196-21-9-static.hfc.comcastbusiness.net"
 ok_edit "none#"
 mailaddr "none"
 saved_where 0
@@ -122,20 +122,20 @@ fight_area 0
 mon 3
 phys_at ({1,6,2,220,0,0,})
 no_spell 1
-called_from_ip "73.240.44.63"
+called_from_ip "50.196.21.9"
 msghome "goes home"
 description 0
 clan_name "hatchetmen"
 clan_master 0
 clan_file 0
-lastime "Sep  3 20:05 2017"
+lastime "Sep 21 09:38 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
 new_pl_rest 0
 muffled 0
 treasure 0
-treasure_str ({"players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/SoulboundObjects/ARMOR/DemonCloakBinding#brak$0@0","players/maledicta/cont/rdragon/sbracers#-1-$0@0","players/zeus/museum/OBJ/bug_ring#0$0@0","players/khrell/armors/skaven/warpamulet#0$0@0","players/sami/area/coinarea/obj/armor/ubelt#0$0@0","players/jaraxle/3rd/alt/items/water#0$0@0","players/mosobp/areas/BATTLE/OBJ/eaura#0$0@0","players/angel/area/school/obj/flow_scarf_01#0$0@0","players/jaraxle/closed/phoenix/mask#0$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0",0,0,})
+treasure_str ({"players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/heals/YELMALIAN/lthpts#10$0@0","players/jareel/SoulboundObjects/ARMOR/DemonCloakBinding#brak$0@0","players/maledicta/cont/rdragon/sbracers#-1-$0@0","players/zeus/museum/OBJ/bug_ring#0$0@0","players/khrell/armors/skaven/warpamulet#0$0@0","players/sami/area/coinarea/obj/armor/ubelt#0$0@0","players/jaraxle/3rd/alt/items/water#0$0@0","players/mosobp/areas/BATTLE/OBJ/eaura#0$0@0","players/angel/area/school/obj/flow_scarf_01#0$0@0","players/jaraxle/closed/phoenix/mask#0$0@0",0,0,})
 pwd 0
 errormsgs 0
 home "/players/guilds/Rangers/CommandCenter/CommandCenter.c"
@@ -145,7 +145,7 @@ no_give 0
 aprv 0
 hint "none"
 AnsiPref ({"page",0,"tell",0,"gossip",0,"risque",0,"junk",0,"babble",0,"newbie",0,"msg",0,"announce",0,"equip",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Jul 22 12:01 2017"
+old_last "Sep 21 09:32 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0

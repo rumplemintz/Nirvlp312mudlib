@@ -1,47 +1,47 @@
-Restart 31. Sun Sep 17 06:05:08 CDT 2017
+Restart 34. Wed Sep 20 06:05:08 CDT 2017
 Loading init file room/init_file
 Preloading: closed/wiz_soul.c 0.00
-Preloading: obj/armor 0.02
+Preloading: obj/armor 0.00
 Preloading: obj/clean 0.00
-Preloading: obj/living.c 0.02
+Preloading: obj/living.c 0.03
 Preloading: obj/monster 0.02
 Preloading: obj/monster_lars 0.02
 Preloading: obj/player 0.13
 Preloading: obj/soul.c 0.00
 Preloading: obj/treasure 0.00
-Preloading: obj/weapon 0.00
+Preloading: obj/weapon 0.02
 Preloading: room/adv_guild 0.02
-Preloading: room/church 0.02
-Preloading: room/vill_green 0.02
+Preloading: room/church 0.00
+Preloading: room/vill_green 0.03
 Preloading: room/exlv_guild 0.00
-Preloading: room/prison 0.02
+Preloading: room/prison 0.00
 Preloading: room/quest_room.c 0.00
-Preloading: players/bastion/closed/ring.c 0.00
+Preloading: players/bastion/closed/ring.c 0.02
 Preloading: players/bastion/closed/ringz.c 0.00
 Preloading: players/boltar/hotel/hotel.c 0.05
 Preloading: players/boltar/lv1/eat_maker 0.03
 Preloading: players/boltar/templar/sponsor.c 0.00
 Preloading: players/boltar/things/hoth 0.00
-Preloading: players/boltar/xmas.c 0.00
-Preloading: players/dragnar/tmnt.c 0.12
+Preloading: players/boltar/xmas.c 0.02
+Preloading: players/dragnar/tmnt.c 0.08
 Preloading: players/eurale/Keep/OBJ/poison.c 0.00
 Preloading: players/eurale/VAMPIRES/vampob.c 0.00
-Preloading: players/feldegast/healers/gob.c 0.02
+Preloading: players/feldegast/healers/gob.c 0.00
 Preloading: players/guilds/bards/button.c 0.00
-Preloading: players/guilds/bards/instrument.c 0.00
-Preloading: players/guilds/dopplegangers/guildob.c 0.02
+Preloading: players/guilds/bards/instrument.c 0.02
+Preloading: players/guilds/dopplegangers/guildob.c 0.00
 Preloading: players/nooneelse/black/vampire_fangs.c 0.02
-Preloading: players/sado/shop/drunk.c 0.00
+Preloading: players/sado/shop/drunk.c 0.02
 Preloading: players/aislinn/castle.c 0.00
 Preloading: players/angmar/castle.c 0.00
 Preloading: players/kantele/castle.c 0.02
 Preloading: players/morgar/castle.c 0.00
-Preloading: players/padrone/castle.c 0.02
-Preloading: players/quantos/castle.c 0.00
-Preloading: players/airwoman/castle.c 0.00
-Preloading: players/angel/castle.c 0.02
-Preloading: players/anshar/castle.c 0.02
-Preloading: players/arrina/castle.c 0.00
+Preloading: players/padrone/castle.c 0.00
+Preloading: players/quantos/castle.c 0.02
+Preloading: players/airwoman/castle.c 0.02
+Preloading: players/angel/castle.c 0.00
+Preloading: players/anshar/castle.c 0.00
+Preloading: players/arrina/castle.c 0.02
 Preloading: players/astaroth/castle.c 0.00
 Preloading: players/bagera/castle.c 0.00
 Preloading: players/bastion/castle.c 0.00
@@ -49,34 +49,34 @@ Preloading: players/beck/castle.c 0.07
 Preloading: players/beren/castle.c 0.00
 Preloading: players/blackadder/castle.c 0.00
 Preloading: players/blue/castle.c 0.00
-Preloading: players/boltar/castle.c 0.07
-Preloading: players/brittany/castle.c 0.00
+Preloading: players/boltar/castle.c 0.05
+Preloading: players/brittany/castle.c 0.02
 Preloading: players/catacomb/castle.c 0.00
-Preloading: players/catt/castle.c 0.00
-Preloading: players/catwoman/castle.c 0.02
+Preloading: players/catt/castle.c 0.02
+Preloading: players/catwoman/castle.c 0.00
 Preloading: players/chip/castle.c 0.00
-Preloading: players/cloud/castle.c 0.02
+Preloading: players/cloud/castle.c 0.00
 Preloading: players/coldwind/castle.c 0.00
-Preloading: players/cosmo/castle.c 0.00
+Preloading: players/cosmo/castle.c 0.02
 Preloading: players/cyrex/castle.c 0.00
-Preloading: players/daranath/castle.c 0.02
+Preloading: players/daranath/castle.c 0.03
 Preloading: players/deathmonger/castle.c 0.02
 Preloading: players/dersharp/castle.c 0.00
-Preloading: players/doctor/castle.c 0.02
+Preloading: players/doctor/castle.c 0.00
 Preloading: players/dragnar/castle.c 0.00
-Preloading: players/dreamspeakr/castle.c 0.00
+Preloading: players/dreamspeakr/castle.c 0.02
 Preloading: players/dune/castle.c 0.05
 Preloading: players/dusan/castle.c 0.00
-Preloading: players/earwax/castle.c 0.02
+Preloading: players/earwax/castle.c 0.00
 Preloading: players/emerson/castle.c 0.00
-Preloading: players/eurale/castle.c 0.03
+Preloading: players/eurale/castle.c 0.05
 Preloading: players/fakir/castle.c 0.00
 Preloading: players/feldegast/castle.c 0.00
 Preloading: players/forbin/castle.c 0.02
 Preloading: players/francesco/castle.c 0.02
 Preloading: players/fred/castle.c 0.17
 Preloading: players/gemini/castle.c 0.00
-Preloading: players/gowron/castle.c 0.00
+Preloading: players/gowron/castle.c 0.02
 Preloading: players/grimm/castle.c 0.00
 Preloading: players/hagbard/castle.c 0.00
 Preloading: players/haji/castle.c 0.03
@@ -86,63 +86,63 @@ Preloading: players/hippo/castle.c 0.00
 Preloading: players/hogath/castle.c 0.00
 Preloading: players/humble/castle.c 0.00
 Preloading: players/hurtbrain/castle.c 0.00
-Preloading: players/illarion/castle.c 0.02
-Preloading: players/jamila/castle.c 0.00
+Preloading: players/illarion/castle.c 0.00
+Preloading: players/jamila/castle.c 0.02
 Preloading: players/jara/castle.c 0.00
 Preloading: players/jaraxle/castle.c 0.00
-Preloading: players/jareel/castle.c 0.02
+Preloading: players/jareel/castle.c 0.00
 Preloading: players/jenny/castle.c 0.02
 Preloading: players/karash/castle.c 0.00
 Preloading: players/katya/castle.c 0.00
 Preloading: players/khrell/castle.c 0.00
 Preloading: players/lacar/castle.c 0.00
-Preloading: players/laera/castle.c 0.00
+Preloading: players/laera/castle.c 0.02
 Preloading: players/languilen/castle.c 0.00
 Preloading: players/lew/castle.c 0.02
 Preloading: players/linus/castle.c 0.00
-Preloading: players/llew/castle.c 0.00
-Preloading: players/maledicta/castle.c 0.05
+Preloading: players/llew/castle.c 0.02
+Preloading: players/maledicta/castle.c 0.03
 Preloading: players/martha/castle.c 0.00
 Preloading: players/mistress/castle.c 0.00
-Preloading: players/mizan/castle.c 0.05
+Preloading: players/mizan/castle.c 0.07
 Preloading: players/molasar/castle.c 0.00
 Preloading: players/morgoth/castle.c 0.00
 Preloading: players/mosobp/castle.c 0.00
-Preloading: players/mouzar/castle.c 0.02
-Preloading: players/mythos/castle.c 0.15
+Preloading: players/mouzar/castle.c 0.00
+Preloading: players/mythos/castle.c 0.18
 Preloading: players/nightshade/castle.c 0.00
 Preloading: players/nooneelse/castle.c 0.00
 Preloading: players/oberon/castle.c 0.00
-Preloading: players/pain/castle.c 0.03
+Preloading: players/pain/castle.c 0.02
 Preloading: players/pathfinder/castle.c 0.02
 Preloading: players/paulasx/castle.c 0.00
-Preloading: players/pavlik/castle.c 0.02
-Preloading: players/persephone/castle.c 0.00
+Preloading: players/pavlik/castle.c 0.00
+Preloading: players/persephone/castle.c 0.02
 Preloading: players/pestilence/castle.c 0.05
-Preloading: players/puppy/castle.c 0.02
+Preloading: players/puppy/castle.c 0.00
 Preloading: players/rich/castle.c 0.00
-Preloading: players/saber/castle.c 0.05
-Preloading: players/sado/castle.c 0.05
+Preloading: players/saber/castle.c 0.07
+Preloading: players/sado/castle.c 0.03
 Preloading: players/sami/castle.c 0.00
 Preloading: players/sandman/castle.c 0.00
 Preloading: players/scathe/castle.c 0.00
-Preloading: players/shinshi/castle.c 0.02
+Preloading: players/shinshi/castle.c 0.03
 Preloading: players/snakespear/castle.c 0.02
-Preloading: players/snow/castle.c 0.02
+Preloading: players/snow/castle.c 0.00
 Preloading: players/softly/castle.c 0.00
-Preloading: players/sparrow/castle.c 0.00
-Preloading: players/star/castle.c 0.00
-Preloading: players/stark/castle.c 0.02
+Preloading: players/sparrow/castle.c 0.02
+Preloading: players/star/castle.c 0.02
+Preloading: players/stark/castle.c 0.00
 Preloading: players/traff/castle.c 0.00
 Preloading: players/tristian/castle.c 0.00
 Preloading: players/trix/castle.c 0.00
-Preloading: players/ultramagnus/castle.c 0.00
-Preloading: players/unsane/castle.c 0.02
+Preloading: players/ultramagnus/castle.c 0.02
+Preloading: players/unsane/castle.c 0.00
 Preloading: players/valen/castle.c 0.00
 Preloading: players/vertebraker/castle.c 0.17
-Preloading: players/vital/castle.c 0.07
+Preloading: players/vital/castle.c 0.03
 Preloading: players/wicket/castle.c 0.02
-Preloading: players/wizardchild/castle.c 0.00
+Preloading: players/wizardchild/castle.c 0.02
 Preloading: players/wocket/castle.c 0.02
 Preloading: players/wren/castle.c 0.00
 Preloading: players/zeus/castle.c 0.05
@@ -154,103 +154,102 @@ clean_up called on 0 objects.
 clean_up called on 0 objects.
 clean_up called on 0 objects.
 clean_up called on 0 objects.
-clean_up called on 199 objects.
+clean_up called on 164 objects.
 clean_up called on 10 objects.
 clean_up called on 0 objects.
 clean_up called on 0 objects.
-clean_up called on 3 objects.
-clean_up called on 29 objects.
-clean_up called on 53 objects.
-"heart_beat" in "players/jareel/monsters/chaos/woods2/skeleton.c" ("players/jareel/monsters/chaos/woods2/skeleton#2817") line 51
-"::heart_beat" in "players/vertebraker/closed/std/monster.c" ("players/jareel/monsters/chaos/woods2/skeleton#2817") line 366
-"::heart_beat" in "obj/monster.c" ("players/jareel/monsters/chaos/woods2/skeleton#2817") line 330
+clean_up called on 2 objects.
+clean_up called on 37 objects.
+clean_up called on 54 objects.
+clean_up called on 52 objects.
+clean_up called on 42 objects.
+clean_up called on 9 objects.
+clean_up called on 61 objects.
+clean_up called on 40 objects.
+clean_up called on 39 objects.
+clean_up called on 43 objects.
+clean_up called on 38 objects.
+comm1: write EPIPE detected
+clean_up called on 14 objects.
+clean_up called on 40 objects.
+clean_up called on 54 objects.
+clean_up called on 50 objects.
+clean_up called on 45 objects.
+clean_up called on 51 objects.
+clean_up called on 44 objects.
+clean_up called on 65 objects.
+clean_up called on 61 objects.
+clean_up called on 52 objects.
+clean_up called on 47 objects.
+clean_up called on 57 objects.
+clean_up called on 42 objects.
+clean_up called on 57 objects.
+clean_up called on 58 objects.
+clean_up called on 60 objects.
+clean_up called on 57 objects.
+clean_up called on 39 objects.
+clean_up called on 35 objects.
+clean_up called on 33 objects.
+clean_up called on 39 objects.
+clean_up called on 62 objects.
 clean_up called on 49 objects.
-clean_up called on 136 objects.
-comm1: write EPIPE detected
-clean_up called on 144 objects.
-clean_up called on 79 objects.
-clean_up called on 127 objects.
-clean_up called on 110 objects.
-clean_up called on 117 objects.
-clean_up called on 102 objects.
-clean_up called on 79 objects.
+clean_up called on 42 objects.
+clean_up called on 30 objects.
 clean_up called on 73 objects.
-clean_up called on 103 objects.
-clean_up called on 78 objects.
-clean_up called on 85 objects.
+clean_up called on 44 objects.
+clean_up called on 43 objects.
+clean_up called on 39 objects.
+clean_up called on 37 objects.
+clean_up called on 26 objects.
+clean_up called on 53 objects.
 clean_up called on 89 objects.
-clean_up called on 78 objects.
-comm1: write EPIPE detected
-clean_up called on 70 objects.
-clean_up called on 100 objects.
-comm1: write EPIPE detected
-clean_up called on 91 objects.
-clean_up called on 91 objects.
-clean_up called on 75 objects.
-clean_up called on 67 objects.
-clean_up called on 46 objects.
-clean_up called on 84 objects.
-clean_up called on 140 objects.
-clean_up called on 115 objects.
-clean_up called on 89 objects.
-clean_up called on 87 objects.
-clean_up called on 93 objects.
-clean_up called on 122 objects.
-clean_up called on 118 objects.
-clean_up called on 128 objects.
-"heart_beat" in "players/jareel/monsters/town/kassea.c" ("players/jareel/monsters/town/kassea#6084") line 72
-"K_heal" in "players/jareel/monsters/town/kassea.c" ("players/jareel/monsters/town/kassea#6084") line 91
-clean_up called on 102 objects.
-clean_up called on 101 objects.
-clean_up called on 69 objects.
-clean_up called on 114 objects.
-clean_up called on 108 objects.
-clean_up called on 127 objects.
+"heart_beat" in "players/jenny/wings/mobs/closed/ghowe.c" ("players/jenny/wings/mobs/closed/ghowe#5248") line 78
+"attack" in "obj/monster.c" ("players/jenny/wings/mobs/closed/ghowe#5248") line 1102
+"::attack" in "obj/living.c" ("players/jenny/wings/mobs/closed/ghowe#5248") line 2010
+"hit" in "obj/weapon.c" ("players/jenny/wings/items/gstick#5252") line 378
+"weapon_hit" in "players/jenny/wings/items/gstick.c" ("players/jenny/wings/items/gstick#5252") line 52
 clean_up called on 121 objects.
-clean_up called on 86 objects.
-clean_up called on 74 objects.
-clean_up called on 125 objects.
-clean_up called on 120 objects.
-clean_up called on 129 objects.
-clean_up called on 120 objects.
-clean_up called on 98 objects.
-clean_up called on 87 objects.
-comm1: write EPIPE detected
-clean_up called on 112 objects.
-clean_up called on 122 objects.
-clean_up called on 117 objects.
-clean_up called on 116 objects.
-clean_up called on 91 objects.
-clean_up called on 83 objects.
-clean_up called on 100 objects.
-clean_up called on 90 objects.
-clean_up called on 114 objects.
-clean_up called on 99 objects.
-clean_up called on 84 objects.
-clean_up called on 89 objects.
-clean_up called on 143 objects.
-clean_up called on 125 objects.
-clean_up called on 142 objects.
-clean_up called on 114 objects.
-clean_up called on 100 objects.
-clean_up called on 104 objects.
-clean_up called on 129 objects.
-clean_up called on 125 objects.
-clean_up called on 139 objects.
-clean_up called on 124 objects.
-clean_up called on 97 objects.
-clean_up called on 100 objects.
+clean_up called on 41 objects.
+clean_up called on 65 objects.
 clean_up called on 113 objects.
-clean_up called on 123 objects.
-clean_up called on 126 objects.
-clean_up called on 120 objects.
-clean_up called on 93 objects.
-clean_up called on 93 objects.
-clean_up called on 105 objects.
+clean_up called on 153 objects.
+clean_up called on 109 objects.
+clean_up called on 109 objects.
+clean_up called on 138 objects.
+clean_up called on 69 objects.
 clean_up called on 110 objects.
+clean_up called on 99 objects.
 clean_up called on 114 objects.
-clean_up called on 119 objects.
-clean_up called on 123 objects.
-clean_up called on 119 objects.
+clean_up called on 80 objects.
+clean_up called on 76 objects.
+clean_up called on 69 objects.
+clean_up called on 73 objects.
+clean_up called on 61 objects.
+clean_up called on 96 objects.
+clean_up called on 68 objects.
+clean_up called on 71 objects.
+comm1: write EPIPE detected
+clean_up called on 51 objects.
+clean_up called on 73 objects.
+clean_up called on 111 objects.
+clean_up called on 134 objects.
 clean_up called on 105 objects.
+clean_up called on 67 objects.
+comm1: write EPIPE detected
+clean_up called on 103 objects.
+clean_up called on 91 objects.
+clean_up called on 81 objects.
+clean_up called on 101 objects.
+clean_up called on 96 objects.
+clean_up called on 73 objects.
+clean_up called on 74 objects.
+clean_up called on 128 objects.
+clean_up called on 70 objects.
+clean_up called on 85 objects.
+clean_up called on 95 objects.
+clean_up called on 78 objects.
+clean_up called on 69 objects.
+clean_up called on 88 objects.
+clean_up called on 75 objects.
+clean_up called on 81 objects.
 Shutting down ipc...

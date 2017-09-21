@@ -1,10 +1,10 @@
-nrpoints 75486
-totalpoints 75486
+nrpoints 75489
+totalpoints 75489
 np_xlevel 100
 nbday "081516"
 rlbday 0
 penalty_left 0
-np_age 617
+np_age 162
 lr_period_start 1505696211
 lr_required_exp 250000
 lr_exp 0
@@ -52,7 +52,7 @@ whimpy_dir "random"
 local_weight 33
 hunted 0
 hunter 0
-hunting_time -348
+hunting_time -354
 cap_name "Charm"
 vis_name "Charm"
 spell_points 514
@@ -62,7 +62,7 @@ disallow_give 0
 spell_cost 0
 spell_dam 0
 spell_dtype 0
-age 7818989
+age 7825708
 is_invis 0
 frog 0
 whimpy 50
@@ -70,6 +70,7 @@ auto_load "/players/mokri/clans/object.c:^!players/boltar/sprooms/clinic/boobs:l
 current_room "room/vill_green"
 alignment 0
 Armors 0
+Weapons 0
 WeaponBonuses 0
 pob_dd 0
 channel_names ({"msg","risque","newbie","shout","gossip","junk",})
@@ -131,7 +132,7 @@ description "stands before the souls that are in pain. When looking upon her you
 clan_name "arcane"
 clan_master 0
 clan_file 0
-lastime "Sep 17 19:56 2017"
+lastime "Sep 20 20:51 2017"
 player_killing 0
 invs_count 0
 invs_flag 0
@@ -148,7 +149,7 @@ no_give 0
 aprv 0
 hint "cat"
 AnsiPref ({"tell","[1;35m","gossip","[1;33m","risque","[1;31m","junk","[37m","babble",0,"newbie",0,"msg",0,"announce","[1;34m","equip",0,"page",0,"pk",0,"title",0,"pretitle",0,})
-old_last "Sep 16 21:43 2017"
+old_last "Sep 20 13:30 2017"
 wiz_soul_light 0
 present_log 0
 present_castle 0
